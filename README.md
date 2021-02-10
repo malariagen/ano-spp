@@ -20,3 +20,10 @@ A targeted amplicon sequencing panel to simultaneously identify mosquito species
 - [7_species_id](work/7_species_id) - multiple species dataset exploration, clustering-based species ID, species tree
 - [8_ag1k_analysis](work/8_ag1k_analysis) - Ag1000g population structure and diversity based on amplicon sequences
 - [9_coi_its](work/9_coi_its) - COI and ITS2 Sanger sequencing data analysis for species ID confirmation, within-species diversity estimates
+
+## Key data files and figures
+ 
+- panel design: long version of [amplicon annotation table](data/panel_extended_info.csv), [synteny plot](work/5_synteny_plot/synteny_plot.svg)
+- multiple species dataset: [haplotypes](work/7_species_id/data/0_haplotypes.csv), [sample metadata](work/7_species_id/data/0_samples.csv), clustering-based [species predictions](work/7_species_id/data/4_spp_predictions.csv), [species tree](work/7_species_id/data/6_species_tree.pdf)
+- Ag1000g exploration: [fsts](work/8_ag1k_analysis/data/fsts.csv), [population diversity estimates](work/8_ag1k_analysis/data/diversity.csv)
+- species ID validation with COI and ITS2: [summary table](work/9_coi_its/data/species_predictions.csv), within-species diversity across multiple species [table](work/9_coi_its/data/diversity.csv), phylogenetic trees: [COI](work/9_coi_its/data/coi.pdf), [ITS2](work/9_coi_its/data/coi.pdf), [amplicon sequencing](work/7_species_id/data/6_sample_tree.pdf)
