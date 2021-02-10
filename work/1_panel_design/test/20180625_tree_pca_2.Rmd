@@ -1,0 +1,46 @@
+---
+title: "20180625_more_amplicon_tree_pca"
+output: html_notebook
+---
+
+Compare tree topologies obtained from amplicon targets and whole-genome tree from Neafsey et al.
+
+```{r}
+library(treespace)
+```
+
+Load trees for amplicons
+```{r}
+x <- read.tree('data/20180619_comb_ampl_tree.nwk')
+sort(x[[1]]$tip.label)
+```
+Tree parethetic view example
+```{r}
+write.tree(x[[1]])
+```
+Input Neafsey tree and plot it
+```{r}
+neaf <- '(((((((AgamP3,AgamS1,AgamM1,AaraD1,AquaS1,AmelC1,AmerM1),AchrA1),AepiE1),(((AsteS1,AsteI2),AmacM1),((AculA1,AminM1),AfunF1))),(AdirW1,AfarF1)),(AatrE1,AsinS1)),(AalbS1,AdarC2));'
+y <- read.tree(file='', text=neaf, tree.names=c('WG'))
+plot(y)
+```
+Subset trees with 21 aligned species
+```{r}
+x <- x[unlist(lapply(x, function(t) length(t$tip.label) == 21))]
+length(x)
+```
+
+Tree topology PCA
+```{r}
+comb_trees <- c(x, y)
+tree_type <- c(rep('amplicon', length(x)), 'whole genome')
+Ascape <- treespace(comb_trees, nf=2)
+plotGrovesD3(Ascape$pco, groups=tree_type)
+```
+Discarding branch length info yields an additional outlier, still the distibution is similar to the one observed for the earlier iteration dataset
+```{r}
+x_nolen <- lapply(comb_trees, function(t) {t$edge.length <- NULL; t$node.label <- NULL; t})
+class(x_nolen) <- "multiPhylo"
+Ascape <- treespace(x_nolen, nf=2)
+plotGrovesD3(Ascape$pco, groups=tree_type)
+```

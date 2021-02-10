@@ -1,0 +1,47 @@
+---
+title: "20180416_mt_tree_pca"
+output: html_notebook
+---
+
+Tree PCA for mitochondrial data, based on 20180414 see also 20180413. 
+
+```{r}
+library(treespace)
+```
+
+```{r}
+x <- read.tree('/Users/am60/malaria/20180129_phylo_ampliseq/mt_rrna/20180414_mt_trees.nwk')
+x
+```
+```{r}
+tree_ids <- c('wmt', 'coi', 'coii', paste('mt',c(0:9), sep=''))
+tree_ids
+```
+```{r}
+tree_types <- c('wmt', 'coi', 'coii', rep('amplicon', 10))
+tree_types
+```
+
+```{r}
+Ascape <- treespace(x, nf=2)
+plotGrovesD3(Ascape$pco, groups=tree_types, treeNames=tree_ids)
+```
+```{r}
+# add fake split COI and COII data
+y <- read.tree('/Users/am60/malaria/20180129_phylo_ampliseq/mt_rrna/20180414_coi220_trees.nwk')
+Ascape <- treespace(c(x, y), nf=2)
+plotGrovesD3(Ascape$pco, 
+             groups=c(tree_types, rep('s_coi',7), rep('s_coii',4)), 
+             treeNames=c(tree_ids, paste('sI',c(1:7)), paste('sII',c(1:4))))
+```
+```{r fig1, fig.height = 10}
+# compare median amplicon and whole-genome tree topologies
+mampl <- medTree(x[c(4:13)])
+t1 <- ladderize(root(x[[1]],'KU551287', r=TRUE))
+t2 <- ladderize(root(mampl$trees[[1]], 'KU551287', r=TRUE))
+plotTreeDiff(t1,t2, tipMatch = FALSE, treesFacing = TRUE)
+```
+```{r}
+
+```
+

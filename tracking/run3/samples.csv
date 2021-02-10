@@ -1,0 +1,289 @@
+Sanger_Sample_Id,Mastermix_concentration,Tag1,Tag2,Run,Lane,Tag,Original_well,Source_sample,Replicate,Species,Extraction,Conc_ng_ul,Sex,Notes
+mxPCR7881347,1x,1,1,28620,1,1,A1,male-RT-A-dil,male-RT-A-dil-rep1,Anopheles_coluzzii,buffer A,0.55,male,"1 (A1) - male, RT, A (1) (1:10) ~0.55ng/ul"
+mxPCR7881348,1x,2,1,28620,1,2,B1,male-RT-C-dil,male-RT-C-dil-rep1,Anopheles_coluzzii,buffer C,0.16,male,"2 (B1) - male, RT, C (1) (1:10) ~0.16ng/ul"
+mxPCR7881349,1x,3,1,28620,1,3,C1,male-RT-G-con,male-RT-G-con-rep1,Anopheles_coluzzii,buffer G,3.8,male,"3 (C1) - male, RT, G (1) (undil) ~3.8ng/ul"
+mxPCR7881350,1x,4,1,28620,1,4,D1,male-RT-G-dil,male-RT-G-dil-rep1,Anopheles_coluzzii,buffer G,1.9,male,"3 (C1) - male, RT, G (1) (1:2) ~1.9ng/ul"
+mxPCR7881351,1x,5,1,28620,1,5,E1,female-RT-A-dil,female-RT-A-dil-rep1,Anopheles_coluzzii,buffer A,0.58,female,"7 (G1) - female, RT, A (1) (1:10) ~0.58ng/ul"
+mxPCR7881352,1x,6,1,28620,1,6,F1,female-RT-C-dil,female-RT-C-dil-rep1,Anopheles_coluzzii,buffer C,0.28,female,"8 (H1) - female, RT, C (1) (1:10) ~0.28ng/ul"
+mxPCR7881353,1x,7,1,28620,1,7,G1,female-RT-G-con,female-RT-G-con-rep1,Anopheles_coluzzii,buffer G,5.3,female,"9 (A2)- female, RT, G (1) (undil) ~5.3ng/ul"
+mxPCR7881354,1x,8,1,28620,1,8,H1,female-RT-G-dil,female-RT-G-dil-rep1,Anopheles_coluzzii,buffer G,2.6,female,"9 (A2) - female, RT, G (1) (1:2) ~2.6ng/ul"
+mxPCR7881355,1x,9,1,28620,1,9,A2,EtOH-RT-A-dil,EtOH-RT-A-dil-rep1,Anopheles_coluzzii,buffer A,0.09,unknown,"13 (E2) - EtOH, RT, A (1) (1:10) ~0.09ng/ul"
+mxPCR7881356,1x,10,1,28620,1,10,B2,EtOH-RT-C-dil,EtOH-RT-C-dil-rep1,Anopheles_coluzzii,buffer C,0.21,unknown,"14 (F2) - EtOH, RT, C (1) (1:10) ~0.21ng/ul"
+mxPCR7881357,1x,11,1,28620,1,11,C2,EtOH-RT-G-con,EtOH-RT-G-con-rep1,Anopheles_coluzzii,buffer G,2.7,unknown,"15 (G2) - EtOH, RT, G (1) (undil) ~2.7ng/ul"
+mxPCR7881358,1x,12,1,28620,1,12,D2,EtOH-RT-G-dil,EtOH-RT-G-dil-rep1,Anopheles_coluzzii,buffer G,1.3,unknown,"15 (G2) - EtOH, RT, G (1) (1:2) ~1.3ng/ul"
+mxPCR7881359,1x,13,1,28620,1,13,E2,male-37C-A-dil,male-37C-A-dil-rep1,Anopheles_coluzzii,buffer A,0.52,male,"19 (C3) - male, 37C, A (1) (1:10) ~0.52ng/ul"
+mxPCR7881360,1x,14,1,28620,1,14,F2,male-37C-C-dil,male-37C-C-dil-rep1,Anopheles_coluzzii,buffer C,0.24,male,"20 (D3) - male, 37C, C (1) (1:10) ~0.24ng/ul"
+mxPCR7881361,1x,15,1,28620,1,15,G2,male-37C-G-con,male-37C-G-con-rep1,Anopheles_coluzzii,buffer G,2.7,male,"21 (E3) - male, 37C, G (1) (undil) ~2.7ng/ul"
+mxPCR7881362,1x,16,1,28620,1,16,H2,male-37C-G-dil,male-37C-G-dil-rep1,Anopheles_coluzzii,buffer G,1.3,male,"21 (E3) - male, 37C, G (1) (1:2) ~1.3ng/ul"
+mxPCR7881363,1x,17,1,28620,1,17,A3,female-37C-A-dil,female-37C-A-dil-rep1,Anopheles_coluzzii,buffer A,1.46,female,"25 (A4) - female, 37C, A (1) (1:10) ~1.46ng/ul"
+mxPCR7881364,1x,18,1,28620,1,18,B3,female-37C-C-dil,female-37C-C-dil-rep1,Anopheles_coluzzii,buffer C,0.47,female,"26 (B4) - female, 37C, C (1) (1:10) ~0.47ng/ul"
+mxPCR7881365,1x,19,1,28620,1,19,C3,female-37C-G-con,female-37C-G-con-rep1,Anopheles_coluzzii,buffer G,4.6,female,"27 (C4) - female, 37C, G (1) (undil) ~4.6ng/ul"
+mxPCR7881366,1x,20,1,28620,1,20,D3,female-37C-G-dil,female-37C-G-dil-rep1,Anopheles_coluzzii,buffer G,2.3,female,"27 (C4) - female, 37C, G (1) (1:2) ~2.3ng/ul"
+mxPCR7881367,1x,21,1,28620,1,21,E3,EtOH-37C-A-dil,EtOH-37C-A-dil-rep1,Anopheles_coluzzii,buffer A,0.42,unknown,"31 (G4) - EtOH, 37C, A (1) (1:10) ~0.42ng/ul"
+mxPCR7881368,1x,22,1,28620,1,22,F3,EtOH-37C-C-dil,EtOH-37C-C-dil-rep1,Anopheles_coluzzii,buffer C,0.11,unknown,"32 (H4) - EtOH, 37C, C (1) (1:10) ~0.11ng/ul"
+mxPCR7881369,1x,23,1,28620,1,23,G3,EtOH-37C-G-con,EtOH-37C-G-con-rep1,Anopheles_coluzzii,buffer G,3.9,unknown,"33 (A5) - EtOH, 37C, G (1) (undil) ~3.9ng/ul"
+mxPCR7881370,1x,24,1,28620,1,24,H3,EtOH-37C-G-dil,EtOH-37C-G-dil-rep1,Anopheles_coluzzii,buffer G,1.9,unknown,"33 (A5) - EtOH, 37C, G (1) (1:2) ~1.9ng/ul"
+mxPCR7881371,1x,25,1,28620,1,25,A4,VBS24107-A-RT-dil,VBS24107-A-RT-dil-rep1,Anopheles_funestus,buffer A,0.98,female,"37 (A6) - KP13, RT, A (1:10) ~0.98ng/ul"
+mxPCR7881372,1x,26,1,28620,1,26,B4,VBS24108-C-RT-dil,VBS24108-C-RT-dil-rep1,Anopheles_funestus,buffer C,0.49,female,"38 (B6) - KP14, RT, C (1:10) ~0.49ng/ul"
+mxPCR7881373,1x,27,1,28620,1,27,C4,VBS24109-G-RT-con,VBS24109-G-RT-con-rep1,Anopheles_funestus,buffer G,3.9,female,"39 (C6) - KP15, RT, G (undil) ~3.9ng/ul"
+mxPCR7881374,1x,28,1,28620,1,28,D4,VBS24109-G-RT-dil,VBS24109-G-RT-dil-rep1,Anopheles_funestus,buffer G,1.9,female,"39 (C6) - KP15, RT, G (1:2) ~1.9ng/ul"
+mxPCR7881375,1x,29,1,28620,1,29,E4,VBS24110-C-RT-dil,VBS24110-C-RT-dil-rep1,Anopheles_funestus,buffer C,0.85,female,"40 (D6) - KP16, RT, C (1:10) ~0.85ng/ul"
+mxPCR7881376,1x,30,1,28620,1,30,F4,VBS24111-G-RT-con,VBS24111-G-RT-con-rep1,Anopheles_funestus,buffer G,2.7,female,"41 (E6) - KP17, RT, G (undil) ~2.7ng/ul"
+mxPCR7881377,1x,31,1,28620,1,31,G4,VBS24111-G-RT-dil,VBS24111-G-RT-dil-rep1,Anopheles_funestus,buffer G,1.3,female,"41 (E6) - KP17, RT, G (1:2) ~1.3ng/ul"
+mxPCR7881378,1x,32,1,28620,1,32,H4,blank-A-dil,blank-A-dil-rep1,blank_sample,buffer A,0,,57 (E8) - A blank (1:10) ~0ng/ul
+mxPCR7881379,1x,33,1,28620,1,33,A5,VBS24112-A-37C-dil,VBS24112-A-37C-dil-rep1,Anopheles_funestus,buffer A,1.96,female,"42 (F6) - KP18, 37C, A (1:10) ~1.96ng/ul"
+mxPCR7881380,1x,34,1,28620,1,34,B5,VBS24113-C-37C-dil,VBS24113-C-37C-dil-rep1,Anopheles_funestus,buffer C,0.5,female,"43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul"
+mxPCR7881381,1x,35,1,28620,1,35,C5,VBS24114-G-37C-con,VBS24114-G-37C-con-rep1,Anopheles_funestus,buffer G,3.2,female,"44 (H6) - KP20, 37C, G (undil) ~3.2ng/ul"
+mxPCR7881382,1x,36,1,28620,1,36,D5,VBS24114-G-37C-dil,VBS24114-G-37C-dil-rep1,Anopheles_funestus,buffer G,1.6,female,"44 (H6) - KP20, 37C, G (1:2) ~1.6ng/ul"
+mxPCR7881383,1x,37,1,28620,1,37,E5,VBS24115-C-37C-dil,VBS24115-C-37C-dil-rep1,Anopheles_funestus,buffer C,0.4,female,"45 (A7) - KP21, 37C, C (1:10) ~0.40ng/ul"
+mxPCR7881384,1x,38,1,28620,1,38,F5,VBS24116-G-37C-con,VBS24116-G-37C-con-rep1,Anopheles_funestus,buffer G,4.1,female,"46 (B7) - KP22, 37C, G (undil) ~4.1ng/ul"
+mxPCR7881385,1x,39,1,28620,1,39,G5,VBS24116-G-37C-dil,VBS24116-G-37C-dil-rep1,Anopheles_funestus,buffer G,2,female,"46 (B7) - KP22, 37C, G (1:2) ~2.0ng/ul"
+mxPCR7881386,1x,40,1,28620,1,40,H5,blank-C-dil,blank-C-dil-rep1,blank_sample,buffer C,0,,58 (F8) - C blank (1:10) ~0ng/ul
+mxPCR7881387,1x,41,1,28620,1,41,A6,VBS24027-A-RT-dil,VBS24027-A-RT-dil-rep1,Anopheles_funestus,buffer A,1.18,female,"47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul"
+mxPCR7881388,1x,42,1,28620,1,42,B6,VBS24028-C-RT-dil,VBS24028-C-RT-dil-rep1,Anopheles_funestus,buffer C,0.57,female,"48 (D7) - TZ36, RT, C (1:10) ~0.57ng/ul"
+mxPCR7881389,1x,43,1,28620,1,43,C6,VBS24029-G-RT-con,VBS24029-G-RT-con-rep1,Anopheles_funestus,buffer G,8,female,"49 (E7) - TZ37, RT, G (undil) ~8.0ng/ul"
+mxPCR7881390,1x,44,1,28620,1,44,D6,VBS24029-G-RT-dil,VBS24029-G-RT-dil-rep1,Anopheles_funestus,buffer G,4,female,"49 (E7) - TZ37, RT, G (1:2) ~4.0ng/ul"
+mxPCR7881391,1x,45,1,28620,1,45,E6,VBS24030-C-RT-dil,VBS24030-C-RT-dil-rep1,Anopheles_funestus,buffer C,1.26,female,"50 (F7) - TZ38, RT, C (1:10) ~1.26ng/ul"
+mxPCR7881392,1x,46,1,28620,1,46,F6,VBS24031-G-RT-con,VBS24031-G-RT-con-rep1,Anopheles_funestus,buffer G,5.3,female,"51 (G7) - TZ39, RT, G (undil) ~5.3ng/ul"
+mxPCR7881393,1x,47,1,28620,1,47,G6,VBS24031-G-RT-dil,VBS24031-G-RT-dil-rep1,Anopheles_funestus,buffer G,2.6,female,"51 (G7) - TZ39, RT, G (1:2) ~2.6ng/ul"
+mxPCR7881394,1x,48,1,28620,1,48,H6,blank-G-con,blank-G-con-rep1,blank_sample,buffer G,0,,59 (G8) - G blank (undil) ~0ng/ul
+mxPCR7881395,1x,49,1,28620,1,49,A7,VBS24032-A-37C-dil,VBS24032-A-37C-dil-rep1,Anopheles_funestus,buffer A,1.76,female,"52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul"
+mxPCR7881396,1x,50,1,28620,1,50,B7,VBS24033-C-37C-dil,VBS24033-C-37C-dil-rep1,Anopheles_funestus,buffer C,0.25,female,"53 (A8) - TZ41, 37C, C (1:10) ~0.25ng/ul"
+mxPCR7881397,1x,51,1,28620,1,51,C7,VBS24034-G-37C-con,VBS24034-G-37C-con-rep1,Anopheles_funestus,buffer G,2.6,female,"54 (B8) - TZ42, 37C, G (undil) ~2.6ng/ul"
+mxPCR7881398,1x,52,1,28620,1,52,D7,VBS24034-G-37C-dil,VBS24034-G-37C-dil-rep1,Anopheles_funestus,buffer G,1.3,female,"54 (B8) - TZ42, 37C, G (1:2) ~1.3ng/ul"
+mxPCR7881399,1x,53,1,28620,1,53,E7,VBS24035-C-37C-dil,VBS24035-C-37C-dil-rep1,Anopheles_funestus,buffer C,0.65,female,"55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul"
+mxPCR7881400,1x,54,1,28620,1,54,F7,VBS24036-G-37C-con,VBS24036-G-37C-con-rep1,Anopheles_funestus,buffer G,3.2,female,"56 (D8) - TZ44, 37C, G (undil) ~3.2ng/ul"
+mxPCR7881401,1x,55,1,28620,1,55,G7,VBS24036-G-37C-dil,VBS24036-G-37C-dil-rep1,Anopheles_funestus,buffer G,1.6,female,"56 (D8) - TZ44, 37C, G (1:2) ~1.6ng/ul"
+mxPCR7881402,1x,56,1,28620,1,56,H7,blank-G-dil,blank-G-dil-rep1,blank_sample,buffer G,0,,59 (G8) - G blank (1:2) ~0ng/ul
+mxPCR7881403,1x,57,1,28620,1,57,A8,VBS00001-con,VBS00001-con-rep1,Anopheles_annularis,non-WGA,0.2,,VBS00001 (A1) ~0.2ng/ul
+mxPCR7881404,1x,58,1,28620,1,58,B8,water-3-1,water-3-1-rep1,blank_sample,,,,water
+mxPCR7881405,1x,59,1,28620,1,59,C8,VBS00053-dil,VBS00053-dil-rep1,Anopheles_aconitus,WGA,3.9,,VBS00053 (F2) (1:2) ~3.9ng/ul
+mxPCR7881406,1x,60,1,28620,1,60,D8,VBS00084-dil,VBS00084-dil-rep1,Anopheles_hyrcanus,WGA,6.3,,VBS00084 (D3) (1:2) ~6.3ng/ul
+mxPCR7881407,1x,61,1,28620,1,61,E8,Acon-142-con,Acon-142-con-rep1,Anopheles_concolor,CTAB,0,,con.142
+mxPCR7881408,1x,62,1,28620,1,62,F8,Anils-7-con,Anils-7-con-rep1,Anopheles_nili_ss,QIAGEN,7.5,,nils.7
+mxPCR7881409,1x,63,1,28620,1,63,G8,Abro-33-con,Abro-33-con-rep1,Anopheles_brohieri,QIAGEN,0,,bro.33
+mxPCR7881410,1x,64,1,28620,1,64,H8,Abru-12-con,Abru-12-con-rep1,Anopheles_brunnipes,QIAGEN,0.5,,bru.12
+mxPCR7881411,1x,65,1,28620,1,65,A9,Acol-415-con,Acol-415-con-rep1,Anopheles_coluzzii,QIAGEN,0.2,,col.415
+mxPCR7881412,1x,66,1,28620,1,66,B9,Acou-956-con,Acou-956-con-rep1,Anopheles_coustani,QIAGEN,0.6,,cou.956
+mxPCR7881413,1x,67,1,28620,1,67,C9,Acol-645-con,Acol-645-con-rep1,Anopheles_coluzzii,QIAGEN,1.9,,col.645
+mxPCR7881414,1x,68,1,28620,1,68,D9,Adem-19-con,Adem-19-con-rep1,Anopheles_demeilloni,QIAGEN,0.6,,dem.19
+mxPCR7881415,1x,69,1,28620,1,69,E9,Adem-32-con,Adem-32-con-rep1,Anopheles_demeilloni,QIAGEN,0.3,,dem.32
+mxPCR7881416,1x,70,1,28620,1,70,F9,Adur-97.5-con,Adur-97.5-con-rep1,Anopheles_dureni,QIAGEN,0,,dur.97.5
+mxPCR7881417,1x,71,1,28620,1,71,G9,Afun-13-con,Afun-13-con-rep1,Anopheles_funestus,QIAGEN,0.2,,fun.13
+mxPCR7881418,1x,72,1,28620,1,72,H9,Afun-9-con,Afun-9-con-rep1,Anopheles_funestus,QIAGEN,0,,fun.9
+mxPCR7881419,1x,73,1,28620,1,73,A10,Aimp-M190-con,Aimp-M190-con-rep1,Anopheles_implexus,QIAGEN,3,,imp.M190
+mxPCR7881420,1x,74,1,28620,1,74,B10,Amac-47-con,Amac-47-con-rep1,Anopheles_maculipalpis,QIAGEN,0,,mac.47
+mxPCR7881421,1x,75,1,28620,1,75,C10,Amou-2-1-con,Amou-2-1-con-rep1,Anopheles_moucheti,CTAB,1.9,,mou.2.1
+mxPCR7881422,1x,76,1,28620,1,76,D10,Anil-237-con,Anil-237-con-rep1,Anopheles_nili,CTAB,0.6,,nil.237
+mxPCR7881423,1x,77,1,28620,1,77,E10,Apal-10-con,Apal-10-con-rep1,Anopheles_paludis,QIAGEN,0.3,,pal.10
+mxPCR7881424,1x,78,1,28620,1,78,F10,Apal-257-con,Apal-257-con-rep1,Anopheles_paludis,QIAGEN,0.5,,pal.257
+mxPCR7881425,1x,79,1,28620,1,79,G10,Apal-81-con,Apal-81-con-rep1,Anopheles_paludis,QIAGEN,1.5,,pal.81
+mxPCR7881426,1x,80,1,28620,1,80,H10,Arho-7-2-con,Arho-7-2-con-rep1,Anopheles_rhodesiensis,QIAGEN,0.3,,rho.7.2
+mxPCR7881427,1x,81,1,28620,1,81,A11,Athe-6-2-con,Athe-6-2-con-rep1,Anopheles_theileri,QIAGEN,0.4,,the.6.2
+mxPCR7881428,1x,82,1,28620,1,82,B11,Azie-1055-con,Azie-1055-con-rep1,Anopheles_ziemanni,QIAGEN,0.6,,zie.1055
+mxPCR7881429,1x,83,1,28620,1,83,C11,Aten-79-con,Aten-79-con-rep1,Anopheles_tenebrosus,QIAGEN,1.1,,ten.79
+mxPCR7881430,1x,84,1,28620,1,84,D11,Amar-3-1-con,Amar-3-1-con-rep1,Anopheles_marshallii,QIAGEN,0.6,,mar.3.1
+mxPCR7881431,1x,85,1,28620,1,85,E11,Abro-21-con,Abro-21-con-rep1,Anopheles_brohieri,QIAGEN,2.4,,bro.21
+mxPCR7881432,1x,86,1,28620,1,86,F11,Afun-3-con,Afun-3-con-rep1,Anopheles_funestus,QIAGEN,2.4,,fun.3
+mxPCR7881433,1x,87,1,28620,1,87,G11,VBS24014-A-pur,VBS24014-A-pur-rep1,Anopheles_funestus,"buffer A, MinElute purified",9.7,female,"TZ22 - A - MinElute, 9.7ng/ul"
+mxPCR7881434,1x,88,1,28620,1,88,H11,VBS24015-A-pur,VBS24015-A-pur-rep1,Anopheles_funestus,"buffer A, MinElute purified",4.8,female,"TZ23 - A - MinElute, 4.8ng/ul"
+mxPCR7881435,1x,89,1,28620,1,89,A12,body-infect-A-37C-dil,body-infect-A-37C-dil-rep1,Anopheles_gambiae,buffer A,10.3,female,"office mosquito (gambiae?) + P. falciparum (carcass), A 37C (1:10) ~10.3ng/ul"
+mxPCR7881436,1x,90,1,28620,1,90,B12,body-A-37C-dil,body-A-37C-dil-rep1,Anopheles_gambiae,buffer A,1.9,female,"office mosquito (gambiae?) - P. falciparum (carcass), A 37C (1:10) ~1.9ng/ul"
+mxPCR7881437,1x,91,1,28620,1,91,C12,Agut-infect-A-37C-dil,Agut-infect-A-37C-dil-rep1,Anopheles_gambiae,buffer A,0,female,"office mosquito (gambiae?) + P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+mxPCR7881438,1x,92,1,28620,1,92,D12,Agut-A-37C-dil,Agut-A-37C-dil-rep1,Anopheles_gambiae,buffer A,0,female,"office mosquito (gambiae?) - P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+mxPCR7881439,1x,93,1,28620,1,93,E12,steph1-infect-A-37C-dil,steph1-infect-A-37C-dil-rep1,Anopheles_stephensi,buffer A,1.4,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+mxPCR7881440,1x,94,1,28620,1,94,F12,steph2-infect-A-37C-dil,steph2-infect-A-37C-dil-rep1,Anopheles_stephensi,buffer A,2,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul"
+mxPCR7881441,1x,95,1,28620,1,95,G12,steph-A-37C-dil,steph-A-37C-dil-rep1,Anopheles_stephensi,buffer A,1.4,female,"Silvain mosquito (An. stephensi) - P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+mxPCR7881442,1x,96,1,28620,1,96,H12,blank-A-infect-dil,blank-A-infect-dil-rep1,blank_sample,buffer A,0,,Infected set - A blank (1:10) ~0.0ng/ul
+mxPCR7881443,1.125x,1,2,28620,1,97,A1,male-RT-A-dil,male-RT-A-dil-rep2,Anopheles_coluzzii,buffer A,0.55,male,"1 (A1) - male, RT, A (1) (1:10) ~0.55ng/ul"
+mxPCR7881444,1.125x,2,2,28620,1,98,B1,male-RT-C-dil,male-RT-C-dil-rep2,Anopheles_coluzzii,buffer C,0.16,male,"2 (B1) - male, RT, C (1) (1:10) ~0.16ng/ul"
+mxPCR7881445,1.125x,3,2,28620,1,99,C1,male-RT-G-con,male-RT-G-con-rep2,Anopheles_coluzzii,buffer G,3.8,male,"3 (C1) - male, RT, G (1) (undil) ~3.8ng/ul"
+mxPCR7881446,1.125x,4,2,28620,1,100,D1,male-RT-G-dil,male-RT-G-dil-rep2,Anopheles_coluzzii,buffer G,1.9,male,"3 (C1) - male, RT, G (1) (1:2) ~1.9ng/ul"
+mxPCR7881447,1.125x,5,2,28620,1,101,E1,female-RT-A-dil,female-RT-A-dil-rep2,Anopheles_coluzzii,buffer A,0.58,female,"7 (G1) - female, RT, A (1) (1:10) ~0.58ng/ul"
+mxPCR7881448,1.125x,6,2,28620,1,102,F1,female-RT-C-dil,female-RT-C-dil-rep2,Anopheles_coluzzii,buffer C,0.28,female,"8 (H1) - female, RT, C (1) (1:10) ~0.28ng/ul"
+mxPCR7881449,1.125x,7,2,28620,1,103,G1,female-RT-G-con,female-RT-G-con-rep2,Anopheles_coluzzii,buffer G,5.3,female,"9 (A2)- female, RT, G (1) (undil) ~5.3ng/ul"
+mxPCR7881450,1.125x,8,2,28620,1,104,H1,female-RT-G-dil,female-RT-G-dil-rep2,Anopheles_coluzzii,buffer G,2.6,female,"9 (A2) - female, RT, G (1) (1:2) ~2.6ng/ul"
+mxPCR7881451,1.125x,9,2,28620,1,105,A2,EtOH-RT-A-dil,EtOH-RT-A-dil-rep2,Anopheles_coluzzii,buffer A,0.09,unknown,"13 (E2) - EtOH, RT, A (1) (1:10) ~0.09ng/ul"
+mxPCR7881452,1.125x,10,2,28620,1,106,B2,EtOH-RT-C-dil,EtOH-RT-C-dil-rep2,Anopheles_coluzzii,buffer C,0.21,unknown,"14 (F2) - EtOH, RT, C (1) (1:10) ~0.21ng/ul"
+mxPCR7881453,1.125x,11,2,28620,1,107,C2,EtOH-RT-G-con,EtOH-RT-G-con-rep2,Anopheles_coluzzii,buffer G,2.7,unknown,"15 (G2) - EtOH, RT, G (1) (undil) ~2.7ng/ul"
+mxPCR7881454,1.125x,12,2,28620,1,108,D2,EtOH-RT-G-dil,EtOH-RT-G-dil-rep2,Anopheles_coluzzii,buffer G,1.3,unknown,"15 (G2) - EtOH, RT, G (1) (1:2) ~1.3ng/ul"
+mxPCR7881455,1.125x,13,2,28620,1,109,E2,male-37C-A-dil,male-37C-A-dil-rep2,Anopheles_coluzzii,buffer A,0.52,male,"19 (C3) - male, 37C, A (1) (1:10) ~0.52ng/ul"
+mxPCR7881456,1.125x,14,2,28620,1,110,F2,male-37C-C-dil,male-37C-C-dil-rep2,Anopheles_coluzzii,buffer C,0.24,male,"20 (D3) - male, 37C, C (1) (1:10) ~0.24ng/ul"
+mxPCR7881457,1.125x,15,2,28620,1,111,G2,male-37C-G-con,male-37C-G-con-rep2,Anopheles_coluzzii,buffer G,2.7,male,"21 (E3) - male, 37C, G (1) (undil) ~2.7ng/ul"
+mxPCR7881458,1.125x,16,2,28620,1,112,H2,male-37C-G-dil,male-37C-G-dil-rep2,Anopheles_coluzzii,buffer G,1.3,male,"21 (E3) - male, 37C, G (1) (1:2) ~1.3ng/ul"
+mxPCR7881459,1.125x,17,2,28620,1,113,A3,female-37C-A-dil,female-37C-A-dil-rep2,Anopheles_coluzzii,buffer A,1.46,female,"25 (A4) - female, 37C, A (1) (1:10) ~1.46ng/ul"
+mxPCR7881460,1.125x,18,2,28620,1,114,B3,female-37C-C-dil,female-37C-C-dil-rep2,Anopheles_coluzzii,buffer C,0.47,female,"26 (B4) - female, 37C, C (1) (1:10) ~0.47ng/ul"
+mxPCR7881461,1.125x,19,2,28620,1,115,C3,female-37C-G-con,female-37C-G-con-rep2,Anopheles_coluzzii,buffer G,4.6,female,"27 (C4) - female, 37C, G (1) (undil) ~4.6ng/ul"
+mxPCR7881462,1.125x,20,2,28620,1,116,D3,female-37C-G-dil,female-37C-G-dil-rep2,Anopheles_coluzzii,buffer G,2.3,female,"27 (C4) - female, 37C, G (1) (1:2) ~2.3ng/ul"
+mxPCR7881463,1.125x,21,2,28620,1,117,E3,EtOH-37C-A-dil,EtOH-37C-A-dil-rep2,Anopheles_coluzzii,buffer A,0.42,unknown,"31 (G4) - EtOH, 37C, A (1) (1:10) ~0.42ng/ul"
+mxPCR7881464,1.125x,22,2,28620,1,118,F3,EtOH-37C-C-dil,EtOH-37C-C-dil-rep2,Anopheles_coluzzii,buffer C,0.11,unknown,"32 (H4) - EtOH, 37C, C (1) (1:10) ~0.11ng/ul"
+mxPCR7881465,1.125x,23,2,28620,1,119,G3,EtOH-37C-G-con,EtOH-37C-G-con-rep2,Anopheles_coluzzii,buffer G,3.9,unknown,"33 (A5) - EtOH, 37C, G (1) (undil) ~3.9ng/ul"
+mxPCR7881466,1.125x,24,2,28620,1,120,H3,EtOH-37C-G-dil,EtOH-37C-G-dil-rep2,Anopheles_coluzzii,buffer G,1.9,unknown,"33 (A5) - EtOH, 37C, G (1) (1:2) ~1.9ng/ul"
+mxPCR7881467,1.125x,25,2,28620,1,121,A4,VBS24107-A-RT-dil,VBS24107-A-RT-dil-rep2,Anopheles_funestus,buffer A,0.98,female,"37 (A6) - KP13, RT, A (1:10) ~0.98ng/ul"
+mxPCR7881468,1.125x,26,2,28620,1,122,B4,VBS24108-C-RT-dil,VBS24108-C-RT-dil-rep2,Anopheles_funestus,buffer C,0.49,female,"38 (B6) - KP14, RT, C (1:10) ~0.49ng/ul"
+mxPCR7881469,1.125x,27,2,28620,1,123,C4,VBS24109-G-RT-con,VBS24109-G-RT-con-rep2,Anopheles_funestus,buffer G,3.9,female,"39 (C6) - KP15, RT, G (undil) ~3.9ng/ul"
+mxPCR7881470,1.125x,28,2,28620,1,124,D4,VBS24109-G-RT-dil,VBS24109-G-RT-dil-rep2,Anopheles_funestus,buffer G,1.9,female,"39 (C6) - KP15, RT, G (1:2) ~1.9ng/ul"
+mxPCR7881471,1.125x,29,2,28620,1,125,E4,VBS24110-C-RT-dil,VBS24110-C-RT-dil-rep2,Anopheles_funestus,buffer C,0.85,female,"40 (D6) - KP16, RT, C (1:10) ~0.85ng/ul"
+mxPCR7881472,1.125x,30,2,28620,1,126,F4,VBS24111-G-RT-con,VBS24111-G-RT-con-rep2,Anopheles_funestus,buffer G,2.7,female,"41 (E6) - KP17, RT, G (undil) ~2.7ng/ul"
+mxPCR7881473,1.125x,31,2,28620,1,127,G4,VBS24111-G-RT-dil,VBS24111-G-RT-dil-rep2,Anopheles_funestus,buffer G,1.3,female,"41 (E6) - KP17, RT, G (1:2) ~1.3ng/ul"
+mxPCR7881474,1.125x,32,2,28620,1,128,H4,blank-A-dil,blank-A-dil-rep2,blank_sample,buffer A,0,,57 (E8) - A blank (1:10) ~0ng/ul
+mxPCR7881475,1.125x,33,2,28620,1,129,A5,VBS24112-A-37C-dil,VBS24112-A-37C-dil-rep2,Anopheles_funestus,buffer A,1.96,female,"42 (F6) - KP18, 37C, A (1:10) ~1.96ng/ul"
+mxPCR7881476,1.125x,34,2,28620,1,130,B5,VBS24113-C-37C-dil,VBS24113-C-37C-dil-rep2,Anopheles_funestus,buffer C,0.5,female,"43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul"
+mxPCR7881477,1.125x,35,2,28620,1,131,C5,VBS24114-G-37C-con,VBS24114-G-37C-con-rep2,Anopheles_funestus,buffer G,3.2,female,"44 (H6) - KP20, 37C, G (undil) ~3.2ng/ul"
+mxPCR7881478,1.125x,36,2,28620,1,132,D5,VBS24114-G-37C-dil,VBS24114-G-37C-dil-rep2,Anopheles_funestus,buffer G,1.6,female,"44 (H6) - KP20, 37C, G (1:2) ~1.6ng/ul"
+mxPCR7881479,1.125x,37,2,28620,1,133,E5,VBS24115-C-37C-dil,VBS24115-C-37C-dil-rep2,Anopheles_funestus,buffer C,0.4,female,"45 (A7) - KP21, 37C, C (1:10) ~0.40ng/ul"
+mxPCR7881480,1.125x,38,2,28620,1,134,F5,VBS24116-G-37C-con,VBS24116-G-37C-con-rep2,Anopheles_funestus,buffer G,4.1,female,"46 (B7) - KP22, 37C, G (undil) ~4.1ng/ul"
+mxPCR7881481,1.125x,39,2,28620,1,135,G5,VBS24116-G-37C-dil,VBS24116-G-37C-dil-rep2,Anopheles_funestus,buffer G,2,female,"46 (B7) - KP22, 37C, G (1:2) ~2.0ng/ul"
+mxPCR7881482,1.125x,40,2,28620,1,136,H5,blank-C-dil,blank-C-dil-rep2,blank_sample,buffer C,0,,58 (F8) - C blank (1:10) ~0ng/ul
+mxPCR7881483,1.125x,41,2,28620,1,137,A6,VBS24027-A-RT-dil,VBS24027-A-RT-dil-rep2,Anopheles_funestus,buffer A,1.18,female,"47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul"
+mxPCR7881484,1.125x,42,2,28620,1,138,B6,VBS24028-C-RT-dil,VBS24028-C-RT-dil-rep2,Anopheles_funestus,buffer C,0.57,female,"48 (D7) - TZ36, RT, C (1:10) ~0.57ng/ul"
+mxPCR7881485,1.125x,43,2,28620,1,139,C6,VBS24029-G-RT-con,VBS24029-G-RT-con-rep2,Anopheles_funestus,buffer G,8,female,"49 (E7) - TZ37, RT, G (undil) ~8.0ng/ul"
+mxPCR7881486,1.125x,44,2,28620,1,140,D6,VBS24029-G-RT-dil,VBS24029-G-RT-dil-rep2,Anopheles_funestus,buffer G,4,female,"49 (E7) - TZ37, RT, G (1:2) ~4.0ng/ul"
+mxPCR7881487,1.125x,45,2,28620,1,141,E6,VBS24030-C-RT-dil,VBS24030-C-RT-dil-rep2,Anopheles_funestus,buffer C,1.26,female,"50 (F7) - TZ38, RT, C (1:10) ~1.26ng/ul"
+mxPCR7881488,1.125x,46,2,28620,1,142,F6,VBS24031-G-RT-con,VBS24031-G-RT-con-rep2,Anopheles_funestus,buffer G,5.3,female,"51 (G7) - TZ39, RT, G (undil) ~5.3ng/ul"
+mxPCR7881489,1.125x,47,2,28620,1,143,G6,VBS24031-G-RT-dil,VBS24031-G-RT-dil-rep2,Anopheles_funestus,buffer G,2.6,female,"51 (G7) - TZ39, RT, G (1:2) ~2.6ng/ul"
+mxPCR7881490,1.125x,48,2,28620,1,144,H6,blank-G-con,blank-G-con-rep2,blank_sample,buffer G,0,,59 (G8) - G blank (undil) ~0ng/ul
+mxPCR7881491,1.125x,49,2,28620,1,145,A7,VBS24032-A-37C-dil,VBS24032-A-37C-dil-rep2,Anopheles_funestus,buffer A,1.76,female,"52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul"
+mxPCR7881492,1.125x,50,2,28620,1,146,B7,VBS24033-C-37C-dil,VBS24033-C-37C-dil-rep2,Anopheles_funestus,buffer C,0.25,female,"53 (A8) - TZ41, 37C, C (1:10) ~0.25ng/ul"
+mxPCR7881493,1.125x,51,2,28620,1,147,C7,VBS24034-G-37C-con,VBS24034-G-37C-con-rep2,Anopheles_funestus,buffer G,2.6,female,"54 (B8) - TZ42, 37C, G (undil) ~2.6ng/ul"
+mxPCR7881494,1.125x,52,2,28620,1,148,D7,VBS24034-G-37C-dil,VBS24034-G-37C-dil-rep2,Anopheles_funestus,buffer G,1.3,female,"54 (B8) - TZ42, 37C, G (1:2) ~1.3ng/ul"
+mxPCR7881495,1.125x,53,2,28620,1,149,E7,VBS24035-C-37C-dil,VBS24035-C-37C-dil-rep2,Anopheles_funestus,buffer C,0.65,female,"55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul"
+mxPCR7881496,1.125x,54,2,28620,1,150,F7,VBS24036-G-37C-con,VBS24036-G-37C-con-rep2,Anopheles_funestus,buffer G,3.2,female,"56 (D8) - TZ44, 37C, G (undil) ~3.2ng/ul"
+mxPCR7881497,1.125x,55,2,28620,1,151,G7,VBS24036-G-37C-dil,VBS24036-G-37C-dil-rep2,Anopheles_funestus,buffer G,1.6,female,"56 (D8) - TZ44, 37C, G (1:2) ~1.6ng/ul"
+mxPCR7881498,1.125x,56,2,28620,1,152,H7,blank-G-dil,blank-G-dil-rep2,blank_sample,buffer G,0,,59 (G8) - G blank (1:2) ~0ng/ul
+mxPCR7881499,1.125x,57,2,28620,1,153,A8,VBS00001-con,VBS00001-con-rep2,Anopheles_annularis,non-WGA,0.2,,VBS00001 (A1) ~0.2ng/ul
+mxPCR7881500,1.125x,58,2,28620,1,154,B8,water-3-1,water-3-1-rep2,blank_sample,,,,water
+mxPCR7881501,1.125x,59,2,28620,1,155,C8,VBS00053-dil,VBS00053-dil-rep2,Anopheles_aconitus,WGA,3.9,,VBS00053 (F2) (1:2) ~3.9ng/ul
+mxPCR7881502,1.125x,60,2,28620,1,156,D8,VBS00084-dil,VBS00084-dil-rep2,Anopheles_hyrcanus,WGA,6.3,,VBS00084 (D3) (1:2) ~6.3ng/ul
+mxPCR7881503,1.125x,61,2,28620,1,157,E8,Acon-142-con,Acon-142-con-rep2,Anopheles_concolor,CTAB,0,,con.142
+mxPCR7881504,1.125x,62,2,28620,1,158,F8,Anils-7-con,Anils-7-con-rep2,Anopheles_nili_ss,QIAGEN,7.5,,nils.7
+mxPCR7881505,1.125x,63,2,28620,1,159,G8,Abro-33-con,Abro-33-con-rep2,Anopheles_brohieri,QIAGEN,0,,bro.33
+mxPCR7881506,1.125x,64,2,28620,1,160,H8,Abru-12-con,Abru-12-con-rep2,Anopheles_brunnipes,QIAGEN,0.5,,bru.12
+mxPCR7881507,1.125x,65,2,28620,1,161,A9,Acol-415-con,Acol-415-con-rep2,Anopheles_coluzzii,QIAGEN,0.2,,col.415
+mxPCR7881508,1.125x,66,2,28620,1,162,B9,Acou-956-con,Acou-956-con-rep2,Anopheles_coustani,QIAGEN,0.6,,cou.956
+mxPCR7881509,1.125x,67,2,28620,1,163,C9,Acol-645-con,Acol-645-con-rep2,Anopheles_coluzzii,QIAGEN,1.9,,col.645
+mxPCR7881510,1.125x,68,2,28620,1,164,D9,Adem-19-con,Adem-19-con-rep2,Anopheles_demeilloni,QIAGEN,0.6,,dem.19
+mxPCR7881511,1.125x,69,2,28620,1,165,E9,Adem-32-con,Adem-32-con-rep2,Anopheles_demeilloni,QIAGEN,0.3,,dem.32
+mxPCR7881512,1.125x,70,2,28620,1,166,F9,Adur-97.5-con,Adur-97.5-con-rep2,Anopheles_dureni,QIAGEN,0,,dur.97.5
+mxPCR7881513,1.125x,71,2,28620,1,167,G9,Afun-13-con,Afun-13-con-rep2,Anopheles_funestus,QIAGEN,0.2,,fun.13
+mxPCR7881514,1.125x,72,2,28620,1,168,H9,Afun-9-con,Afun-9-con-rep2,Anopheles_funestus,QIAGEN,0,,fun.9
+mxPCR7881515,1.125x,73,2,28620,1,169,A10,Aimp-M190-con,Aimp-M190-con-rep2,Anopheles_implexus,QIAGEN,3,,imp.M190
+mxPCR7881516,1.125x,74,2,28620,1,170,B10,Amac-47-con,Amac-47-con-rep2,Anopheles_maculipalpis,QIAGEN,0,,mac.47
+mxPCR7881517,1.125x,75,2,28620,1,171,C10,Amou-2-1-con,Amou-2-1-con-rep2,Anopheles_moucheti,CTAB,1.9,,mou.2.1
+mxPCR7881518,1.125x,76,2,28620,1,172,D10,Anil-237-con,Anil-237-con-rep2,Anopheles_nili,CTAB,0.6,,nil.237
+mxPCR7881519,1.125x,77,2,28620,1,173,E10,Apal-10-con,Apal-10-con-rep2,Anopheles_paludis,QIAGEN,0.3,,pal.10
+mxPCR7881520,1.125x,78,2,28620,1,174,F10,Apal-257-con,Apal-257-con-rep2,Anopheles_paludis,QIAGEN,0.5,,pal.257
+mxPCR7881521,1.125x,79,2,28620,1,175,G10,Apal-81-con,Apal-81-con-rep2,Anopheles_paludis,QIAGEN,1.5,,pal.81
+mxPCR7881522,1.125x,80,2,28620,1,176,H10,Arho-7-2-con,Arho-7-2-con-rep2,Anopheles_rhodesiensis,QIAGEN,0.3,,rho.7.2
+mxPCR7881523,1.125x,81,2,28620,1,177,A11,Athe-6-2-con,Athe-6-2-con-rep2,Anopheles_theileri,QIAGEN,0.4,,the.6.2
+mxPCR7881524,1.125x,82,2,28620,1,178,B11,Azie-1055-con,Azie-1055-con-rep2,Anopheles_ziemanni,QIAGEN,0.6,,zie.1055
+mxPCR7881525,1.125x,83,2,28620,1,179,C11,Aten-79-con,Aten-79-con-rep2,Anopheles_tenebrosus,QIAGEN,1.1,,ten.79
+mxPCR7881526,1.125x,84,2,28620,1,180,D11,Amar-3-1-con,Amar-3-1-con-rep2,Anopheles_marshallii,QIAGEN,0.6,,mar.3.1
+mxPCR7881527,1.125x,85,2,28620,1,181,E11,Abro-21-con,Abro-21-con-rep2,Anopheles_brohieri,QIAGEN,2.4,,bro.21
+mxPCR7881528,1.125x,86,2,28620,1,182,F11,Afun-3-con,Afun-3-con-rep2,Anopheles_funestus,QIAGEN,2.4,,fun.3
+mxPCR7881529,1.125x,87,2,28620,1,183,G11,VBS24014-A-pur,VBS24014-A-pur-rep2,Anopheles_funestus,"buffer A, MinElute purified",9.7,female,"TZ22 - A - MinElute, 9.7ng/ul"
+mxPCR7881530,1.125x,88,2,28620,1,184,H11,VBS24015-A-pur,VBS24015-A-pur-rep2,Anopheles_funestus,"buffer A, MinElute purified",4.8,female,"TZ23 - A - MinElute, 4.8ng/ul"
+mxPCR7881531,1.125x,89,2,28620,1,185,A12,body-infect-A-37C-dil,body-infect-A-37C-dil-rep2,Anopheles_gambiae,buffer A,10.3,female,"office mosquito (gambiae?) + P. falciparum (carcass), A 37C (1:10) ~10.3ng/ul"
+mxPCR7881532,1.125x,90,2,28620,1,186,B12,body-A-37C-dil,body-A-37C-dil-rep2,Anopheles_gambiae,buffer A,1.9,female,"office mosquito (gambiae?) - P. falciparum (carcass), A 37C (1:10) ~1.9ng/ul"
+mxPCR7881533,1.125x,91,2,28620,1,187,C12,Agut-infect-A-37C-dil,Agut-infect-A-37C-dil-rep2,Anopheles_gambiae,buffer A,0,female,"office mosquito (gambiae?) + P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+mxPCR7881534,1.125x,92,2,28620,1,188,D12,Agut-A-37C-dil,Agut-A-37C-dil-rep2,Anopheles_gambiae,buffer A,0,female,"office mosquito (gambiae?) - P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+mxPCR7881535,1.125x,93,2,28620,1,189,E12,steph1-infect-A-37C-dil,steph1-infect-A-37C-dil-rep2,Anopheles_stephensi,buffer A,1.4,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+mxPCR7881536,1.125x,94,2,28620,1,190,F12,steph2-infect-A-37C-dil,steph2-infect-A-37C-dil-rep2,Anopheles_stephensi,buffer A,2,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul"
+mxPCR7881537,1.125x,95,2,28620,1,191,G12,steph-A-37C-dil,steph-A-37C-dil-rep2,Anopheles_stephensi,buffer A,1.4,female,"Silvain mosquito (An. stephensi) - P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+mxPCR7881538,1.125x,96,2,28620,1,192,H12,blank-A-infect-dil,blank-A-infect-dil-rep2,blank_sample,buffer A,0,,Infected set - A blank (1:10) ~0.0ng/ul
+mxPCR7881539,1.25x,1,3,28620,1,193,A1,male-RT-A-dil,male-RT-A-dil-rep3,Anopheles_coluzzii,buffer A,0.55,male,"1 (A1) - male, RT, A (1) (1:10) ~0.55ng/ul"
+mxPCR7881540,1.25x,2,3,28620,1,194,B1,male-RT-C-dil,male-RT-C-dil-rep3,Anopheles_coluzzii,buffer C,0.16,male,"2 (B1) - male, RT, C (1) (1:10) ~0.16ng/ul"
+mxPCR7881541,1.25x,3,3,28620,1,195,C1,male-RT-G-con,male-RT-G-con-rep3,Anopheles_coluzzii,buffer G,3.8,male,"3 (C1) - male, RT, G (1) (undil) ~3.8ng/ul"
+mxPCR7881542,1.25x,4,3,28620,1,196,D1,male-RT-G-dil,male-RT-G-dil-rep3,Anopheles_coluzzii,buffer G,1.9,male,"3 (C1) - male, RT, G (1) (1:2) ~1.9ng/ul"
+mxPCR7881543,1.25x,5,3,28620,1,197,E1,female-RT-A-dil,female-RT-A-dil-rep3,Anopheles_coluzzii,buffer A,0.58,female,"7 (G1) - female, RT, A (1) (1:10) ~0.58ng/ul"
+mxPCR7881544,1.25x,6,3,28620,1,198,F1,female-RT-C-dil,female-RT-C-dil-rep3,Anopheles_coluzzii,buffer C,0.28,female,"8 (H1) - female, RT, C (1) (1:10) ~0.28ng/ul"
+mxPCR7881545,1.25x,7,3,28620,1,199,G1,female-RT-G-con,female-RT-G-con-rep3,Anopheles_coluzzii,buffer G,5.3,female,"9 (A2)- female, RT, G (1) (undil) ~5.3ng/ul"
+mxPCR7881546,1.25x,8,3,28620,1,200,H1,female-RT-G-dil,female-RT-G-dil-rep3,Anopheles_coluzzii,buffer G,2.6,female,"9 (A2) - female, RT, G (1) (1:2) ~2.6ng/ul"
+mxPCR7881547,1.25x,9,3,28620,1,201,A2,EtOH-RT-A-dil,EtOH-RT-A-dil-rep3,Anopheles_coluzzii,buffer A,0.09,unknown,"13 (E2) - EtOH, RT, A (1) (1:10) ~0.09ng/ul"
+mxPCR7881548,1.25x,10,3,28620,1,202,B2,EtOH-RT-C-dil,EtOH-RT-C-dil-rep3,Anopheles_coluzzii,buffer C,0.21,unknown,"14 (F2) - EtOH, RT, C (1) (1:10) ~0.21ng/ul"
+mxPCR7881549,1.25x,11,3,28620,1,203,C2,EtOH-RT-G-con,EtOH-RT-G-con-rep3,Anopheles_coluzzii,buffer G,2.7,unknown,"15 (G2) - EtOH, RT, G (1) (undil) ~2.7ng/ul"
+mxPCR7881550,1.25x,12,3,28620,1,204,D2,EtOH-RT-G-dil,EtOH-RT-G-dil-rep3,Anopheles_coluzzii,buffer G,1.3,unknown,"15 (G2) - EtOH, RT, G (1) (1:2) ~1.3ng/ul"
+mxPCR7881551,1.25x,13,3,28620,1,205,E2,male-37C-A-dil,male-37C-A-dil-rep3,Anopheles_coluzzii,buffer A,0.52,male,"19 (C3) - male, 37C, A (1) (1:10) ~0.52ng/ul"
+mxPCR7881552,1.25x,14,3,28620,1,206,F2,male-37C-C-dil,male-37C-C-dil-rep3,Anopheles_coluzzii,buffer C,0.24,male,"20 (D3) - male, 37C, C (1) (1:10) ~0.24ng/ul"
+mxPCR7881553,1.25x,15,3,28620,1,207,G2,male-37C-G-con,male-37C-G-con-rep3,Anopheles_coluzzii,buffer G,2.7,male,"21 (E3) - male, 37C, G (1) (undil) ~2.7ng/ul"
+mxPCR7881554,1.25x,16,3,28620,1,208,H2,male-37C-G-dil,male-37C-G-dil-rep3,Anopheles_coluzzii,buffer G,1.3,male,"21 (E3) - male, 37C, G (1) (1:2) ~1.3ng/ul"
+mxPCR7881555,1.25x,17,3,28620,1,209,A3,female-37C-A-dil,female-37C-A-dil-rep3,Anopheles_coluzzii,buffer A,1.46,female,"25 (A4) - female, 37C, A (1) (1:10) ~1.46ng/ul"
+mxPCR7881556,1.25x,18,3,28620,1,210,B3,female-37C-C-dil,female-37C-C-dil-rep3,Anopheles_coluzzii,buffer C,0.47,female,"26 (B4) - female, 37C, C (1) (1:10) ~0.47ng/ul"
+mxPCR7881557,1.25x,19,3,28620,1,211,C3,female-37C-G-con,female-37C-G-con-rep3,Anopheles_coluzzii,buffer G,4.6,female,"27 (C4) - female, 37C, G (1) (undil) ~4.6ng/ul"
+mxPCR7881558,1.25x,20,3,28620,1,212,D3,female-37C-G-dil,female-37C-G-dil-rep3,Anopheles_coluzzii,buffer G,2.3,female,"27 (C4) - female, 37C, G (1) (1:2) ~2.3ng/ul"
+mxPCR7881559,1.25x,21,3,28620,1,213,E3,EtOH-37C-A-dil,EtOH-37C-A-dil-rep3,Anopheles_coluzzii,buffer A,0.42,unknown,"31 (G4) - EtOH, 37C, A (1) (1:10) ~0.42ng/ul"
+mxPCR7881560,1.25x,22,3,28620,1,214,F3,EtOH-37C-C-dil,EtOH-37C-C-dil-rep3,Anopheles_coluzzii,buffer C,0.11,unknown,"32 (H4) - EtOH, 37C, C (1) (1:10) ~0.11ng/ul"
+mxPCR7881561,1.25x,23,3,28620,1,215,G3,EtOH-37C-G-con,EtOH-37C-G-con-rep3,Anopheles_coluzzii,buffer G,3.9,unknown,"33 (A5) - EtOH, 37C, G (1) (undil) ~3.9ng/ul"
+mxPCR7881562,1.25x,24,3,28620,1,216,H3,EtOH-37C-G-dil,EtOH-37C-G-dil-rep3,Anopheles_coluzzii,buffer G,1.9,unknown,"33 (A5) - EtOH, 37C, G (1) (1:2) ~1.9ng/ul"
+mxPCR7881563,1.25x,25,3,28620,1,217,A4,VBS24107-A-RT-dil,VBS24107-A-RT-dil-rep3,Anopheles_funestus,buffer A,0.98,female,"37 (A6) - KP13, RT, A (1:10) ~0.98ng/ul"
+mxPCR7881564,1.25x,26,3,28620,1,218,B4,VBS24108-C-RT-dil,VBS24108-C-RT-dil-rep3,Anopheles_funestus,buffer C,0.49,female,"38 (B6) - KP14, RT, C (1:10) ~0.49ng/ul"
+mxPCR7881565,1.25x,27,3,28620,1,219,C4,VBS24109-G-RT-con,VBS24109-G-RT-con-rep3,Anopheles_funestus,buffer G,3.9,female,"39 (C6) - KP15, RT, G (undil) ~3.9ng/ul"
+mxPCR7881566,1.25x,28,3,28620,1,220,D4,VBS24109-G-RT-dil,VBS24109-G-RT-dil-rep3,Anopheles_funestus,buffer G,1.9,female,"39 (C6) - KP15, RT, G (1:2) ~1.9ng/ul"
+mxPCR7881567,1.25x,29,3,28620,1,221,E4,VBS24110-C-RT-dil,VBS24110-C-RT-dil-rep3,Anopheles_funestus,buffer C,0.85,female,"40 (D6) - KP16, RT, C (1:10) ~0.85ng/ul"
+mxPCR7881568,1.25x,30,3,28620,1,222,F4,VBS24111-G-RT-con,VBS24111-G-RT-con-rep3,Anopheles_funestus,buffer G,2.7,female,"41 (E6) - KP17, RT, G (undil) ~2.7ng/ul"
+mxPCR7881569,1.25x,31,3,28620,1,223,G4,VBS24111-G-RT-dil,VBS24111-G-RT-dil-rep3,Anopheles_funestus,buffer G,1.3,female,"41 (E6) - KP17, RT, G (1:2) ~1.3ng/ul"
+mxPCR7881570,1.25x,32,3,28620,1,224,H4,blank-A-dil,blank-A-dil-rep3,blank_sample,buffer A,0,,57 (E8) - A blank (1:10) ~0ng/ul
+mxPCR7881571,1.25x,33,3,28620,1,225,A5,VBS24112-A-37C-dil,VBS24112-A-37C-dil-rep3,Anopheles_funestus,buffer A,1.96,female,"42 (F6) - KP18, 37C, A (1:10) ~1.96ng/ul"
+mxPCR7881572,1.25x,34,3,28620,1,226,B5,VBS24113-C-37C-dil,VBS24113-C-37C-dil-rep3,Anopheles_funestus,buffer C,0.5,female,"43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul"
+mxPCR7881573,1.25x,35,3,28620,1,227,C5,VBS24114-G-37C-con,VBS24114-G-37C-con-rep3,Anopheles_funestus,buffer G,3.2,female,"44 (H6) - KP20, 37C, G (undil) ~3.2ng/ul"
+mxPCR7881574,1.25x,36,3,28620,1,228,D5,VBS24114-G-37C-dil,VBS24114-G-37C-dil-rep3,Anopheles_funestus,buffer G,1.6,female,"44 (H6) - KP20, 37C, G (1:2) ~1.6ng/ul"
+mxPCR7881575,1.25x,37,3,28620,1,229,E5,VBS24115-C-37C-dil,VBS24115-C-37C-dil-rep3,Anopheles_funestus,buffer C,0.4,female,"45 (A7) - KP21, 37C, C (1:10) ~0.40ng/ul"
+mxPCR7881576,1.25x,38,3,28620,1,230,F5,VBS24116-G-37C-con,VBS24116-G-37C-con-rep3,Anopheles_funestus,buffer G,4.1,female,"46 (B7) - KP22, 37C, G (undil) ~4.1ng/ul"
+mxPCR7881577,1.25x,39,3,28620,1,231,G5,VBS24116-G-37C-dil,VBS24116-G-37C-dil-rep3,Anopheles_funestus,buffer G,2,female,"46 (B7) - KP22, 37C, G (1:2) ~2.0ng/ul"
+mxPCR7881578,1.25x,40,3,28620,1,232,H5,blank-C-dil,blank-C-dil-rep3,blank_sample,buffer C,0,,58 (F8) - C blank (1:10) ~0ng/ul
+mxPCR7881579,1.25x,41,3,28620,1,233,A6,VBS24027-A-RT-dil,VBS24027-A-RT-dil-rep3,Anopheles_funestus,buffer A,1.18,female,"47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul"
+mxPCR7881580,1.25x,42,3,28620,1,234,B6,VBS24028-C-RT-dil,VBS24028-C-RT-dil-rep3,Anopheles_funestus,buffer C,0.57,female,"48 (D7) - TZ36, RT, C (1:10) ~0.57ng/ul"
+mxPCR7881581,1.25x,43,3,28620,1,235,C6,VBS24029-G-RT-con,VBS24029-G-RT-con-rep3,Anopheles_funestus,buffer G,8,female,"49 (E7) - TZ37, RT, G (undil) ~8.0ng/ul"
+mxPCR7881582,1.25x,44,3,28620,1,236,D6,VBS24029-G-RT-dil,VBS24029-G-RT-dil-rep3,Anopheles_funestus,buffer G,4,female,"49 (E7) - TZ37, RT, G (1:2) ~4.0ng/ul"
+mxPCR7881583,1.25x,45,3,28620,1,237,E6,VBS24030-C-RT-dil,VBS24030-C-RT-dil-rep3,Anopheles_funestus,buffer C,1.26,female,"50 (F7) - TZ38, RT, C (1:10) ~1.26ng/ul"
+mxPCR7881584,1.25x,46,3,28620,1,238,F6,VBS24031-G-RT-con,VBS24031-G-RT-con-rep3,Anopheles_funestus,buffer G,5.3,female,"51 (G7) - TZ39, RT, G (undil) ~5.3ng/ul"
+mxPCR7881585,1.25x,47,3,28620,1,239,G6,VBS24031-G-RT-dil,VBS24031-G-RT-dil-rep3,Anopheles_funestus,buffer G,2.6,female,"51 (G7) - TZ39, RT, G (1:2) ~2.6ng/ul"
+mxPCR7881586,1.25x,48,3,28620,1,240,H6,blank-G-con,blank-G-con-rep3,blank_sample,buffer G,0,,59 (G8) - G blank (undil) ~0ng/ul
+mxPCR7881587,1.25x,49,3,28620,1,241,A7,VBS24032-A-37C-dil,VBS24032-A-37C-dil-rep3,Anopheles_funestus,buffer A,1.76,female,"52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul"
+mxPCR7881588,1.25x,50,3,28620,1,242,B7,VBS24033-C-37C-dil,VBS24033-C-37C-dil-rep3,Anopheles_funestus,buffer C,0.25,female,"53 (A8) - TZ41, 37C, C (1:10) ~0.25ng/ul"
+mxPCR7881589,1.25x,51,3,28620,1,243,C7,VBS24034-G-37C-con,VBS24034-G-37C-con-rep3,Anopheles_funestus,buffer G,2.6,female,"54 (B8) - TZ42, 37C, G (undil) ~2.6ng/ul"
+mxPCR7881590,1.25x,52,3,28620,1,244,D7,VBS24034-G-37C-dil,VBS24034-G-37C-dil-rep3,Anopheles_funestus,buffer G,1.3,female,"54 (B8) - TZ42, 37C, G (1:2) ~1.3ng/ul"
+mxPCR7881591,1.25x,53,3,28620,1,245,E7,VBS24035-C-37C-dil,VBS24035-C-37C-dil-rep3,Anopheles_funestus,buffer C,0.65,female,"55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul"
+mxPCR7881592,1.25x,54,3,28620,1,246,F7,VBS24036-G-37C-con,VBS24036-G-37C-con-rep3,Anopheles_funestus,buffer G,3.2,female,"56 (D8) - TZ44, 37C, G (undil) ~3.2ng/ul"
+mxPCR7881593,1.25x,55,3,28620,1,247,G7,VBS24036-G-37C-dil,VBS24036-G-37C-dil-rep3,Anopheles_funestus,buffer G,1.6,female,"56 (D8) - TZ44, 37C, G (1:2) ~1.6ng/ul"
+mxPCR7881594,1.25x,56,3,28620,1,248,H7,blank-G-dil,blank-G-dil-rep3,blank_sample,buffer G,0,,59 (G8) - G blank (1:2) ~0ng/ul
+mxPCR7881595,1.25x,57,3,28620,1,249,A8,VBS00001-con,VBS00001-con-rep3,Anopheles_annularis,non-WGA,0.2,,VBS00001 (A1) ~0.2ng/ul
+mxPCR7881596,1.25x,58,3,28620,1,250,B8,water-3-1,water-3-1-rep3,blank_sample,,,,water
+mxPCR7881597,1.25x,59,3,28620,1,251,C8,VBS00053-dil,VBS00053-dil-rep3,Anopheles_aconitus,WGA,3.9,,VBS00053 (F2) (1:2) ~3.9ng/ul
+mxPCR7881598,1.25x,60,3,28620,1,252,D8,VBS00084-dil,VBS00084-dil-rep3,Anopheles_hyrcanus,WGA,6.3,,VBS00084 (D3) (1:2) ~6.3ng/ul
+mxPCR7881599,1.25x,61,3,28620,1,253,E8,Acon-142-con,Acon-142-con-rep3,Anopheles_concolor,CTAB,0,,con.142
+mxPCR7881600,1.25x,62,3,28620,1,254,F8,Anils-7-con,Anils-7-con-rep3,Anopheles_nili_ss,QIAGEN,7.5,,nils.7
+mxPCR7881601,1.25x,63,3,28620,1,255,G8,Abro-33-con,Abro-33-con-rep3,Anopheles_brohieri,QIAGEN,0,,bro.33
+mxPCR7881602,1.25x,64,3,28620,1,256,H8,Abru-12-con,Abru-12-con-rep3,Anopheles_brunnipes,QIAGEN,0.5,,bru.12
+mxPCR7881603,1.25x,65,3,28620,1,257,A9,Acol-415-con,Acol-415-con-rep3,Anopheles_coluzzii,QIAGEN,0.2,,col.415
+mxPCR7881604,1.25x,66,3,28620,1,258,B9,Acou-956-con,Acou-956-con-rep3,Anopheles_coustani,QIAGEN,0.6,,cou.956
+mxPCR7881605,1.25x,67,3,28620,1,259,C9,Acol-645-con,Acol-645-con-rep3,Anopheles_coluzzii,QIAGEN,1.9,,col.645
+mxPCR7881606,1.25x,68,3,28620,1,260,D9,Adem-19-con,Adem-19-con-rep3,Anopheles_demeilloni,QIAGEN,0.6,,dem.19
+mxPCR7881607,1.25x,69,3,28620,1,261,E9,Adem-32-con,Adem-32-con-rep3,Anopheles_demeilloni,QIAGEN,0.3,,dem.32
+mxPCR7881608,1.25x,70,3,28620,1,262,F9,Adur-97.5-con,Adur-97.5-con-rep3,Anopheles_dureni,QIAGEN,0,,dur.97.5
+mxPCR7881609,1.25x,71,3,28620,1,263,G9,Afun-13-con,Afun-13-con-rep3,Anopheles_funestus,QIAGEN,0.2,,fun.13
+mxPCR7881610,1.25x,72,3,28620,1,264,H9,Afun-9-con,Afun-9-con-rep3,Anopheles_funestus,QIAGEN,0,,fun.9
+mxPCR7881611,1.25x,73,3,28620,1,265,A10,Aimp-M190-con,Aimp-M190-con-rep3,Anopheles_implexus,QIAGEN,3,,imp.M190
+mxPCR7881612,1.25x,74,3,28620,1,266,B10,Amac-47-con,Amac-47-con-rep3,Anopheles_maculipalpis,QIAGEN,0,,mac.47
+mxPCR7881613,1.25x,75,3,28620,1,267,C10,Amou-2-1-con,Amou-2-1-con-rep3,Anopheles_moucheti,CTAB,1.9,,mou.2.1
+mxPCR7881614,1.25x,76,3,28620,1,268,D10,Anil-237-con,Anil-237-con-rep3,Anopheles_nili,CTAB,0.6,,nil.237
+mxPCR7881615,1.25x,77,3,28620,1,269,E10,Apal-10-con,Apal-10-con-rep3,Anopheles_paludis,QIAGEN,0.3,,pal.10
+mxPCR7881616,1.25x,78,3,28620,1,270,F10,Apal-257-con,Apal-257-con-rep3,Anopheles_paludis,QIAGEN,0.5,,pal.257
+mxPCR7881617,1.25x,79,3,28620,1,271,G10,Apal-81-con,Apal-81-con-rep3,Anopheles_paludis,QIAGEN,1.5,,pal.81
+mxPCR7881618,1.25x,80,3,28620,1,272,H10,Arho-7-2-con,Arho-7-2-con-rep3,Anopheles_rhodesiensis,QIAGEN,0.3,,rho.7.2
+mxPCR7881619,1.25x,81,3,28620,1,273,A11,Athe-6-2-con,Athe-6-2-con-rep3,Anopheles_theileri,QIAGEN,0.4,,the.6.2
+mxPCR7881620,1.25x,82,3,28620,1,274,B11,Azie-1055-con,Azie-1055-con-rep3,Anopheles_ziemanni,QIAGEN,0.6,,zie.1055
+mxPCR7881621,1.25x,83,3,28620,1,275,C11,Aten-79-con,Aten-79-con-rep3,Anopheles_tenebrosus,QIAGEN,1.1,,ten.79
+mxPCR7881622,1.25x,84,3,28620,1,276,D11,Amar-3-1-con,Amar-3-1-con-rep3,Anopheles_marshallii,QIAGEN,0.6,,mar.3.1
+mxPCR7881623,1.25x,85,3,28620,1,277,E11,Abro-21-con,Abro-21-con-rep3,Anopheles_brohieri,QIAGEN,2.4,,bro.21
+mxPCR7881624,1.25x,86,3,28620,1,278,F11,Afun-3-con,Afun-3-con-rep3,Anopheles_funestus,QIAGEN,2.4,,fun.3
+mxPCR7881625,1.25x,87,3,28620,1,279,G11,VBS24014-A-pur,VBS24014-A-pur-rep3,Anopheles_funestus,"buffer A, MinElute purified",9.7,female,"TZ22 - A - MinElute, 9.7ng/ul"
+mxPCR7881626,1.25x,88,3,28620,1,280,H11,VBS24015-A-pur,VBS24015-A-pur-rep3,Anopheles_funestus,"buffer A, MinElute purified",4.8,female,"TZ23 - A - MinElute, 4.8ng/ul"
+mxPCR7881627,1.25x,89,3,28620,1,281,A12,body-infect-A-37C-dil,body-infect-A-37C-dil-rep3,Anopheles_gambiae,buffer A,10.3,female,"office mosquito (gambiae?) + P. falciparum (carcass), A 37C (1:10) ~10.3ng/ul"
+mxPCR7881628,1.25x,90,3,28620,1,282,B12,body-A-37C-dil,body-A-37C-dil-rep3,Anopheles_gambiae,buffer A,1.9,female,"office mosquito (gambiae?) - P. falciparum (carcass), A 37C (1:10) ~1.9ng/ul"
+mxPCR7881629,1.25x,91,3,28620,1,283,C12,Agut-infect-A-37C-dil,Agut-infect-A-37C-dil-rep3,Anopheles_gambiae,buffer A,0,female,"office mosquito (gambiae?) + P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+mxPCR7881630,1.25x,92,3,28620,1,284,D12,Agut-A-37C-dil,Agut-A-37C-dil-rep3,Anopheles_gambiae,buffer A,0,female,"office mosquito (gambiae?) - P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+mxPCR7881631,1.25x,93,3,28620,1,285,E12,steph1-infect-A-37C-dil,steph1-infect-A-37C-dil-rep3,Anopheles_stephensi,buffer A,1.4,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+mxPCR7881632,1.25x,94,3,28620,1,286,F12,steph2-infect-A-37C-dil,steph2-infect-A-37C-dil-rep3,Anopheles_stephensi,buffer A,2,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul"
+mxPCR7881633,1.25x,95,3,28620,1,287,G12,steph-A-37C-dil,steph-A-37C-dil-rep3,Anopheles_stephensi,buffer A,1.4,female,"Silvain mosquito (An. stephensi) - P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+mxPCR7881634,1.25x,96,3,28620,1,288,H12,blank-A-infect-dil,blank-A-infect-dil-rep3,blank_sample,buffer A,0,,Infected set - A blank (1:10) ~0.0ng/ul

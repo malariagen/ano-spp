@@ -1,0 +1,8 @@
+fofn: 'samples.csv'
+targets: 'pipeline_seekdeep/conf/targets.txt'
+overlaps: 'pipeline_seekdeep/conf/overlapStatuses.txt'
+lengths: 'pipeline_seekdeep/conf/lenCutOffs.txt'
+# processCluster commands applicable to v2.6.2
+# in v2.6.4, --collapselowfreqoneoffs and --lowfreqmultiplier are not available
+# also, --fracCutOff is set to 0 by analysis setup
+extraProcessClusterCommands: '--lowFreqMultiplier 10 --collapseLowFreqOneOffs --sampleMinTotalReadCutOff 5 --fracCutOff 0.05 '

@@ -1,0 +1,10 @@
+gainsboro*Agam_56	.
+gainsboro*Agam_57	Afun_57
+gainsboro*Agam_58	Afun_58
+gainsboro*Agam_59	Afun_59
+gainsboro*Agam_60	.
+gainsboro*Agam_61	Afun_61
+gainsboro*.	Afun_start
+gainsboro*.	Afun_end
+gainsboro*Agam_start	.
+gainsboro*Agam_end	.

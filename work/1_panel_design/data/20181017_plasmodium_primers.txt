@@ -1,0 +1,7 @@
+# Primers for Plasmodium speciation selected from mitochondrial genome by Chris Jacob 
+# Included in the mosquito phylogenetic panel by request from Mara Lawniczak
+primer  seq 3D7_start	3D7_stop
+Spec1_fp 	ACCATCCAATTTGATTGG	89	106
+Spec1_rp 	CTTGAGGCAGTTTGTTCC	298	315
+Spec2_fp 	TAGCGTGTATTGTTGCCTTG	1638	1657
+Spec2_rp 	CCTTTAATGTAGTTTCCTCACAGC	1870	1893

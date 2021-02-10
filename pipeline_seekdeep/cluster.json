@@ -1,0 +1,12 @@
+{
+    "__default__" :
+    {
+        "mem" : 1024,
+        "cores" : 1
+    },
+    "run_seekdeep":
+    {
+    	"mem": 4096,
+    	"cores": 4
+    }
+}

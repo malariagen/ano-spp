@@ -1,0 +1,12 @@
+{
+    "__default__" :
+    {
+        "mem" : 1024,
+        "cores" : 1
+    },
+    "dada2_haplotypes":
+    {
+    	"mem": 2048,
+    	"cores": 1
+    }
+}

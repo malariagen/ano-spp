@@ -1,0 +1,807 @@
+Sanger_Sample_ID,Pool,Original_well,Tag1,Tag2,Run,Lane,Tag,Replicate,Source_sample,Species,Conc_ng_ul,Note
+mxPCR8432506,1,A1,1,1,31658,1,1,1_un1,1_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432507,1,B1,2,1,31658,1,2,1_un2,1_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432508,1,C1,3,1,31658,1,3,1_un3,1_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432509,1,D1,4,1,31658,1,4,1_un4,1_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432510,1,E1,5,1,31658,1,5,1_un5,1_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432511,1,F1,6,1,31658,1,6,1_un6,1_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432512,1,G1,7,1,31658,1,7,1_un7,1_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432513,1,H1,8,1,31658,1,8,1_un8,1_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432514,1,A2,9,1,31658,1,9,1_0d1,1_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432515,1,B2,10,1,31658,1,10,1_0d2,1_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432516,1,C2,11,1,31658,1,11,1_0d3,1_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432517,1,D2,12,1,31658,1,12,1_0d4,1_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432518,1,E2,13,1,31658,1,13,1_0d5,1_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432519,1,F2,14,1,31658,1,14,1_0d6,1_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432520,1,G2,15,1,31658,1,15,1_0d7,1_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432521,1,H2,16,1,31658,1,16,1_0d8,1_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432522,1,A3,17,1,31658,1,17,1_1d1,1_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432523,1,B3,18,1,31658,1,18,1_1d2,1_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432524,1,C3,19,1,31658,1,19,1_1d3,1_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432525,1,D3,20,1,31658,1,20,1_1d4,1_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432526,1,E3,21,1,31658,1,21,1_1d5,1_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432527,1,F3,22,1,31658,1,22,1_1d6,1_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432528,1,G3,23,1,31658,1,23,1_1d7,1_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432529,1,H3,24,1,31658,1,24,1_1d8,1_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432530,1,A4,25,1,31658,1,25,1_3d1,1_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432531,1,B4,26,1,31658,1,26,1_3d2,1_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432532,1,C4,27,1,31658,1,27,1_3d3,1_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432533,1,D4,28,1,31658,1,28,1_3d4,1_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432534,1,E4,29,1,31658,1,29,1_3d5,1_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432535,1,F4,30,1,31658,1,30,1_3d6,1_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432536,1,G4,31,1,31658,1,31,1_3d7,1_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432537,1,H4,32,1,31658,1,32,1_3d8,1_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432538,1,A5,33,1,31658,1,33,1_9d1,1_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432539,1,B5,34,1,31658,1,34,1_9d2,1_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432540,1,C5,35,1,31658,1,35,1_9d3,1_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432541,1,D5,36,1,31658,1,36,1_9d4,1_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432542,1,E5,37,1,31658,1,37,1_9d5,1_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432543,1,F5,38,1,31658,1,38,1_9d6,1_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432544,1,G5,39,1,31658,1,39,1_9d7,1_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432545,1,H5,40,1,31658,1,40,1_9d8,1_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432546,1,A6,41,1,31658,1,41,1_ps10e8,1_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432547,1,B6,42,1,31658,1,42,1_ps10e7,1_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432548,1,C6,43,1,31658,1,43,1_ps10e6,1_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432549,1,D6,44,1,31658,1,44,1_ps10e5,1_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432550,1,E6,45,1,31658,1,45,1_ps10e4,1_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432551,1,A7,49,1,31658,1,46,1_pc10e8,1_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432552,1,B7,50,1,31658,1,47,1_pc10e7,1_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432553,1,C7,51,1,31658,1,48,1_pc10e6,1_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432554,1,D7,52,1,31658,1,49,1_pc10e5,1_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432555,1,E7,53,1,31658,1,50,1_pc10e4,1_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432556,2,A1,1,2,31658,1,51,2_un1,2_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432557,2,B1,2,2,31658,1,52,2_un2,2_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432558,2,C1,3,2,31658,1,53,2_un3,2_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432559,2,D1,4,2,31658,1,54,2_un4,2_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432560,2,E1,5,2,31658,1,55,2_un5,2_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432561,2,F1,6,2,31658,1,56,2_un6,2_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432562,2,G1,7,2,31658,1,57,2_un7,2_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432563,2,H1,8,2,31658,1,58,2_un8,2_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432564,2,A2,9,2,31658,1,59,2_0d1,2_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432565,2,B2,10,2,31658,1,60,2_0d2,2_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432566,2,C2,11,2,31658,1,61,2_0d3,2_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432567,2,D2,12,2,31658,1,62,2_0d4,2_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432568,2,E2,13,2,31658,1,63,2_0d5,2_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432569,2,F2,14,2,31658,1,64,2_0d6,2_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432570,2,G2,15,2,31658,1,65,2_0d7,2_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432571,2,H2,16,2,31658,1,66,2_0d8,2_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432572,2,A3,17,2,31658,1,67,2_1d1,2_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432573,2,B3,18,2,31658,1,68,2_1d2,2_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432574,2,C3,19,2,31658,1,69,2_1d3,2_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432575,2,D3,20,2,31658,1,70,2_1d4,2_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432576,2,E3,21,2,31658,1,71,2_1d5,2_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432577,2,F3,22,2,31658,1,72,2_1d6,2_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432578,2,G3,23,2,31658,1,73,2_1d7,2_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432579,2,H3,24,2,31658,1,74,2_1d8,2_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432580,2,A4,25,2,31658,1,75,2_3d1,2_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432581,2,B4,26,2,31658,1,76,2_3d2,2_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432582,2,C4,27,2,31658,1,77,2_3d3,2_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432583,2,D4,28,2,31658,1,78,2_3d4,2_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432584,2,E4,29,2,31658,1,79,2_3d5,2_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432585,2,F4,30,2,31658,1,80,2_3d6,2_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432586,2,G4,31,2,31658,1,81,2_3d7,2_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432587,2,H4,32,2,31658,1,82,2_3d8,2_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432588,2,A5,33,2,31658,1,83,2_9d1,2_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432589,2,B5,34,2,31658,1,84,2_9d2,2_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432590,2,C5,35,2,31658,1,85,2_9d3,2_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432591,2,D5,36,2,31658,1,86,2_9d4,2_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432592,2,E5,37,2,31658,1,87,2_9d5,2_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432593,2,F5,38,2,31658,1,88,2_9d6,2_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432594,2,G5,39,2,31658,1,89,2_9d7,2_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432595,2,H5,40,2,31658,1,90,2_9d8,2_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432596,2,A6,41,2,31658,1,91,2_ps10e8,2_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432597,2,B6,42,2,31658,1,92,2_ps10e7,2_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432598,2,C6,43,2,31658,1,93,2_ps10e6,2_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432599,2,D6,44,2,31658,1,94,2_ps10e5,2_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432600,2,E6,45,2,31658,1,95,2_ps10e4,2_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432601,2,A7,49,2,31658,1,96,2_pc10e8,2_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432602,2,B7,50,2,31658,1,97,2_pc10e7,2_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432603,2,C7,51,2,31658,1,98,2_pc10e6,2_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432604,2,D7,52,2,31658,1,99,2_pc10e5,2_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432605,2,E7,53,2,31658,1,100,2_pc10e4,2_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432606,3,A1,1,3,31658,1,101,3_un1,3_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432607,3,B1,2,3,31658,1,102,3_un2,3_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432608,3,C1,3,3,31658,1,103,3_un3,3_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432609,3,D1,4,3,31658,1,104,3_un4,3_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432610,3,E1,5,3,31658,1,105,3_un5,3_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432611,3,F1,6,3,31658,1,106,3_un6,3_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432612,3,G1,7,3,31658,1,107,3_un7,3_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432613,3,H1,8,3,31658,1,108,3_un8,3_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432614,3,A2,9,3,31658,1,109,3_0d1,3_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432615,3,B2,10,3,31658,1,110,3_0d2,3_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432616,3,C2,11,3,31658,1,111,3_0d3,3_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432617,3,D2,12,3,31658,1,112,3_0d4,3_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432618,3,E2,13,3,31658,1,113,3_0d5,3_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432619,3,F2,14,3,31658,1,114,3_0d6,3_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432620,3,G2,15,3,31658,1,115,3_0d7,3_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432621,3,H2,16,3,31658,1,116,3_0d8,3_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432622,3,A3,17,3,31658,1,117,3_1d1,3_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432623,3,B3,18,3,31658,1,118,3_1d2,3_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432624,3,C3,19,3,31658,1,119,3_1d3,3_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432625,3,D3,20,3,31658,1,120,3_1d4,3_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432626,3,E3,21,3,31658,1,121,3_1d5,3_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432627,3,F3,22,3,31658,1,122,3_1d6,3_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432628,3,G3,23,3,31658,1,123,3_1d7,3_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432629,3,H3,24,3,31658,1,124,3_1d8,3_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432630,3,A4,25,3,31658,1,125,3_3d1,3_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432631,3,B4,26,3,31658,1,126,3_3d2,3_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432632,3,C4,27,3,31658,1,127,3_3d3,3_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432633,3,D4,28,3,31658,1,128,3_3d4,3_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432634,3,E4,29,3,31658,1,129,3_3d5,3_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432635,3,F4,30,3,31658,1,130,3_3d6,3_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432636,3,G4,31,3,31658,1,131,3_3d7,3_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432637,3,H4,32,3,31658,1,132,3_3d8,3_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432638,3,A5,33,3,31658,1,133,3_9d1,3_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432639,3,B5,34,3,31658,1,134,3_9d2,3_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432640,3,C5,35,3,31658,1,135,3_9d3,3_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432641,3,D5,36,3,31658,1,136,3_9d4,3_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432642,3,E5,37,3,31658,1,137,3_9d5,3_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432643,3,F5,38,3,31658,1,138,3_9d6,3_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432644,3,G5,39,3,31658,1,139,3_9d7,3_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432645,3,H5,40,3,31658,1,140,3_9d8,3_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432646,3,A6,41,3,31658,1,141,3_ps10e8,3_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432647,3,B6,42,3,31658,1,142,3_ps10e7,3_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432648,3,C6,43,3,31658,1,143,3_ps10e6,3_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432649,3,D6,44,3,31658,1,144,3_ps10e5,3_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432650,3,E6,45,3,31658,1,145,3_ps10e4,3_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432651,3,A7,49,3,31658,1,146,3_pc10e8,3_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432652,3,B7,50,3,31658,1,147,3_pc10e7,3_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432653,3,C7,51,3,31658,1,148,3_pc10e6,3_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432654,3,D7,52,3,31658,1,149,3_pc10e5,3_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432655,3,E7,53,3,31658,1,150,3_pc10e4,3_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432656,4,A1,1,4,31658,1,151,4_un1,4_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432657,4,B1,2,4,31658,1,152,4_un2,4_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432658,4,C1,3,4,31658,1,153,4_un3,4_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432659,4,D1,4,4,31658,1,154,4_un4,4_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432660,4,E1,5,4,31658,1,155,4_un5,4_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432661,4,F1,6,4,31658,1,156,4_un6,4_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432662,4,G1,7,4,31658,1,157,4_un7,4_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432663,4,H1,8,4,31658,1,158,4_un8,4_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432664,4,A2,9,4,31658,1,159,4_0d1,4_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432665,4,B2,10,4,31658,1,160,4_0d2,4_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432666,4,C2,11,4,31658,1,161,4_0d3,4_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432667,4,D2,12,4,31658,1,162,4_0d4,4_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432668,4,E2,13,4,31658,1,163,4_0d5,4_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432669,4,F2,14,4,31658,1,164,4_0d6,4_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432670,4,G2,15,4,31658,1,165,4_0d7,4_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432671,4,H2,16,4,31658,1,166,4_0d8,4_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432672,4,A3,17,4,31658,1,167,4_1d1,4_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432673,4,B3,18,4,31658,1,168,4_1d2,4_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432674,4,C3,19,4,31658,1,169,4_1d3,4_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432675,4,D3,20,4,31658,1,170,4_1d4,4_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432676,4,E3,21,4,31658,1,171,4_1d5,4_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432677,4,F3,22,4,31658,1,172,4_1d6,4_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432678,4,G3,23,4,31658,1,173,4_1d7,4_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432679,4,H3,24,4,31658,1,174,4_1d8,4_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432680,4,A4,25,4,31658,1,175,4_3d1,4_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432681,4,B4,26,4,31658,1,176,4_3d2,4_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432682,4,C4,27,4,31658,1,177,4_3d3,4_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432683,4,D4,28,4,31658,1,178,4_3d4,4_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432684,4,E4,29,4,31658,1,179,4_3d5,4_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432685,4,F4,30,4,31658,1,180,4_3d6,4_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432686,4,G4,31,4,31658,1,181,4_3d7,4_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432687,4,H4,32,4,31658,1,182,4_3d8,4_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432688,4,A5,33,4,31658,1,183,4_9d1,4_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432689,4,B5,34,4,31658,1,184,4_9d2,4_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432690,4,C5,35,4,31658,1,185,4_9d3,4_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432691,4,D5,36,4,31658,1,186,4_9d4,4_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432692,4,E5,37,4,31658,1,187,4_9d5,4_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432693,4,F5,38,4,31658,1,188,4_9d6,4_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432694,4,G5,39,4,31658,1,189,4_9d7,4_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432695,4,H5,40,4,31658,1,190,4_9d8,4_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432696,4,A6,41,4,31658,1,191,4_ps10e8,4_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432697,4,B6,42,4,31658,1,192,4_ps10e7,4_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432698,4,C6,43,4,31658,1,193,4_ps10e6,4_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432699,4,D6,44,4,31658,1,194,4_ps10e5,4_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432700,4,E6,45,4,31658,1,195,4_ps10e4,4_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432701,4,A7,49,4,31658,1,196,4_pc10e8,4_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432702,4,B7,50,4,31658,1,197,4_pc10e7,4_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432703,4,C7,51,4,31658,1,198,4_pc10e6,4_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432704,4,D7,52,4,31658,1,199,4_pc10e5,4_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432705,4,E7,53,4,31658,1,200,4_pc10e4,4_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432706,5,A1,1,5,31658,1,201,5_un1,5_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432707,5,B1,2,5,31658,1,202,5_un2,5_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432708,5,C1,3,5,31658,1,203,5_un3,5_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432709,5,D1,4,5,31658,1,204,5_un4,5_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432710,5,E1,5,5,31658,1,205,5_un5,5_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432711,5,F1,6,5,31658,1,206,5_un6,5_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432712,5,G1,7,5,31658,1,207,5_un7,5_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432713,5,H1,8,5,31658,1,208,5_un8,5_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432714,5,A2,9,5,31658,1,209,5_0d1,5_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432715,5,B2,10,5,31658,1,210,5_0d2,5_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432716,5,C2,11,5,31658,1,211,5_0d3,5_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432717,5,D2,12,5,31658,1,212,5_0d4,5_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432718,5,E2,13,5,31658,1,213,5_0d5,5_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432719,5,F2,14,5,31658,1,214,5_0d6,5_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432720,5,G2,15,5,31658,1,215,5_0d7,5_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432721,5,H2,16,5,31658,1,216,5_0d8,5_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432722,5,A3,17,5,31658,1,217,5_1d1,5_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432723,5,B3,18,5,31658,1,218,5_1d2,5_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432724,5,C3,19,5,31658,1,219,5_1d3,5_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432725,5,D3,20,5,31658,1,220,5_1d4,5_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432726,5,E3,21,5,31658,1,221,5_1d5,5_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432727,5,F3,22,5,31658,1,222,5_1d6,5_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432728,5,G3,23,5,31658,1,223,5_1d7,5_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432729,5,H3,24,5,31658,1,224,5_1d8,5_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432730,5,A4,25,5,31658,1,225,5_3d1,5_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432731,5,B4,26,5,31658,1,226,5_3d2,5_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432732,5,C4,27,5,31658,1,227,5_3d3,5_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432733,5,D4,28,5,31658,1,228,5_3d4,5_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432734,5,E4,29,5,31658,1,229,5_3d5,5_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432735,5,F4,30,5,31658,1,230,5_3d6,5_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432736,5,G4,31,5,31658,1,231,5_3d7,5_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432737,5,H4,32,5,31658,1,232,5_3d8,5_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432738,5,A5,33,5,31658,1,233,5_9d1,5_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432739,5,B5,34,5,31658,1,234,5_9d2,5_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432740,5,C5,35,5,31658,1,235,5_9d3,5_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432741,5,D5,36,5,31658,1,236,5_9d4,5_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432742,5,E5,37,5,31658,1,237,5_9d5,5_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432743,5,F5,38,5,31658,1,238,5_9d6,5_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432744,5,G5,39,5,31658,1,239,5_9d7,5_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432745,5,H5,40,5,31658,1,240,5_9d8,5_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432746,5,A6,41,5,31658,1,241,5_ps10e8,5_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432747,5,B6,42,5,31658,1,242,5_ps10e7,5_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432748,5,C6,43,5,31658,1,243,5_ps10e6,5_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432749,5,D6,44,5,31658,1,244,5_ps10e5,5_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432750,5,E6,45,5,31658,1,245,5_ps10e4,5_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432751,5,A7,49,5,31658,1,246,5_pc10e8,5_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432752,5,B7,50,5,31658,1,247,5_pc10e7,5_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432753,5,C7,51,5,31658,1,248,5_pc10e6,5_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432754,5,D7,52,5,31658,1,249,5_pc10e5,5_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432755,5,E7,53,5,31658,1,250,5_pc10e4,5_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432756,6,A1,1,6,31658,1,251,6_un1,6_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432757,6,B1,2,6,31658,1,252,6_un2,6_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432758,6,C1,3,6,31658,1,253,6_un3,6_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432759,6,D1,4,6,31658,1,254,6_un4,6_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432760,6,E1,5,6,31658,1,255,6_un5,6_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432761,6,F1,6,6,31658,1,256,6_un6,6_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432762,6,G1,7,6,31658,1,257,6_un7,6_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432763,6,H1,8,6,31658,1,258,6_un8,6_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432764,6,A2,9,6,31658,1,259,6_0d1,6_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432765,6,B2,10,6,31658,1,260,6_0d2,6_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432766,6,C2,11,6,31658,1,261,6_0d3,6_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432767,6,D2,12,6,31658,1,262,6_0d4,6_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432768,6,E2,13,6,31658,1,263,6_0d5,6_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432769,6,F2,14,6,31658,1,264,6_0d6,6_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432770,6,G2,15,6,31658,1,265,6_0d7,6_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432771,6,H2,16,6,31658,1,266,6_0d8,6_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432772,6,A3,17,6,31658,1,267,6_1d1,6_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432773,6,B3,18,6,31658,1,268,6_1d2,6_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432774,6,C3,19,6,31658,1,269,6_1d3,6_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432775,6,D3,20,6,31658,1,270,6_1d4,6_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432776,6,E3,21,6,31658,1,271,6_1d5,6_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432777,6,F3,22,6,31658,1,272,6_1d6,6_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432778,6,G3,23,6,31658,1,273,6_1d7,6_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432779,6,H3,24,6,31658,1,274,6_1d8,6_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432780,6,A4,25,6,31658,1,275,6_3d1,6_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432781,6,B4,26,6,31658,1,276,6_3d2,6_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432782,6,C4,27,6,31658,1,277,6_3d3,6_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432783,6,D4,28,6,31658,1,278,6_3d4,6_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432784,6,E4,29,6,31658,1,279,6_3d5,6_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432785,6,F4,30,6,31658,1,280,6_3d6,6_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432786,6,G4,31,6,31658,1,281,6_3d7,6_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432787,6,H4,32,6,31658,1,282,6_3d8,6_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432788,6,A5,33,6,31658,1,283,6_9d1,6_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432789,6,B5,34,6,31658,1,284,6_9d2,6_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432790,6,C5,35,6,31658,1,285,6_9d3,6_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432791,6,D5,36,6,31658,1,286,6_9d4,6_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432792,6,E5,37,6,31658,1,287,6_9d5,6_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432793,6,F5,38,6,31658,1,288,6_9d6,6_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432794,6,G5,39,6,31658,1,289,6_9d7,6_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432795,6,H5,40,6,31658,1,290,6_9d8,6_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432796,6,A6,41,6,31658,1,291,6_ps10e8,6_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432797,6,B6,42,6,31658,1,292,6_ps10e7,6_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432798,6,C6,43,6,31658,1,293,6_ps10e6,6_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432799,6,D6,44,6,31658,1,294,6_ps10e5,6_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432800,6,E6,45,6,31658,1,295,6_ps10e4,6_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432801,6,A7,49,6,31658,1,296,6_pc10e8,6_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432802,6,B7,50,6,31658,1,297,6_pc10e7,6_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432803,6,C7,51,6,31658,1,298,6_pc10e6,6_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432804,6,D7,52,6,31658,1,299,6_pc10e5,6_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432805,6,E7,53,6,31658,1,300,6_pc10e4,6_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432806,7,A1,1,7,31658,1,301,7_un1,7_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432807,7,B1,2,7,31658,1,302,7_un2,7_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432808,7,C1,3,7,31658,1,303,7_un3,7_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432809,7,D1,4,7,31658,1,304,7_un4,7_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432810,7,E1,5,7,31658,1,305,7_un5,7_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432811,7,F1,6,7,31658,1,306,7_un6,7_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432812,7,G1,7,7,31658,1,307,7_un7,7_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432813,7,H1,8,7,31658,1,308,7_un8,7_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432814,7,A2,9,7,31658,1,309,7_0d1,7_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432815,7,B2,10,7,31658,1,310,7_0d2,7_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432816,7,C2,11,7,31658,1,311,7_0d3,7_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432817,7,D2,12,7,31658,1,312,7_0d4,7_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432818,7,E2,13,7,31658,1,313,7_0d5,7_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432819,7,F2,14,7,31658,1,314,7_0d6,7_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432820,7,G2,15,7,31658,1,315,7_0d7,7_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432821,7,H2,16,7,31658,1,316,7_0d8,7_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432822,7,A3,17,7,31658,1,317,7_1d1,7_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432823,7,B3,18,7,31658,1,318,7_1d2,7_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432824,7,C3,19,7,31658,1,319,7_1d3,7_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432825,7,D3,20,7,31658,1,320,7_1d4,7_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432826,7,E3,21,7,31658,1,321,7_1d5,7_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432827,7,F3,22,7,31658,1,322,7_1d6,7_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432828,7,G3,23,7,31658,1,323,7_1d7,7_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432829,7,H3,24,7,31658,1,324,7_1d8,7_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432830,7,A4,25,7,31658,1,325,7_3d1,7_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432831,7,B4,26,7,31658,1,326,7_3d2,7_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432832,7,C4,27,7,31658,1,327,7_3d3,7_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432833,7,D4,28,7,31658,1,328,7_3d4,7_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432834,7,E4,29,7,31658,1,329,7_3d5,7_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432835,7,F4,30,7,31658,1,330,7_3d6,7_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432836,7,G4,31,7,31658,1,331,7_3d7,7_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432837,7,H4,32,7,31658,1,332,7_3d8,7_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432838,7,A5,33,7,31658,1,333,7_9d1,7_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432839,7,B5,34,7,31658,1,334,7_9d2,7_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432840,7,C5,35,7,31658,1,335,7_9d3,7_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432841,7,D5,36,7,31658,1,336,7_9d4,7_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432842,7,E5,37,7,31658,1,337,7_9d5,7_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432843,7,F5,38,7,31658,1,338,7_9d6,7_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432844,7,G5,39,7,31658,1,339,7_9d7,7_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432845,7,H5,40,7,31658,1,340,7_9d8,7_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432846,7,A6,41,7,31658,1,341,7_ps10e8,7_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432847,7,B6,42,7,31658,1,342,7_ps10e7,7_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432848,7,C6,43,7,31658,1,343,7_ps10e6,7_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432849,7,D6,44,7,31658,1,344,7_ps10e5,7_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432850,7,E6,45,7,31658,1,345,7_ps10e4,7_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432851,7,A7,49,7,31658,1,346,7_pc10e8,7_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432852,7,B7,50,7,31658,1,347,7_pc10e7,7_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432853,7,C7,51,7,31658,1,348,7_pc10e6,7_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432854,7,D7,52,7,31658,1,349,7_pc10e5,7_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432855,7,E7,53,7,31658,1,350,7_pc10e4,7_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432856,8,A1,1,8,31658,1,351,8_un1,8_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432857,8,B1,2,8,31658,1,352,8_un2,8_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432858,8,C1,3,8,31658,1,353,8_un3,8_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432859,8,D1,4,8,31658,1,354,8_un4,8_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432860,8,E1,5,8,31658,1,355,8_un5,8_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432861,8,F1,6,8,31658,1,356,8_un6,8_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432862,8,G1,7,8,31658,1,357,8_un7,8_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432863,8,H1,8,8,31658,1,358,8_un8,8_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432864,8,A2,9,8,31658,1,359,8_0d1,8_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432865,8,B2,10,8,31658,1,360,8_0d2,8_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432866,8,C2,11,8,31658,1,361,8_0d3,8_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432867,8,D2,12,8,31658,1,362,8_0d4,8_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432868,8,E2,13,8,31658,1,363,8_0d5,8_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432869,8,F2,14,8,31658,1,364,8_0d6,8_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432870,8,G2,15,8,31658,1,365,8_0d7,8_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432871,8,H2,16,8,31658,1,366,8_0d8,8_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432872,8,A3,17,8,31658,1,367,8_1d1,8_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432873,8,B3,18,8,31658,1,368,8_1d2,8_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432874,8,C3,19,8,31658,1,369,8_1d3,8_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432875,8,D3,20,8,31658,1,370,8_1d4,8_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432876,8,E3,21,8,31658,1,371,8_1d5,8_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432877,8,F3,22,8,31658,1,372,8_1d6,8_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432878,8,G3,23,8,31658,1,373,8_1d7,8_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432879,8,H3,24,8,31658,1,374,8_1d8,8_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432880,8,A4,25,8,31658,1,375,8_3d1,8_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432881,8,B4,26,8,31658,1,376,8_3d2,8_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432882,8,C4,27,8,31658,1,377,8_3d3,8_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432883,8,D4,28,8,31658,1,378,8_3d4,8_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432884,8,E4,29,8,31658,1,379,8_3d5,8_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432885,8,F4,30,8,31658,1,380,8_3d6,8_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432886,8,G4,31,8,31658,1,381,8_3d7,8_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432887,8,H4,32,8,31658,1,382,8_3d8,8_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432888,8,A5,33,8,31658,1,383,8_9d1,8_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432889,8,B5,34,8,31658,1,384,8_9d2,8_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432890,8,C5,35,8,31658,1,385,8_9d3,8_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432891,8,D5,36,8,31658,1,386,8_9d4,8_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432892,8,E5,37,8,31658,1,387,8_9d5,8_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432893,8,F5,38,8,31658,1,388,8_9d6,8_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432894,8,G5,39,8,31658,1,389,8_9d7,8_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432895,8,H5,40,8,31658,1,390,8_9d8,8_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432896,8,A6,41,8,31658,1,391,8_ps10e8,8_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432897,8,B6,42,8,31658,1,392,8_ps10e7,8_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432898,8,C6,43,8,31658,1,393,8_ps10e6,8_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432899,8,D6,44,8,31658,1,394,8_ps10e5,8_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432900,8,E6,45,8,31658,1,395,8_ps10e4,8_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432901,8,A7,49,8,31658,1,396,8_pc10e8,8_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432902,8,B7,50,8,31658,1,397,8_pc10e7,8_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432903,8,C7,51,8,31658,1,398,8_pc10e6,8_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432904,8,D7,52,8,31658,1,399,8_pc10e5,8_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432905,8,E7,53,8,31658,1,400,8_pc10e4,8_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432906,9,A1,1,9,31658,1,401,9_un1,9_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432907,9,B1,2,9,31658,1,402,9_un2,9_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432908,9,C1,3,9,31658,1,403,9_un3,9_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432909,9,D1,4,9,31658,1,404,9_un4,9_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432910,9,E1,5,9,31658,1,405,9_un5,9_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432911,9,F1,6,9,31658,1,406,9_un6,9_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432912,9,G1,7,9,31658,1,407,9_un7,9_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432913,9,H1,8,9,31658,1,408,9_un8,9_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432914,9,A2,9,9,31658,1,409,9_0d1,9_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432915,9,B2,10,9,31658,1,410,9_0d2,9_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432916,9,C2,11,9,31658,1,411,9_0d3,9_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432917,9,D2,12,9,31658,1,412,9_0d4,9_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432918,9,E2,13,9,31658,1,413,9_0d5,9_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432919,9,F2,14,9,31658,1,414,9_0d6,9_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432920,9,G2,15,9,31658,1,415,9_0d7,9_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432921,9,H2,16,9,31658,1,416,9_0d8,9_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432922,9,A3,17,9,31658,1,417,9_1d1,9_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432923,9,B3,18,9,31658,1,418,9_1d2,9_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432924,9,C3,19,9,31658,1,419,9_1d3,9_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432925,9,D3,20,9,31658,1,420,9_1d4,9_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432926,9,E3,21,9,31658,1,421,9_1d5,9_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432927,9,F3,22,9,31658,1,422,9_1d6,9_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432928,9,G3,23,9,31658,1,423,9_1d7,9_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432929,9,H3,24,9,31658,1,424,9_1d8,9_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432930,9,A4,25,9,31658,1,425,9_3d1,9_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432931,9,B4,26,9,31658,1,426,9_3d2,9_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432932,9,C4,27,9,31658,1,427,9_3d3,9_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432933,9,D4,28,9,31658,1,428,9_3d4,9_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432934,9,E4,29,9,31658,1,429,9_3d5,9_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432935,9,F4,30,9,31658,1,430,9_3d6,9_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432936,9,G4,31,9,31658,1,431,9_3d7,9_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432937,9,H4,32,9,31658,1,432,9_3d8,9_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432938,9,A5,33,9,31658,1,433,9_9d1,9_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432939,9,B5,34,9,31658,1,434,9_9d2,9_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432940,9,C5,35,9,31658,1,435,9_9d3,9_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432941,9,D5,36,9,31658,1,436,9_9d4,9_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432942,9,E5,37,9,31658,1,437,9_9d5,9_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432943,9,F5,38,9,31658,1,438,9_9d6,9_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432944,9,G5,39,9,31658,1,439,9_9d7,9_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432945,9,H5,40,9,31658,1,440,9_9d8,9_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432946,9,A6,41,9,31658,1,441,9_ps10e8,9_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432947,9,B6,42,9,31658,1,442,9_ps10e7,9_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432948,9,C6,43,9,31658,1,443,9_ps10e6,9_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432949,9,D6,44,9,31658,1,444,9_ps10e5,9_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8432950,9,E6,45,9,31658,1,445,9_ps10e4,9_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8432951,9,A7,49,9,31658,1,446,9_pc10e8,9_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8432952,9,B7,50,9,31658,1,447,9_pc10e7,9_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8432953,9,C7,51,9,31658,1,448,9_pc10e6,9_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8432954,9,D7,52,9,31658,1,449,9_pc10e5,9_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8432955,9,E7,53,9,31658,1,450,9_pc10e4,9_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8432956,10,A1,1,10,31658,1,451,10_un1,10_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8432957,10,B1,2,10,31658,1,452,10_un2,10_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8432958,10,C1,3,10,31658,1,453,10_un3,10_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8432959,10,D1,4,10,31658,1,454,10_un4,10_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8432960,10,E1,5,10,31658,1,455,10_un5,10_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8432961,10,F1,6,10,31658,1,456,10_un6,10_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8432962,10,G1,7,10,31658,1,457,10_un7,10_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8432963,10,H1,8,10,31658,1,458,10_un8,10_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8432964,10,A2,9,10,31658,1,459,10_0d1,10_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8432965,10,B2,10,10,31658,1,460,10_0d2,10_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8432966,10,C2,11,10,31658,1,461,10_0d3,10_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8432967,10,D2,12,10,31658,1,462,10_0d4,10_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8432968,10,E2,13,10,31658,1,463,10_0d5,10_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8432969,10,F2,14,10,31658,1,464,10_0d6,10_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8432970,10,G2,15,10,31658,1,465,10_0d7,10_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8432971,10,H2,16,10,31658,1,466,10_0d8,10_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8432972,10,A3,17,10,31658,1,467,10_1d1,10_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8432973,10,B3,18,10,31658,1,468,10_1d2,10_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8432974,10,C3,19,10,31658,1,469,10_1d3,10_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8432975,10,D3,20,10,31658,1,470,10_1d4,10_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8432976,10,E3,21,10,31658,1,471,10_1d5,10_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8432977,10,F3,22,10,31658,1,472,10_1d6,10_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8432978,10,G3,23,10,31658,1,473,10_1d7,10_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8432979,10,H3,24,10,31658,1,474,10_1d8,10_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8432980,10,A4,25,10,31658,1,475,10_3d1,10_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8432981,10,B4,26,10,31658,1,476,10_3d2,10_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8432982,10,C4,27,10,31658,1,477,10_3d3,10_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8432983,10,D4,28,10,31658,1,478,10_3d4,10_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8432984,10,E4,29,10,31658,1,479,10_3d5,10_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8432985,10,F4,30,10,31658,1,480,10_3d6,10_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8432986,10,G4,31,10,31658,1,481,10_3d7,10_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8432987,10,H4,32,10,31658,1,482,10_3d8,10_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8432988,10,A5,33,10,31658,1,483,10_9d1,10_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8432989,10,B5,34,10,31658,1,484,10_9d2,10_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8432990,10,C5,35,10,31658,1,485,10_9d3,10_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8432991,10,D5,36,10,31658,1,486,10_9d4,10_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8432992,10,E5,37,10,31658,1,487,10_9d5,10_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8432993,10,F5,38,10,31658,1,488,10_9d6,10_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8432994,10,G5,39,10,31658,1,489,10_9d7,10_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8432995,10,H5,40,10,31658,1,490,10_9d8,10_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8432996,10,A6,41,10,31658,1,491,10_ps10e8,10_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8432997,10,B6,42,10,31658,1,492,10_ps10e7,10_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8432998,10,C6,43,10,31658,1,493,10_ps10e6,10_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8432999,10,D6,44,10,31658,1,494,10_ps10e5,10_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8433000,10,E6,45,10,31658,1,495,10_ps10e4,10_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8433001,10,A7,49,10,31658,1,496,10_pc10e8,10_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8433002,10,B7,50,10,31658,1,497,10_pc10e7,10_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8433003,10,C7,51,10,31658,1,498,10_pc10e6,10_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8433004,10,D7,52,10,31658,1,499,10_pc10e5,10_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8433005,10,E7,53,10,31658,1,500,10_pc10e4,10_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8433006,11,A1,1,11,31658,1,501,11_un1,11_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8433007,11,B1,2,11,31658,1,502,11_un2,11_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8433008,11,C1,3,11,31658,1,503,11_un3,11_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8433009,11,D1,4,11,31658,1,504,11_un4,11_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8433010,11,E1,5,11,31658,1,505,11_un5,11_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8433011,11,F1,6,11,31658,1,506,11_un6,11_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8433012,11,G1,7,11,31658,1,507,11_un7,11_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8433013,11,H1,8,11,31658,1,508,11_un8,11_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8433014,11,A2,9,11,31658,1,509,11_0d1,11_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8433015,11,B2,10,11,31658,1,510,11_0d2,11_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8433016,11,C2,11,11,31658,1,511,11_0d3,11_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8433017,11,D2,12,11,31658,1,512,11_0d4,11_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8433018,11,E2,13,11,31658,1,513,11_0d5,11_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8433019,11,F2,14,11,31658,1,514,11_0d6,11_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8433020,11,G2,15,11,31658,1,515,11_0d7,11_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8433021,11,H2,16,11,31658,1,516,11_0d8,11_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8433022,11,A3,17,11,31658,1,517,11_1d1,11_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8433023,11,B3,18,11,31658,1,518,11_1d2,11_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8433024,11,C3,19,11,31658,1,519,11_1d3,11_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8433025,11,D3,20,11,31658,1,520,11_1d4,11_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8433026,11,E3,21,11,31658,1,521,11_1d5,11_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8433027,11,F3,22,11,31658,1,522,11_1d6,11_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8433028,11,G3,23,11,31658,1,523,11_1d7,11_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8433029,11,H3,24,11,31658,1,524,11_1d8,11_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8433030,11,A4,25,11,31658,1,525,11_3d1,11_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8433031,11,B4,26,11,31658,1,526,11_3d2,11_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8433032,11,C4,27,11,31658,1,527,11_3d3,11_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8433033,11,D4,28,11,31658,1,528,11_3d4,11_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8433034,11,E4,29,11,31658,1,529,11_3d5,11_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8433035,11,F4,30,11,31658,1,530,11_3d6,11_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8433036,11,G4,31,11,31658,1,531,11_3d7,11_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8433037,11,H4,32,11,31658,1,532,11_3d8,11_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8433038,11,A5,33,11,31658,1,533,11_9d1,11_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8433039,11,B5,34,11,31658,1,534,11_9d2,11_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8433040,11,C5,35,11,31658,1,535,11_9d3,11_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8433041,11,D5,36,11,31658,1,536,11_9d4,11_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8433042,11,E5,37,11,31658,1,537,11_9d5,11_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8433043,11,F5,38,11,31658,1,538,11_9d6,11_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8433044,11,G5,39,11,31658,1,539,11_9d7,11_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8433045,11,H5,40,11,31658,1,540,11_9d8,11_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8433046,11,A6,41,11,31658,1,541,11_ps10e8,11_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8433047,11,B6,42,11,31658,1,542,11_ps10e7,11_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8433048,11,C6,43,11,31658,1,543,11_ps10e6,11_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8433049,11,D6,44,11,31658,1,544,11_ps10e5,11_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8433050,11,E6,45,11,31658,1,545,11_ps10e4,11_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8433051,11,A7,49,11,31658,1,546,11_pc10e8,11_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8433052,11,B7,50,11,31658,1,547,11_pc10e7,11_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8433053,11,C7,51,11,31658,1,548,11_pc10e6,11_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8433054,11,D7,52,11,31658,1,549,11_pc10e5,11_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8433055,11,E7,53,11,31658,1,550,11_pc10e4,11_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8433056,12,A1,1,12,31658,1,551,12_un1,12_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8433057,12,B1,2,12,31658,1,552,12_un2,12_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8433058,12,C1,3,12,31658,1,553,12_un3,12_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8433059,12,D1,4,12,31658,1,554,12_un4,12_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8433060,12,E1,5,12,31658,1,555,12_un5,12_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8433061,12,F1,6,12,31658,1,556,12_un6,12_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8433062,12,G1,7,12,31658,1,557,12_un7,12_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8433063,12,H1,8,12,31658,1,558,12_un8,12_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8433064,12,A2,9,12,31658,1,559,12_0d1,12_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8433065,12,B2,10,12,31658,1,560,12_0d2,12_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8433066,12,C2,11,12,31658,1,561,12_0d3,12_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8433067,12,D2,12,12,31658,1,562,12_0d4,12_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8433068,12,E2,13,12,31658,1,563,12_0d5,12_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8433069,12,F2,14,12,31658,1,564,12_0d6,12_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8433070,12,G2,15,12,31658,1,565,12_0d7,12_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8433071,12,H2,16,12,31658,1,566,12_0d8,12_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8433072,12,A3,17,12,31658,1,567,12_1d1,12_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8433073,12,B3,18,12,31658,1,568,12_1d2,12_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8433074,12,C3,19,12,31658,1,569,12_1d3,12_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8433075,12,D3,20,12,31658,1,570,12_1d4,12_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8433076,12,E3,21,12,31658,1,571,12_1d5,12_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8433077,12,F3,22,12,31658,1,572,12_1d6,12_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8433078,12,G3,23,12,31658,1,573,12_1d7,12_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8433079,12,H3,24,12,31658,1,574,12_1d8,12_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8433080,12,A4,25,12,31658,1,575,12_3d1,12_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8433081,12,B4,26,12,31658,1,576,12_3d2,12_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8433082,12,C4,27,12,31658,1,577,12_3d3,12_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8433083,12,D4,28,12,31658,1,578,12_3d4,12_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8433084,12,E4,29,12,31658,1,579,12_3d5,12_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8433085,12,F4,30,12,31658,1,580,12_3d6,12_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8433086,12,G4,31,12,31658,1,581,12_3d7,12_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8433087,12,H4,32,12,31658,1,582,12_3d8,12_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8433088,12,A5,33,12,31658,1,583,12_9d1,12_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8433089,12,B5,34,12,31658,1,584,12_9d2,12_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8433090,12,C5,35,12,31658,1,585,12_9d3,12_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8433091,12,D5,36,12,31658,1,586,12_9d4,12_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8433092,12,E5,37,12,31658,1,587,12_9d5,12_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8433093,12,F5,38,12,31658,1,588,12_9d6,12_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8433094,12,G5,39,12,31658,1,589,12_9d7,12_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8433095,12,H5,40,12,31658,1,590,12_9d8,12_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8433096,12,A6,41,12,31658,1,591,12_ps10e8,12_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8433097,12,B6,42,12,31658,1,592,12_ps10e7,12_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8433098,12,C6,43,12,31658,1,593,12_ps10e6,12_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8433099,12,D6,44,12,31658,1,594,12_ps10e5,12_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8433100,12,E6,45,12,31658,1,595,12_ps10e4,12_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8433101,12,A7,49,12,31658,1,596,12_pc10e8,12_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8433102,12,B7,50,12,31658,1,597,12_pc10e7,12_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8433103,12,C7,51,12,31658,1,598,12_pc10e6,12_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8433104,12,D7,52,12,31658,1,599,12_pc10e5,12_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8433105,12,E7,53,12,31658,1,600,12_pc10e4,12_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8433106,13,A1,1,13,31658,1,601,13_un1,13_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8433107,13,B1,2,13,31658,1,602,13_un2,13_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8433108,13,C1,3,13,31658,1,603,13_un3,13_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8433109,13,D1,4,13,31658,1,604,13_un4,13_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8433110,13,E1,5,13,31658,1,605,13_un5,13_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8433111,13,F1,6,13,31658,1,606,13_un6,13_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8433112,13,G1,7,13,31658,1,607,13_un7,13_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8433113,13,H1,8,13,31658,1,608,13_un8,13_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8433114,13,A2,9,13,31658,1,609,13_0d1,13_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8433115,13,B2,10,13,31658,1,610,13_0d2,13_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8433116,13,C2,11,13,31658,1,611,13_0d3,13_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8433117,13,D2,12,13,31658,1,612,13_0d4,13_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8433118,13,E2,13,13,31658,1,613,13_0d5,13_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8433119,13,F2,14,13,31658,1,614,13_0d6,13_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8433120,13,G2,15,13,31658,1,615,13_0d7,13_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8433121,13,H2,16,13,31658,1,616,13_0d8,13_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8433122,13,A3,17,13,31658,1,617,13_1d1,13_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8433123,13,B3,18,13,31658,1,618,13_1d2,13_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8433124,13,C3,19,13,31658,1,619,13_1d3,13_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8433125,13,D3,20,13,31658,1,620,13_1d4,13_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8433126,13,E3,21,13,31658,1,621,13_1d5,13_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8433127,13,F3,22,13,31658,1,622,13_1d6,13_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8433128,13,G3,23,13,31658,1,623,13_1d7,13_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8433129,13,H3,24,13,31658,1,624,13_1d8,13_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8433130,13,A4,25,13,31658,1,625,13_3d1,13_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8433131,13,B4,26,13,31658,1,626,13_3d2,13_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8433132,13,C4,27,13,31658,1,627,13_3d3,13_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8433133,13,D4,28,13,31658,1,628,13_3d4,13_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8433134,13,E4,29,13,31658,1,629,13_3d5,13_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8433135,13,F4,30,13,31658,1,630,13_3d6,13_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8433136,13,G4,31,13,31658,1,631,13_3d7,13_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8433137,13,H4,32,13,31658,1,632,13_3d8,13_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8433138,13,A5,33,13,31658,1,633,13_9d1,13_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8433139,13,B5,34,13,31658,1,634,13_9d2,13_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8433140,13,C5,35,13,31658,1,635,13_9d3,13_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8433141,13,D5,36,13,31658,1,636,13_9d4,13_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8433142,13,E5,37,13,31658,1,637,13_9d5,13_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8433143,13,F5,38,13,31658,1,638,13_9d6,13_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8433144,13,G5,39,13,31658,1,639,13_9d7,13_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8433145,13,H5,40,13,31658,1,640,13_9d8,13_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8433146,13,A6,41,13,31658,1,641,13_ps10e8,13_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8433147,13,B6,42,13,31658,1,642,13_ps10e7,13_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8433148,13,C6,43,13,31658,1,643,13_ps10e6,13_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8433149,13,D6,44,13,31658,1,644,13_ps10e5,13_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8433150,13,E6,45,13,31658,1,645,13_ps10e4,13_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8433151,13,A7,49,13,31658,1,646,13_pc10e8,13_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8433152,13,B7,50,13,31658,1,647,13_pc10e7,13_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8433153,13,C7,51,13,31658,1,648,13_pc10e6,13_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8433154,13,D7,52,13,31658,1,649,13_pc10e5,13_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8433155,13,E7,53,13,31658,1,650,13_pc10e4,13_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8433156,14,A1,1,14,31658,1,651,14_un1,14_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8433157,14,B1,2,14,31658,1,652,14_un2,14_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8433158,14,C1,3,14,31658,1,653,14_un3,14_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8433159,14,D1,4,14,31658,1,654,14_un4,14_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8433160,14,E1,5,14,31658,1,655,14_un5,14_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8433161,14,F1,6,14,31658,1,656,14_un6,14_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8433162,14,G1,7,14,31658,1,657,14_un7,14_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8433163,14,H1,8,14,31658,1,658,14_un8,14_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8433164,14,A2,9,14,31658,1,659,14_0d1,14_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8433165,14,B2,10,14,31658,1,660,14_0d2,14_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8433166,14,C2,11,14,31658,1,661,14_0d3,14_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8433167,14,D2,12,14,31658,1,662,14_0d4,14_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8433168,14,E2,13,14,31658,1,663,14_0d5,14_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8433169,14,F2,14,14,31658,1,664,14_0d6,14_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8433170,14,G2,15,14,31658,1,665,14_0d7,14_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8433171,14,H2,16,14,31658,1,666,14_0d8,14_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8433172,14,A3,17,14,31658,1,667,14_1d1,14_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8433173,14,B3,18,14,31658,1,668,14_1d2,14_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8433174,14,C3,19,14,31658,1,669,14_1d3,14_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8433175,14,D3,20,14,31658,1,670,14_1d4,14_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8433176,14,E3,21,14,31658,1,671,14_1d5,14_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8433177,14,F3,22,14,31658,1,672,14_1d6,14_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8433178,14,G3,23,14,31658,1,673,14_1d7,14_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8433179,14,H3,24,14,31658,1,674,14_1d8,14_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8433180,14,A4,25,14,31658,1,675,14_3d1,14_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8433181,14,B4,26,14,31658,1,676,14_3d2,14_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8433182,14,C4,27,14,31658,1,677,14_3d3,14_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8433183,14,D4,28,14,31658,1,678,14_3d4,14_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8433184,14,E4,29,14,31658,1,679,14_3d5,14_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8433185,14,F4,30,14,31658,1,680,14_3d6,14_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8433186,14,G4,31,14,31658,1,681,14_3d7,14_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8433187,14,H4,32,14,31658,1,682,14_3d8,14_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8433188,14,A5,33,14,31658,1,683,14_9d1,14_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8433189,14,B5,34,14,31658,1,684,14_9d2,14_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8433190,14,C5,35,14,31658,1,685,14_9d3,14_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8433191,14,D5,36,14,31658,1,686,14_9d4,14_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8433192,14,E5,37,14,31658,1,687,14_9d5,14_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8433193,14,F5,38,14,31658,1,688,14_9d6,14_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8433194,14,G5,39,14,31658,1,689,14_9d7,14_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8433195,14,H5,40,14,31658,1,690,14_9d8,14_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8433196,14,A6,41,14,31658,1,691,14_ps10e8,14_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8433197,14,B6,42,14,31658,1,692,14_ps10e7,14_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8433198,14,C6,43,14,31658,1,693,14_ps10e6,14_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8433199,14,D6,44,14,31658,1,694,14_ps10e5,14_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8433200,14,E6,45,14,31658,1,695,14_ps10e4,14_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8433201,14,A7,49,14,31658,1,696,14_pc10e8,14_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8433202,14,B7,50,14,31658,1,697,14_pc10e7,14_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8433203,14,C7,51,14,31658,1,698,14_pc10e6,14_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8433204,14,D7,52,14,31658,1,699,14_pc10e5,14_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8433205,14,E7,53,14,31658,1,700,14_pc10e4,14_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8433206,15,A1,1,15,31658,1,701,15_un1,15_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8433207,15,B1,2,15,31658,1,702,15_un2,15_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8433208,15,C1,3,15,31658,1,703,15_un3,15_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8433209,15,D1,4,15,31658,1,704,15_un4,15_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8433210,15,E1,5,15,31658,1,705,15_un5,15_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8433211,15,F1,6,15,31658,1,706,15_un6,15_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8433212,15,G1,7,15,31658,1,707,15_un7,15_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8433213,15,H1,8,15,31658,1,708,15_un8,15_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8433214,15,A2,9,15,31658,1,709,15_0d1,15_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8433215,15,B2,10,15,31658,1,710,15_0d2,15_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8433216,15,C2,11,15,31658,1,711,15_0d3,15_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8433217,15,D2,12,15,31658,1,712,15_0d4,15_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8433218,15,E2,13,15,31658,1,713,15_0d5,15_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8433219,15,F2,14,15,31658,1,714,15_0d6,15_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8433220,15,G2,15,15,31658,1,715,15_0d7,15_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8433221,15,H2,16,15,31658,1,716,15_0d8,15_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8433222,15,A3,17,15,31658,1,717,15_1d1,15_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8433223,15,B3,18,15,31658,1,718,15_1d2,15_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8433224,15,C3,19,15,31658,1,719,15_1d3,15_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8433225,15,D3,20,15,31658,1,720,15_1d4,15_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8433226,15,E3,21,15,31658,1,721,15_1d5,15_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8433227,15,F3,22,15,31658,1,722,15_1d6,15_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8433228,15,G3,23,15,31658,1,723,15_1d7,15_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8433229,15,H3,24,15,31658,1,724,15_1d8,15_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8433230,15,A4,25,15,31658,1,725,15_3d1,15_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8433231,15,B4,26,15,31658,1,726,15_3d2,15_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8433232,15,C4,27,15,31658,1,727,15_3d3,15_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8433233,15,D4,28,15,31658,1,728,15_3d4,15_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8433234,15,E4,29,15,31658,1,729,15_3d5,15_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8433235,15,F4,30,15,31658,1,730,15_3d6,15_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8433236,15,G4,31,15,31658,1,731,15_3d7,15_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8433237,15,H4,32,15,31658,1,732,15_3d8,15_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8433238,15,A5,33,15,31658,1,733,15_9d1,15_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8433239,15,B5,34,15,31658,1,734,15_9d2,15_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8433240,15,C5,35,15,31658,1,735,15_9d3,15_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8433241,15,D5,36,15,31658,1,736,15_9d4,15_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8433242,15,E5,37,15,31658,1,737,15_9d5,15_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8433243,15,F5,38,15,31658,1,738,15_9d6,15_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8433244,15,G5,39,15,31658,1,739,15_9d7,15_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8433245,15,H5,40,15,31658,1,740,15_9d8,15_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8433246,15,A6,41,15,31658,1,741,15_ps10e8,15_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8433247,15,B6,42,15,31658,1,742,15_ps10e7,15_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8433248,15,C6,43,15,31658,1,743,15_ps10e6,15_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8433249,15,D6,44,15,31658,1,744,15_ps10e5,15_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8433250,15,E6,45,15,31658,1,745,15_ps10e4,15_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8433251,15,A7,49,15,31658,1,746,15_pc10e8,15_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8433252,15,B7,50,15,31658,1,747,15_pc10e7,15_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8433253,15,C7,51,15,31658,1,748,15_pc10e6,15_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8433254,15,D7,52,15,31658,1,749,15_pc10e5,15_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8433255,15,E7,53,15,31658,1,750,15_pc10e4,15_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8433256,16,A1,1,16,31658,1,751,16_un1,16_un1,Anopheles_stephensi,0.83,"stephensi (unfed) 1st lysis, 0.83ng/ul"
+mxPCR8433257,16,B1,2,16,31658,1,752,16_un2,16_un2,Anopheles_stephensi,0.673,"stephensi (unfed) 1st lysis, 0.673ng/ul"
+mxPCR8433258,16,C1,3,16,31658,1,753,16_un3,16_un3,Anopheles_stephensi,0.771,"stephensi (unfed) 1st lysis, 0.771ng/ul"
+mxPCR8433259,16,D1,4,16,31658,1,754,16_un4,16_un4,Anopheles_stephensi,0.621,"stephensi (unfed) 1st lysis, 0.621ng/ul"
+mxPCR8433260,16,E1,5,16,31658,1,755,16_un5,16_un5,Anopheles_stephensi,0.804,"stephensi (unfed) 1st lysis, 0.804ng/ul"
+mxPCR8433261,16,F1,6,16,31658,1,756,16_un6,16_un6,Anopheles_stephensi,0.338,"stephensi (unfed) 1st lysis, 0.338ng/ul"
+mxPCR8433262,16,G1,7,16,31658,1,757,16_un7,16_un7,Anopheles_stephensi,0.552,"stephensi (unfed) 1st lysis, 0.552ng/ul"
+mxPCR8433263,16,H1,8,16,31658,1,758,16_un8,16_un8,Anopheles_stephensi,0.542,"stephensi (unfed) 1st lysis, 0.542ng/ul"
+mxPCR8433264,16,A2,9,16,31658,1,759,16_0d1,16_0d1,Anopheles_stephensi,1.137,"stephensi (0 hours after feeding) 1st lysis, 1.137ng/ul"
+mxPCR8433265,16,B2,10,16,31658,1,760,16_0d2,16_0d2,Anopheles_stephensi,1.122,"stephensi (0 hours after feeding) 1st lysis, 1.122ng/ul"
+mxPCR8433266,16,C2,11,16,31658,1,761,16_0d3,16_0d3,Anopheles_stephensi,0.918,"stephensi (0 hours after feeding) 1st lysis, 0.918ng/ul"
+mxPCR8433267,16,D2,12,16,31658,1,762,16_0d4,16_0d4,Anopheles_stephensi,0.863,"stephensi (0 hours after feeding) 1st lysis, 0.863ng/ul"
+mxPCR8433268,16,E2,13,16,31658,1,763,16_0d5,16_0d5,Anopheles_stephensi,0.533,"stephensi (0 hours after feeding) 1st lysis, 0.533ng/ul"
+mxPCR8433269,16,F2,14,16,31658,1,764,16_0d6,16_0d6,Anopheles_stephensi,0.709,"stephensi (0 hours after feeding) 1st lysis, 0.709ng/ul"
+mxPCR8433270,16,G2,15,16,31658,1,765,16_0d7,16_0d7,Anopheles_stephensi,0.975,"stephensi (0 hours after feeding) 1st lysis, 0.975ng/ul"
+mxPCR8433271,16,H2,16,16,31658,1,766,16_0d8,16_0d8,Anopheles_stephensi,0.968,"stephensi (0 hours after feeding) 1st lysis, 0.968ng/ul"
+mxPCR8433272,16,A3,17,16,31658,1,767,16_1d1,16_1d1,Anopheles_stephensi,1.541,"stephensi (24 hours after feeding) 1st lysis, 1.541ng/ul"
+mxPCR8433273,16,B3,18,16,31658,1,768,16_1d2,16_1d2,Anopheles_stephensi,1.396,"stephensi (24 hours after feeding) 1st lysis, 1.396ng/ul"
+mxPCR8433274,16,C3,19,16,31658,1,769,16_1d3,16_1d3,Anopheles_stephensi,1.484,"stephensi (24 hours after feeding) 1st lysis, 1.484ng/ul"
+mxPCR8433275,16,D3,20,16,31658,1,770,16_1d4,16_1d4,Anopheles_stephensi,1.574,"stephensi (24 hours after feeding) 1st lysis, 1.574ng/ul"
+mxPCR8433276,16,E3,21,16,31658,1,771,16_1d5,16_1d5,Anopheles_stephensi,1.348,"stephensi (24 hours after feeding) 1st lysis, 1.348ng/ul"
+mxPCR8433277,16,F3,22,16,31658,1,772,16_1d6,16_1d6,Anopheles_stephensi,1.565,"stephensi (24 hours after feeding) 1st lysis, 1.565ng/ul"
+mxPCR8433278,16,G3,23,16,31658,1,773,16_1d7,16_1d7,Anopheles_stephensi,1.47,"stephensi (24 hours after feeding) 1st lysis, 1.47ng/ul"
+mxPCR8433279,16,H3,24,16,31658,1,774,16_1d8,16_1d8,Anopheles_stephensi,2.107,"stephensi (24 hours after feeding) 1st lysis, 2.107ng/ul"
+mxPCR8433280,16,A4,25,16,31658,1,775,16_3d1,16_3d1,Anopheles_stephensi,0.937,"stephensi (3 days after feeding) 1st lysis, 0.937ng/ul"
+mxPCR8433281,16,B4,26,16,31658,1,776,16_3d2,16_3d2,Anopheles_stephensi,1.175,"stephensi (3 days after feeding) 1st lysis, 1.175ng/ul"
+mxPCR8433282,16,C4,27,16,31658,1,777,16_3d3,16_3d3,Anopheles_stephensi,1.13,"stephensi (3 days after feeding) 1st lysis, 1.13ng/ul"
+mxPCR8433283,16,D4,28,16,31658,1,778,16_3d4,16_3d4,Anopheles_stephensi,1.018,"stephensi (3 days after feeding) 1st lysis, 1.018ng/ul"
+mxPCR8433284,16,E4,29,16,31658,1,779,16_3d5,16_3d5,Anopheles_stephensi,1.61,"stephensi (3 days after feeding) 1st lysis, 1.61ng/ul"
+mxPCR8433285,16,F4,30,16,31658,1,780,16_3d6,16_3d6,Anopheles_stephensi,0.992,"stephensi (3 days after feeding) 1st lysis, 0.992ng/ul"
+mxPCR8433286,16,G4,31,16,31658,1,781,16_3d7,16_3d7,Anopheles_stephensi,0.837,"stephensi (3 days after feeding) 1st lysis, 0.837ng/ul"
+mxPCR8433287,16,H4,32,16,31658,1,782,16_3d8,16_3d8,Anopheles_stephensi,0.911,"stephensi (3 days after feeding) 1st lysis, 0.911ng/ul"
+mxPCR8433288,16,A5,33,16,31658,1,783,16_9d1,16_9d1,Anopheles_stephensi,1.22,"stephensi (9 days after feeding) 1st lysis, 1.22ng/ul"
+mxPCR8433289,16,B5,34,16,31658,1,784,16_9d2,16_9d2,Anopheles_stephensi,0.894,"stephensi (9 days after feeding) 1st lysis, 0.894ng/ul"
+mxPCR8433290,16,C5,35,16,31658,1,785,16_9d3,16_9d3,Anopheles_stephensi,0.92,"stephensi (9 days after feeding) 1st lysis, 0.92ng/ul"
+mxPCR8433291,16,D5,36,16,31658,1,786,16_9d4,16_9d4,Anopheles_stephensi,0.628,"stephensi (9 days after feeding) 1st lysis, 0.628ng/ul"
+mxPCR8433292,16,E5,37,16,31658,1,787,16_9d5,16_9d5,Anopheles_stephensi,1.001,"stephensi (9 days after feeding) 1st lysis, 1.001ng/ul"
+mxPCR8433293,16,F5,38,16,31658,1,788,16_9d6,16_9d6,Anopheles_stephensi,0.849,"stephensi (9 days after feeding) 1st lysis, 0.849ng/ul"
+mxPCR8433294,16,G5,39,16,31658,1,789,16_9d7,16_9d7,Anopheles_stephensi,1.241,"stephensi (9 days after feeding) 1st lysis, 1.241ng/ul"
+mxPCR8433295,16,H5,40,16,31658,1,790,16_9d8,16_9d8,Anopheles_stephensi,0.897,"stephensi (9 days after feeding) 1st lysis, 0.897ng/ul"
+mxPCR8433296,16,A6,41,16,31658,1,791,16_ps10e8,16_ps10e8,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5ag/ul 3D7
+mxPCR8433297,16,B6,42,16,31658,1,792,16_ps10e7,16_ps10e7,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50ag/ul 3D7
+mxPCR8433298,16,C6,43,16,31658,1,793,16_ps10e6,16_ps10e6,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 500ag/ul 3D7
+mxPCR8433299,16,D6,44,16,31658,1,794,16_ps10e5,16_ps10e5,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 5fg/ul 3D7
+mxPCR8433300,16,E6,45,16,31658,1,795,16_ps10e4,16_ps10e4,Anopheles_stephensi,0.747,0.747ng/ul stephensi (unfed) + 50fg/ul 3D7
+mxPCR8433301,16,A7,49,16,31658,1,796,16_pc10e8,16_pc10e8,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5ag/ul 3D7
+mxPCR8433302,16,B7,50,16,31658,1,797,16_pc10e7,16_pc10e7,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50ag/ul 3D7
+mxPCR8433303,16,C7,51,16,31658,1,798,16_pc10e6,16_pc10e6,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 500ag/ul 3D7
+mxPCR8433304,16,D7,52,16,31658,1,799,16_pc10e5,16_pc10e5,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 5fg/ul 3D7
+mxPCR8433305,16,E7,53,16,31658,1,800,16_pc10e4,16_pc10e4,Anopheles_coluzzii,1.238,1.238ng/ul coluzzii (unfed) + 50fg/ul 3D7
+mxPCR8433306,16,A8,57,16,31658,1,801,Acru-RS32-1,Acru-RS32,Anopheles_cruzii,0.057,"RS32 (An. cruzii) 1st lysis, 0.057ng/ul"
+mxPCR8433307,16,B8,58,16,31658,1,802,Abel-SP24-1,Abel-SP24,Anopheles_bellator,0.036,"SP24 (An. bellator) 1st lysis, 0.036ng/ul"
+mxPCR8433308,16,C8,59,16,31658,1,803,Aory-SP141-1,Aory-SP141,Anopheles_oryzalimnetes,0.054,"SP141 (An. oryzalimnetes) 1st lysis, 0.054ng/ul"
+mxPCR8433309,16,D8,60,16,31658,1,804,Acru-RS32-2,Acru-RS32,Anopheles_cruzii,0.497,"RS32 (An. cruzii) 2nd lysis, 0.497ng/ul"
+mxPCR8433310,16,E8,61,16,31658,1,805,Abel-SP24-2,Abel-SP24,Anopheles_bellator,0.729,"SP24 (An. bellator) 2nd lysis, 0.729ng/ul"
+mxPCR8433311,16,F8,62,16,31658,1,806,Aory-SP141-2,Aory-SP141,Anopheles_oryzalimnetes,0.474,"SP141 (An. oryzalimnetes) 2nd lysis, 0.474ng/ul"

@@ -1,0 +1,4 @@
+s_Sample,External ID,Date of Collection,Location,Country,Latitude,Longitude,Collection Context,Collection Method,Collection Time,Specimen Sex,Specimen Type,Extraction Method,Sample Type,Species
+Acru-RS32,RS32,2019-07-16,Maquine,Brazil,-29.5895556,-50.2626389,lab reared brood,,,Female,F1 from wild caught adult,,Genomic DNA,Anopheles_cruzii
+Abel-SP24,SP24,2019-07-20,Cananeia,Brazil,-25.0166667,-47.95,lab reared brood,,,Female,F1 from wild caught adult,,Genomic DNA,Anopheles_bellator
+Aory-SP141,SP141,2019-07-16,Pereira Barreto,Brazil,-20.55716,-51.01518,lab reared brood,,,Female,F1 from wild caught adult,,Genomic DNA,Anopheles_oryzalimnetes

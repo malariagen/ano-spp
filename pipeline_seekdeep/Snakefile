@@ -1,0 +1,238 @@
+
+import pandas as pd
+import os 
+
+configfile: 'pipeline_seekdeep/conf/config.yml'
+
+# read fofn
+fofn = pd.read_csv(config['fofn'], dtype=str).set_index('Replicate')
+# TODO assert Replicate are unique, Run, Lane, Tag, and Source_sample are present - or use fofn validation 
+
+def get_irods_path(Replicate):
+    ssdata = fofn.loc[Replicate]
+    return '/seq/{run}/{run}_{lane}#{tag}.cram'.format(
+                run=ssdata['Run'][0],
+                lane=ssdata['Lane'][0],
+                tag=ssdata['Tag'][0])
+
+# rules executed on login node
+localrules: all, 
+            import_data, 
+            irods_download, 
+            check_seekdeep_logs,
+            extraction_profile,
+            popclustering, 
+            archive_analysis
+
+rule all:
+    input:
+        "seekdeep/analysis.tar.gz",
+        "seekdeep/qc/summary.txt"
+
+rule import_data:
+    input:
+        expand("import/{Replicate}_R1.fastq.gz", Replicate=fofn.index),
+        expand("import/{Replicate}_R2.fastq.gz", Replicate=fofn.index)
+
+rule irods_download:
+    output:
+        temp("import/{Replicate}.cram")
+    params:
+        irods_path=get_irods_path
+    priority: 10
+    shell:
+        "iget {params.irods_path} {output}"
+
+rule cram_to_fastq:
+    input:
+        "import/{Replicate}.cram"
+    output:
+        fq1="import/{Replicate}_R1.fastq.gz",
+        fq2="import/{Replicate}_R2.fastq.gz"
+    conda:
+        "envs/cram_to_fastq.yml"
+    shell:
+        "samtools collate -O -f {input} | samtools fastq -1 {output.fq1} -2 {output.fq2} -"
+
+rule generate_samples:
+    output:
+        samples="seekdeep/conf/sampleNames.tab.txt"
+    run:
+        # get unique replicate names per sample
+        reps = fofn.reset_index() \
+                   .groupby('Source_sample') \
+                   ['Replicate'].unique()
+        # get maximum number of replicates per sample
+        nreps = max(len(x) for x in reps)
+        # transform into dataframe
+        reps = pd.DataFrame(reps.tolist(),
+                            columns=['rep{}'.format(i+1) for i in range(nreps)],
+                            index=reps.index) \
+                 .reset_index()
+        # repeat sample and replicate names for each target
+        targets = pd.read_csv(config['targets'], sep='\t')
+        sample_names = []
+        for t in targets.target:
+            target_data = reps.copy()
+            target_data.loc[:, '#target'] = t
+            sample_names.append(target_data)
+        sample_names = pd.concat(sample_names)
+        # move target column to first position in dataframe
+        sncols = sample_names.columns.tolist()
+        sncols = [sncols[-1]] + sncols[:-1]
+        # write
+        sample_names[sncols].to_csv(output.samples, index=False, sep='\t')
+
+rule setup_seekdeep:
+    input:
+        f_reads=expand("import/{Replicate}_R1.fastq.gz", Replicate=fofn.index),
+        r_reads=expand("import/{Replicate}_R2.fastq.gz", Replicate=fofn.index),
+        targets=ancient(config['targets']),
+        overlaps=ancient(config['overlaps']),
+        lenghts=ancient(config['lengths']),
+        samples=ancient("seekdeep/conf/sampleNames.tab.txt")
+    output:
+        "seekdeep/analysis/runAnalysis.sh"
+    params:
+        extraProcessClusterCmds=config["extraProcessClusterCommands"]
+    singularity:
+        "docker://alexmakunin/seekdeep:2.6.4"
+    shell:
+        "rm -rf seekdeep/analysis; "
+        "SeekDeep setupTarAmpAnalysis "
+            "--samples {input.samples} "
+            "--outDir seekdeep/analysis "
+            "--inputDir import "
+            "--idFile {input.targets} "
+            "--overlapStatusFnp {input.overlaps} "
+            "--lenCutOffs {input.lenghts} "
+            # "--extraProcessClusterCmds='{params.extraProcessClusterCmds}'"
+
+rule run_seekdeep:
+    input:
+        "seekdeep/analysis/runAnalysis.sh"
+    output:
+        "seekdeep/analysis/reports/allExtractionProfile.tab.txt",
+        "seekdeep/analysis/extractorCmdsLog.json",
+        "seekdeep/analysis/qlusterCmdsLog.json",
+        "seekdeep/analysis/processClusterCmdsLog.json"
+    params:
+        threads=3
+    singularity:
+        "docker://alexmakunin/seekdeep:2.6.4"
+    shell:
+        "cd seekdeep/analysis; "
+        "./runAnalysis.sh {params.threads}"
+
+rule check_seekdeep_logs:
+    input:
+        "seekdeep/analysis/extractorCmdsLog.json",
+        "seekdeep/analysis/qlusterCmdsLog.json",
+        "seekdeep/analysis/processClusterCmdsLog.json"
+        # not checking genConfigCmdsLog.json - unused
+    output:
+        touch("seekdeep/analysis/logsChecked")
+    run:
+        for logfile in input:
+            with open(logfile) as f:
+                for line in f:
+                    if '"success_" : false,' in line:
+                        raise ValueError('Failed processes in {}'.format(f))
+
+rule extraction_profile:
+    input:
+        "seekdeep/analysis/logsChecked",
+        extr_profile=ancient("seekdeep/analysis/reports/allExtractionProfile.tab.txt"),
+        samples="seekdeep/conf/sampleNames.tab.txt"
+    output:
+        "seekdeep/output/extraction.csv"
+    run:
+        # read extraction profile
+        extr_data = pd.read_csv(input.extr_profile, sep='\t')
+        # for read counts remove percentages & convert to numeric
+        for col in extr_data.drop(columns=['inputName', 'name']):
+            extr_data[col] = extr_data[col]  \
+                                 .astype(str) \
+                                 .str.split('(') \
+                                 .str.get(0) \
+                                 .astype(int)
+        # replicates per sample
+        rep_names = pd.read_csv(input.samples, sep='\t') \
+                      .groupby('Source_sample') \
+                      .max() \
+                      .iloc[:, 1:]
+        def get_sample(rep_name):
+            '''
+            Get sample name and replicate number given replicate name
+
+            TODO: convert to rep:sample dict
+            '''
+            match = rep_names.where(rep_names == rep_name).dropna(how='all', axis=0).dropna(how='all', axis=1)
+            if match.shape == (1, 1):
+                return match.index[0]
+            else:
+                raise ValueError(match)                         
+        # get target and replicate from target-replicate combination
+        extr_data['target'], extr_data['s_Replicate'] = zip(*extr_data['name'].str.split('MID'))
+        # get sample, replicate number from replicate name
+        extr_data['s_Sample'] = extr_data['s_Replicate'].apply(get_sample)
+        # write
+        extr_data.to_csv(output[0], index=False)
+        
+rule popclustering:
+    input:
+        "seekdeep/analysis/logsChecked",
+        extr_profile="seekdeep/analysis/reports/allExtractionProfile.tab.txt",
+    output:
+        "seekdeep/output/popclustering.csv"
+    params:
+        seekdeep_dir="seekdeep/analysis/"
+    run:
+        import os
+        import glob
+        
+        # compile per-target output tables into a single table
+        orig_popclustering_tables = os.path.join(params.seekdeep_dir, 
+                                                 'popClustering/*/analysis', 
+                                                 'selectedClustersInfo.tab.txt')
+        pop_data = [pd.read_csv(f, 
+                                sep='\t', 
+                                dtype={'h_popUID':str})
+                        for f in glob.glob(orig_popclustering_tables)]
+        pop_data = pd.concat(pop_data, sort=False)
+        # edit master table
+        # remove NaN-only columns (result of inaccurate concatenation, missing c_BestExpected)
+        pop_data.dropna(axis=1, how='all', inplace=True)
+        # split out target
+        pop_data['target'] = pop_data.h_popUID.str.split('.').str.get(0)
+        # TODO - add sample metadata from fofn
+        # write
+        pop_data.to_csv(output[0], index=False)
+        
+rule archive_analysis:
+    input:
+        "seekdeep/analysis/logsChecked",
+        "seekdeep/output/popclustering.csv",
+        "seekdeep/output/extraction.csv",
+	    "seekdeep/qc/summary.txt"
+    output:
+        "seekdeep/analysis.tar.gz"
+    shell:
+        "cd seekdeep && tar -czf analysis.tar.gz ./analysis && rm -r ./analysis"
+        
+rule basic_qc:
+    input:
+        ancient(config['fofn']),
+        "seekdeep/output/extraction.csv",
+        "seekdeep/output/popclustering.csv",
+        ancient(config["targets"])
+    output:
+        "seekdeep/qc/summary.txt"
+    params:
+        dir="seekdeep/qc/"
+    conda:
+        "envs/basic_qc.yml"
+    script:
+        "scripts/basic_qc.py"
+
+        

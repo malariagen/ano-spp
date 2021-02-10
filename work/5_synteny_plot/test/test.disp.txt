@@ -1,0 +1,5 @@
+# x,   y, rotation,     ha,     va, color, ratio,            label
+0.5, 0.7,        0, center,    top,      m,     1,       albimanus
+0.5, 0.3,        0, center, bottom,      k,     1,         gambiae
+# edges
+e, 0, 1

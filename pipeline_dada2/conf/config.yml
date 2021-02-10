@@ -1,0 +1,13 @@
+# files
+fofn: 'samples.csv'
+targets: 'pipeline_dada2/conf/targets.txt'
+barcodes_F: 'pipeline_dada2/conf/barcodes_F.fasta'
+barcodes_R: 'pipeline_dada2/conf/barcodes_R.fasta'
+
+# params
+# minimum fraction of reads supporting haplotype
+# for sample-target combination
+min_frac: 0.1
+# minimum read count supporting haplotype
+# for sample-target combination
+min_reads: 10

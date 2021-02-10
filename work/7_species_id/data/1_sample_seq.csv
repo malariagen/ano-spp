@@ -1,0 +1,165 @@
+s_Sample,External ID,Date of Collection,Location,Country,Latitude,Longitude,Species,Collection Context,Collection Method,Collection Time,Specimen Sex,Specimen Type,Extraction Method,Sample Type,Sample Set,Source,Total Reads,Amplicons Recovered,Homozygous Calls,Heterozygous Calls,Multiallelic Calls
+Amou-2-1,2.1,2017-06-29,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_moucheti,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,9649.0,55.0,38.0,17.0,0.0
+Amou-2-2,2.2,2017-06-29,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_moucheti,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,109465.0,60.0,37.0,22.0,1.0
+Amou-2-3,2.3,2017-06-29,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_moucheti,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,75377.0,59.0,40.0,19.0,0.0
+Amou-2-4,2.4,2017-06-29,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_moucheti,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,18116.0,58.0,35.0,22.0,1.0
+Amou-2-5,2.5,2017-06-29,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_moucheti,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,73161.0,59.0,39.0,20.0,0.0
+Anil-233,233,2018-02-15,Moukalaba_Doudou,Gabon,-2.33747,10.59203,Anopheles_nili,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,23688.0,45.0,33.0,11.0,1.0
+Anil-236,236,2018-02-15,Moukalaba_Doudou,Gabon,-2.33747,10.59203,Anopheles_nili,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,89513.0,47.0,32.0,14.0,1.0
+Anil-237,237,2018-02-15,Moukalaba_Doudou,Gabon,-2.33747,10.59203,Anopheles_nili,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,9167.0,39.0,30.0,9.0,0.0
+Anil-238,238,2018-02-15,Moukalaba_Doudou,Gabon,-2.33747,10.59203,Anopheles_nili,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,37671.0,46.0,32.0,14.0,0.0
+Anil-239,239,2018-02-15,Moukalaba_Doudou,Gabon,-2.33747,10.59203,Anopheles_nili,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,18505.0,47.0,35.0,12.0,0.0
+Adur-97-3,97.3,2017-09-16,Plateau_Bateke,Gabon,-2.13735,14.06135,Anopheles_dureni,Outdoors,CDC light trap,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,30323.0,45.0,37.0,7.0,1.0
+Adur-97-4,97.4,2017-09-16,Plateau_Bateke,Gabon,-2.13735,14.06135,Anopheles_dureni,Outdoors,CDC light trap,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,3983.0,38.0,36.0,2.0,0.0
+Adur-97-5,97.5,2017-09-16,Plateau_Bateke,Gabon,-2.13735,14.06135,Anopheles_dureni,Outdoors,CDC light trap,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,927.0,29.0,28.0,1.0,0.0
+Adur-97-6,97.6,2017-09-16,Plateau_Bateke,Gabon,-2.13735,14.06135,Anopheles_dureni,Outdoors,CDC light trap,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run1,13645.0,42.0,34.0,6.0,2.0
+Acou-71,71,2015-02-09,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_coustani,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,16656.0,44.0,26.0,15.0,3.0
+Acou-80,80,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_coustani,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,12338.0,45.0,29.0,15.0,1.0
+Acou-956,956,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_coustani,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,1342.0,25.0,23.0,2.0,0.0
+Acou-962,962,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_coustani,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,35126.0,48.0,20.0,25.0,3.0
+Acou-959,959,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_coustani,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,444495.0,53.0,30.0,22.0,1.0
+Amar-5,5,2015-01-28,Franceville,Gabon,-1.63634,13.53875,Anopheles_marshallii,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,100401.0,61.0,33.0,28.0,0.0
+Amar-42,42,2016-01-22,Lopé,Gabon,-0.19124,11.59327,Anopheles_marshallii,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,33283.0,59.0,31.0,27.0,1.0
+Amar-3-1,3.1,2015-06-06,Lopé,Gabon,-0.19124,11.59327,Anopheles_marshallii,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,25371.0,56.0,35.0,21.0,0.0
+Azie-1032,1032,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_ziemanni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,5180.0,41.0,30.0,9.0,2.0
+Azie-334,334,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_ziemanni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,12061.0,45.0,27.0,16.0,2.0
+Azie-70,70,2015-02-09,Benguia,Gabon,-1.63281,13.491970000000002,Anopheles_ziemanni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,5063.0,34.0,19.0,13.0,2.0
+Azie-77,77,2015-02-09,Benguia,Gabon,-1.63281,13.491970000000002,Anopheles_ziemanni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,44446.0,47.0,29.0,17.0,1.0
+Azie-1055,1055,2015-09-15,Benguia,Gabon,-1.63281,13.49314,Anopheles_ziemanni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,1878.0,30.0,26.0,3.0,1.0
+Aten-79,79,2015-02-09,Benguia,Gabon,-1.63281,13.491970000000002,Anopheles_tenebrosus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,11428.0,45.0,27.0,16.0,2.0
+Aten-185,185,2015-02-09,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_tenebrosus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,11310.0,46.0,21.0,23.0,2.0
+Aten-191,191,2015-02-09,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_tenebrosus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,33772.0,47.0,25.0,20.0,2.0
+Aten-333,333,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_tenebrosus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,29138.0,48.0,33.0,12.0,3.0
+Aten-954,954,2015-09-30,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_tenebrosus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,14271.0,45.0,26.0,16.0,3.0
+Athe-2,2,2015-06-06,Lopé,Gabon,-0.19124,11.59327,Anopheles_theileri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,245236.0,61.0,30.0,30.0,1.0
+Athe-6-1,6.1,2014-09-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_theileri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,146125.0,61.0,35.0,26.0,0.0
+Athe-6-2,6.2,2014-09-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_theileri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,4855.0,48.0,36.0,10.0,2.0
+Athe-1,1,2014-10-27,Lopé,Gabon,-0.19124,11.59327,Anopheles_theileri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,114989.0,60.0,33.0,27.0,0.0
+Athe-2,2,2014-10-27,Lopé,Gabon,-0.19124,11.59327,Anopheles_theileri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,245236.0,61.0,30.0,30.0,1.0
+Afun-9,9,2016-01-21,Lopé,Gabon,-0.19124,11.59327,Anopheles_funestus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,61.0,3.0,3.0,0.0,0.0
+Afun-13,13,2016-01-21,Lopé,Gabon,-0.19124,11.59327,Anopheles_funestus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,38.0,1.0,1.0,0.0,0.0
+Afun-1,1,2015-02-09,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_funestus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,216970.0,61.0,32.0,28.0,1.0
+Afun-3,3,2015-02-09,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_funestus,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,7881.0,50.0,36.0,14.0,0.0
+Arho-7-1,7.1,2014-09-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_rhodesiensis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,98172.0,60.0,37.0,23.0,0.0
+Arho-7-2,7.2,2014-09-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_rhodesiensis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,64.0,3.0,2.0,1.0,0.0
+Arho-7-3,7.3,2014-09-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_rhodesiensis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,50207.0,59.0,38.0,20.0,1.0
+Arho-7-4,7.4,2014-09-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_rhodesiensis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,18444.0,59.0,40.0,19.0,0.0
+Abru-12,12,2015-08-06,Lopé,Gabon,-0.19124,11.59327,Anopheles_brunnipes,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,,,,,
+Amac-42,42,2016-02-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_maculipalpis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,57576.0,58.0,34.0,22.0,2.0
+Amac-44,44,2016-02-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_maculipalpis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,30421.0,56.0,36.0,19.0,1.0
+Amac-47,47,2016-02-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_maculipalpis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,,,,,
+Amac-49,49,2016-02-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_maculipalpis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,22552.0,53.0,34.0,16.0,3.0
+Amac-50,50,2016-02-11,Lopé,Gabon,-0.19124,11.59327,Anopheles_maculipalpis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,113225.0,58.0,37.0,20.0,1.0
+Ahan-615,615,2015-09-15,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_hancocki,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,7649.0,53.0,43.0,10.0,0.0
+Ahan-6-1,6.1,2015-04-23,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_hancocki,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,11348.0,59.0,50.0,9.0,0.0
+Acol-558,558,2016-05-02,Lopé,Gabon,-0.19124,11.59327,Anopheles_coluzzii,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,9343.0,58.0,33.0,25.0,0.0
+Acol-570,570,2016-05-02,Lopé,Gabon,-0.19124,11.59327,Anopheles_coluzzii,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,7235.0,52.0,26.0,22.0,4.0
+Acol-645,645,2016-07-02,Lopé,Gabon,-0.19124,11.59327,Anopheles_coluzzii,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,3048.0,45.0,31.0,12.0,2.0
+Apal-4,4,2016-09-05,Plateau_Bateke,Gabon,-2.11443,14.07015,Anopheles_paludis,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,38.0,2.0,2.0,0.0,0.0
+Apal-10,10,2016-11-05,Plateau_Bateke,Gabon,-2.11443,14.07015,Anopheles_paludis,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,253.0,7.0,6.0,0.0,1.0
+Apal-81,81,2015-02-09,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_paludis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,2017.0,33.0,27.0,5.0,1.0
+Apal-257,257,2015-02-09,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_paludis,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,321.0,13.0,12.0,1.0,0.0
+Adem-15,15,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_demeilloni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,8921.0,55.0,45.0,9.0,1.0
+Adem-19,19,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_demeilloni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,3610.0,45.0,41.0,3.0,1.0
+Adem-32,32,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_demeilloni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,912.0,28.0,25.0,3.0,0.0
+Adem-34,34,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_demeilloni,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,8976.0,58.0,45.0,13.0,0.0
+Abro-21,21,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_brohieri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,371.0,21.0,20.0,1.0,0.0
+Abro-22,22,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_brohieri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,33319.0,62.0,49.0,13.0,0.0
+Abro-30,30,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_brohieri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,20043.0,59.0,42.0,17.0,0.0
+Abro-33,33,2015-01-02,Mvengue,Gabon,-1.6396099999999998,13.413529999999998,Anopheles_brohieri,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,1412.0,38.0,32.0,6.0,0.0
+Ajab-B620,B620,2012-10-01,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_jebudensis,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,29079.0,59.0,41.0,18.0,0.0
+Aimp-M190,M190,2013-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_implexus,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,44.0,3.0,3.0,0.0,0.0
+Aimp-M1449,M1449,2013-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_implexus,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run1,45976.0,48.0,26.0,22.0,0.0
+Aimp-M0001,M0001,2012-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_implexus,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,198920.0,48.0,27.0,20.0,1.0
+Aimp-M0030,M0030,2013-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_implexus,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,96554.0,46.0,25.0,19.0,2.0
+Agab-M192,M192,2013-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_gabonensis,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,45936.0,55.0,32.0,22.0,1.0
+Avin-B0004,B0004,2012-10-01,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_vinckei,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,46409.0,52.0,24.0,27.0,1.0
+Avin-B0009,B0009,2012-10-01,Bakoumba,Gabon,-1.82201,13.00286,Anopheles_vinckei,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,49004.0,52.0,29.0,22.0,1.0
+Avin-M0004,M0004,2013-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_vinckei,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,33280.0,50.0,26.0,22.0,2.0
+Avin-M0009,M0009,2013-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_vinckei,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,59345.0,52.0,27.0,24.0,1.0
+Avin-M0012,M0012,2013-10-01,Mikongo,Gabon,-0.31264000000000003,11.70677,Anopheles_vinckei,Outdoors,CDC light trap,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,26023.0,50.0,26.0,22.0,2.0
+Agam-30,30,2017-01-19,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_gambiae,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run2,35907.0,58.0,31.0,27.0,0.0
+Agam-32,32,2017-01-19,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_gambiae,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run2,53278.0,59.0,37.0,22.0,0.0
+Agam-35,35,2017-01-19,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_gambiae,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run2,43305.0,58.0,29.0,28.0,1.0
+Agam-37,37,2017-01-19,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_gambiae,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run2,18687.0,55.0,29.0,23.0,3.0
+Agam-38,38,2017-01-19,Benguia,Gabon,-1.63281,13.492170000000002,Anopheles_gambiae,Outdoors,Human Landing Catch,,Female,Wild caught adult,CTAB,Genomic DNA,ga,run2,21637.0,57.0,21.0,35.0,1.0
+Anils-7,7,2015-01-04,Franceville,Gabon,-1.63634,13.53875,Anopheles_nili_ss,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,880.0,26.0,24.0,2.0,0.0
+Acar-191,191,2015-01-03,Lopé,Gabon,-0.19124,11.59327,Anopheles_carnevalei,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,23584.0,49.0,28.0,18.0,3.0
+Acar-192,192,2015-01-03,Lopé,Gabon,-0.19124,11.59327,Anopheles_carnevalei,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,22517.0,51.0,28.0,23.0,0.0
+Acar-193,193,2015-01-03,Lopé,Gabon,-0.19124,11.59327,Anopheles_carnevalei,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,16470.0,48.0,26.0,20.0,2.0
+Acar-194,194,2015-01-03,Lopé,Gabon,-0.19124,11.59327,Anopheles_carnevalei,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,14559.0,49.0,26.0,22.0,1.0
+Acar-195,195,2015-01-03,Lopé,Gabon,-0.19124,11.59327,Anopheles_carnevalei,Outdoors,Human Landing Catch,,Female,Wild caught adult,QIAGEN,Genomic DNA,ga,run2,11930.0,46.0,26.0,19.0,1.0
+VBS00001,1175-S01-0001,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,Anopheles_annularis,outdoor,cow-baited tent,23.0,Female,Wild caught adult,,Genomic DNA,kh,run2,1384.0,33.0,27.0,5.0,1.0
+VBS00002,1175-S01-0002,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,Anopheles_annularis,outdoor,cow-baited tent,24.0,Female,Wild caught adult,,Genomic DNA,kh,run2,10305.0,50.0,30.0,19.0,1.0
+VBS00003,1175-S01-0003,2013-07-23,Sayas,Cambodia,13.5476389,107.024555,Anopheles_annularis,outdoor,cow-baited tent,20.0,Female,Wild caught adult,,Genomic DNA,kh,run2,8059.0,50.0,30.0,19.0,1.0
+VBS00004,1175-S01-0004,2013-07-22,Sayas,Cambodia,13.5476389,107.024555,Anopheles_annularis,outdoor,cow-baited tent,3.0,Female,Wild caught adult,,Genomic DNA,kh,run2,38291.0,56.0,29.0,25.0,2.0
+VBS00021,1175-S01-0021,2010-01-17,Thmar Da,Cambodia,12.155,102.735,Anopheles_barbirostris,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,65025.0,46.0,24.0,20.0,2.0
+VBS00022,1175-S01-0022,2010-01-17,Thmar Da,Cambodia,12.155,102.735,Anopheles_barbirostris,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,55665.0,44.0,21.0,21.0,2.0
+VBS00023,1175-S01-0023,2009-12-07,Thmar Da,Cambodia,12.155,102.735,Anopheles_barbirostris,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,23933.0,46.0,22.0,20.0,4.0
+VBS00024,1175-S01-0024,2009-12-07,Thmar Da,Cambodia,12.155,102.735,Anopheles_barbirostris,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,20755.0,41.0,19.0,21.0,1.0
+VBS00025,1175-S01-0025,2010-01-17,Thmar Da,Cambodia,12.155,102.735,Anopheles_barbirostris,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,14380.0,41.0,16.0,22.0,3.0
+VBS00048,1175-S01-0048,2009-11-20,Thmar Da,Cambodia,12.155,102.735,Anopheles_dirus_A,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,5730.0,47.0,35.0,11.0,1.0
+VBS00049,1175-S01-0049,2010-04-05,Thmar Da,Cambodia,12.155,102.735,Anopheles_dirus_A,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,32994.0,52.0,33.0,18.0,1.0
+VBS00050,1175-S01-0050,2010-05-05,Thmar Da,Cambodia,12.155,102.735,Anopheles_dirus_A,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,39421.0,52.0,32.0,17.0,3.0
+VBS00051,1175-S01-0051,2009-12-07,Thmar Da,Cambodia,12.155,102.735,Anopheles_dirus_A,outdoor,human landing catch,,Female,Wild caught adult,,WGA,kh,run2,905.0,27.0,26.0,1.0,0.0
+VBS00053,1175-S01-0053,2013-08-07,Chean Mok,Cambodia,13.769805599999998,104.920388,Anopheles_aconitus,outdoor,cow-baited tent,4.0,Female,Wild caught adult,,WGA,kh,run2,48659.0,31.0,26.0,5.0,0.0
+VBS00055,1175-S01-0055,2013-08-06,Chean Mok,Cambodia,13.769805599999998,104.920388,Anopheles_aconitus,outdoor,cow-baited tent,2.0,Female,Wild caught adult,,WGA,kh,run2,22575.0,41.0,35.0,5.0,1.0
+VBS00059,1175-S01-0059,2009-12-06,Thmar Da,Cambodia,12.155,102.735,Anopheles_minimus_A,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,33811.0,57.0,34.0,22.0,1.0
+VBS00061,1175-S01-0061,2010-05-02,Thmar Da,Cambodia,12.155,102.735,Anopheles_minimus_A,outdoor,human landing catch,,Female,Wild caught adult,,WGA,kh,run2,605666.0,55.0,34.0,19.0,2.0
+VBS00082,1175-S01-0082,2010-01-19,Thmar Da,Cambodia,12.155,102.735,Anopheles_hyrcanus,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,31225.0,46.0,22.0,22.0,2.0
+VBS00083,1175-S01-0083,2010-01-21,Thmar Da,Cambodia,12.155,102.735,Anopheles_hyrcanus,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,61448.0,50.0,26.0,22.0,2.0
+VBS00084,1175-S01-0084,2010-02-24,Thmar Da,Cambodia,12.155,102.735,Anopheles_hyrcanus,outdoor,human landing catch,,Female,Wild caught adult,,WGA,kh,run2,109.0,4.0,4.0,0.0,0.0
+VBS00085,1175-S01-0085,2009-11-23,Thmar Da,Cambodia,12.155,102.735,Anopheles_hyrcanus,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,17312.0,42.0,23.0,16.0,3.0
+VBS00086,1175-S01-0086,2009-12-06,Thmar Da,Cambodia,12.155,102.735,Anopheles_hyrcanus,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,11504.0,40.0,21.0,17.0,2.0
+VBS00107,1175-S01-0107,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,Anopheles_maculatus_A,outdoor,cow-baited tent,21.0,Female,Wild caught adult,,Genomic DNA,kh,run2,5800.0,46.0,30.0,14.0,2.0
+VBS00108,1175-S01-0108,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,Anopheles_maculatus_A,outdoor,cow-baited tent,22.0,Female,Wild caught adult,,WGA,kh,run2,190472.0,53.0,33.0,18.0,2.0
+VBS00112,1175-S01-0112,2009-12-06,Thmar Da,Cambodia,12.155,102.735,Anopheles_rampae,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,18967.0,57.0,26.0,28.0,3.0
+VBS00113,1175-S01-0113,2010-02-26,Thmar Da,Cambodia,12.155,102.735,Anopheles_rampae,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,12294.0,51.0,27.0,22.0,2.0
+VBS00114,1175-S01-0114,2010-02-26,Thmar Da,Cambodia,12.155,102.735,Anopheles_rampae,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,16241.0,54.0,24.0,27.0,3.0
+VBS00115,1175-S01-0115,2010-02-26,Thmar Da,Cambodia,12.155,102.735,Anopheles_rampae,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,kh,run2,33854.0,59.0,24.0,33.0,2.0
+VBS00122,1175-S01-0122,2010-02-25,Thmar Da,Cambodia,12.155,102.735,Anopheles_balabacensis,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,13829.0,51.0,37.0,11.0,3.0
+VBS00125,1175-S01-0125,2013-08-06,Chean Mok,Cambodia,13.769805599999998,104.920388,Anopheles_jamesii,outdoor,cow-baited tent,,Female,Wild caught adult,,WGA,kh,run2,286760.0,59.0,45.0,12.0,2.0
+VBS00127,1175-S01-0127,2009-06-28,Thmar Da,Cambodia,12.155,102.735,Anopheles_jamesii,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,16432.0,55.0,35.0,18.0,2.0
+VBS00128,1175-S01-0128,2009-06-28,Thmar Da,Cambodia,12.155,102.735,Anopheles_jamesii,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,20567.0,52.0,28.0,20.0,4.0
+VBS00144,1175-S01-0144,2010-02-26,Thmar Da,Cambodia,12.155,102.735,Anopheles_sundaicus,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,9748.0,45.0,34.0,10.0,1.0
+VBS00145,1175-S01-0145,2010-03-18,Thmar Da,Cambodia,12.155,102.735,Anopheles_sundaicus,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,18086.0,56.0,10.0,27.0,19.0
+VBS00146,1175-S01-0146,2010-03-20,Thmar Da,Cambodia,12.155,102.735,Anopheles_sundaicus,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,20990.0,55.0,41.0,13.0,1.0
+VBS00147,1175-S01-0147,2010-01-18,Thmar Da,Cambodia,12.155,102.735,Anopheles_sundaicus,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,28617.0,54.0,42.0,11.0,1.0
+VBS00148,1175-S01-0148,2010-03-21,Thmar Da,Cambodia,12.155,102.735,Anopheles_sundaicus,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,kh,run2,31214.0,57.0,37.0,18.0,2.0
+VBS00149,1175-S01-0149,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,Anopheles_tessellatus,outdoor,cow-baited tent,21.0,Female,Wild caught adult,,WGA,kh,run2,87151.0,50.0,31.0,17.0,2.0
+VBS00150,1175-S01-0150,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,Anopheles_tessellatus,outdoor,cow-baited tent,4.0,Female,Wild caught adult,,WGA,kh,run2,170290.0,52.0,29.0,19.0,4.0
+VBS00154,1175-S01-0154,2014-03-15,Veal ,Cambodia,12.275,103.715,Anopheles_vagus,outdoor,cow-baited tent,23.0,Female,Wild caught adult,,Genomic DNA,kh,run2,8523.0,50.0,38.0,11.0,1.0
+VBS00156,1175-S01-0156,2014-03-14,Veal ,Cambodia,12.275,103.715,Anopheles_vagus,outdoor,cow-baited tent,19.0,Female,Wild caught adult,,Genomic DNA,kh,run2,42087.0,57.0,35.0,22.0,0.0
+VBS00157,1175-S01-0157,2014-06-13,Angkrong,Cambodia,12.3129167,103.570388,Anopheles_vagus,outdoor,cow-baited tent,21.0,Female,Wild caught adult,,Genomic DNA,kh,run2,70660.0,56.0,37.0,17.0,2.0
+VBS00158,1175-S01-0158,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,Anopheles_vagus,outdoor,cow-baited tent,21.0,Female,Wild caught adult,,Genomic DNA,kh,run2,28484.0,56.0,36.0,20.0,0.0
+Acru-RS32,RS32,2019-07-16,Maquine,Brazil,-29.589555600000004,-50.2626389,Anopheles_cruzii,lab reared brood,,,Female,F1 from wild caught adult,,Genomic DNA,sa,run9,1736.0,26.0,17.0,8.0,1.0
+Abel-SP24,SP24,2019-07-20,Cananeia,Brazil,-25.0166667,-47.95,Anopheles_bellator,lab reared brood,,,Female,F1 from wild caught adult,,Genomic DNA,sa,run9,591.0,16.0,14.0,2.0,0.0
+Aory-SP141,SP141,2019-07-16,Pereira Barreto,Brazil,-20.55716,-51.01518,Anopheles_oryzalimnetes,lab reared brood,,,Female,F1 from wild caught adult,,Genomic DNA,sa,run9,637.0,14.0,12.0,2.0,0.0
+anopheles-albimanus-steclachromosomesaalbs2,,,,,,,Anopheles_albimanus,,,,,,,,ref,ref,0.0,38.0,38.0,0.0,0.0
+anopheles-aquasalis-A_aquasalis_v1,,,,,,,Anopheles_aquasalis,,,,,,,,ref,ref,0.0,34.0,34.0,0.0,0.0
+anopheles-arabiensis-dongolascaffoldsaarad1,,,,,,,Anopheles_arabiensis,,,,,,,,ref,ref,0.0,62.0,62.0,0.0,0.0
+anopheles-arabiensis-sharakhov,,,,,,,Anopheles_arabiensis,,,,,,,,ref,ref,0.0,60.0,60.0,0.0,0.0
+anopheles-atroparvus-ebrochromosomesaatre3,,,,,,,Anopheles_atroparvus,,,,,,,,ref,ref,0.0,34.0,34.0,0.0,0.0
+anopheles-christyi-achkn1017scaffoldsachra1,,,,,,,Anopheles_christyi,,,,,,,,ref,ref,0.0,49.0,49.0,0.0,0.0
+anopheles-coluzzii-mali-nihscaffoldsacolm1,,,,,,,Anopheles_coluzzii,,,,,,,,ref,ref,0.0,59.0,59.0,0.0,0.0
+anopheles-cracens-ASM209184v1-scaffolds,,,,,,,Anopheles_cracens,,,,,,,,ref,ref,0.0,43.0,29.0,10.0,4.0
+anopheles-culicifacies-37scaffoldsacula1,,,,,,,Anopheles_culicifacies,,,,,,,,ref,ref,0.0,55.0,55.0,0.0,0.0
+anopheles-darlingi-coariscaffoldsadarc3,,,,,,,Anopheles_darlingi,,,,,,,,ref,ref,0.0,34.0,34.0,0.0,0.0
+anopheles-dirus-wrair2scaffoldsadirw1,,,,,,,Anopheles_dirus_A,,,,,,,,ref,ref,0.0,49.0,47.0,2.0,0.0
+anopheles-epiroticus-epiroticus2scaffoldsaepie1,,,,,,,Anopheles_epiroticus,,,,,,,,ref,ref,0.0,53.0,53.0,0.0,0.0
+anopheles-farauti-far1scaffoldsafarf2,,,,,,,Anopheles_farauti,,,,,,,,ref,ref,0.0,45.0,45.0,0.0,0.0
+anopheles-funestus-fumozchromosomesafunf3,,,,,,,Anopheles_funestus,,,,,,,,ref,ref,0.0,48.0,47.0,1.0,0.0
+anopheles-funestus-fumozscaffoldsafunf1,,,,,,,Anopheles_funestus,,,,,,,,ref,ref,0.0,50.0,50.0,0.0,0.0
+anopheles-gambiae-pestchromosomesagamp4,,,,,,,Anopheles_gambiae,,,,,,,,ref,ref,0.0,62.0,62.0,0.0,0.0
+anopheles-gambiae-pimperenascaffoldsagams1,,,,,,,Anopheles_gambiae,,,,,,,,ref,ref,0.0,62.0,62.0,0.0,0.0
+anopheles-koliensis-akwgs3contigsjxxb01,,,,,,,Anopheles_koliensis,,,,,,,,ref,ref,0.0,42.0,42.0,0.0,0.0
+anopheles-maculatus-maculatus3scaffoldsamacm1,,,,,,,Anopheles_maculatus_B,,,,,,,,ref,ref,0.0,44.0,44.0,0.0,0.0
+anopheles-melas-cm1001059ascaffoldsamelc2,,,,,,,Anopheles_melas,,,,,,,,ref,ref,0.0,60.0,58.0,2.0,0.0
+anopheles-merus-mafscaffoldsamerm2,,,,,,,Anopheles_merus,,,,,,,,ref,ref,0.0,61.0,60.0,1.0,0.0
+anopheles-minimus-minimus1scaffoldsaminm1,,,,,,,Anopheles_minimus_A,,,,,,,,ref,ref,0.0,54.0,54.0,0.0,0.0
+anopheles-punctulatus-apwgs2contigsjxxa01,,,,,,,Anopheles_punctulatus,,,,,,,,ref,ref,0.0,40.0,40.0,0.0,0.0
+anopheles-quadriannulatus-sangwescaffoldsaquas1,,,,,,,Anopheles_quadriannulatus,,,,,,,,ref,ref,0.0,61.0,60.0,1.0,0.0
+anopheles-sinensis-chinascaffoldsasinc2,,,,,,,Anopheles_sinensis,,,,,,,,ref,ref,0.0,40.0,40.0,0.0,0.0
+anopheles-sinensis-sinensisscaffoldsasins2,,,,,,,Anopheles_sinensis,,,,,,,,ref,ref,0.0,37.0,36.0,0.0,1.0
+anopheles-stephensi-indianscaffoldsastei2,,,,,,,Anopheles_stephensi,,,,,,,,ref,ref,0.0,59.0,59.0,0.0,0.0
+anopheles-stephensi-sda-500scaffoldsastes1,,,,,,,Anopheles_stephensi,,,,,,,,ref,ref,0.0,59.0,58.0,1.0,0.0

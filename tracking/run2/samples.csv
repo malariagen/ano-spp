@@ -1,0 +1,269 @@
+﻿Sanger_Sample_Id,Supplier_sample_name,Run,Lane,Tag,Original_well,Source_sample,Species,Extraction,Conc_ng_ul,Sex,Notes,Replicate,Replicate_description
+mxPCR7817208,AnophelesP2_1x_A01,28131,1,45,A1,20181218-A4-dil,Anopheles_coluzzii,buffer A,0.43,male,"buffer A male, 60ul overnight @RT, 0.43ng/ul (1:10)",20181218-A4-dil-rep1,1x mastermix
+mxPCR7817209,AnophelesP2_1x_B01,28131,1,46,B1,20181218-A5-dil,Anopheles_coluzzii,buffer A,1.51,female,"buffer A female, 60ul overnight @RT, 1.51ng/ul (1:10)",20181218-A5-dil-rep1,1x mastermix
+mxPCR7817210,AnophelesP2_1x_C01,28131,1,47,C1,20181218-A7-dil,Anopheles_coluzzii,buffer A,1.23,male,"buffer A male, 10ul 2h @RT, 1.23ng/ul (1:10)",20181218-A7-dil-rep1,1x mastermix
+mxPCR7817211,AnophelesP2_1x_D01,28131,1,48,D1,20181218-A8-dil,Anopheles_coluzzii,buffer A,3.01,female,"buffer A female, 10ul 2h @RT, 3.01ng/ul (1:10)",20181218-A8-dil-rep1,1x mastermix
+mxPCR7817212,AnophelesP2_1x_E01,28131,1,49,E1,20181218-C4-dil,Anopheles_coluzzii,buffer C,0.28,male,"buffer C male, 60ul overnight @RT, 0.28ng/ul (1:10)",20181218-C4-dil-rep1,1x mastermix
+mxPCR7817213,AnophelesP2_1x_F01,28131,1,50,F1,20181218-C5-dil,Anopheles_coluzzii,buffer C,1.06,female,"buffer C female, 60ul overnight @RT, 1.06ng/ul (1:10)",20181218-C5-dil-rep1,1x mastermix
+mxPCR7817214,AnophelesP2_1x_G01,28131,1,51,G1,20181218-C7-dil,Anopheles_coluzzii,buffer C,0.42,male,"buffer C male, 10ul 2h @RT, 0.42ng/ul (1:10)",20181218-C7-dil-rep1,1x mastermix
+mxPCR7817215,AnophelesP2_1x_H01,28131,1,52,H1,20181218-C8-dil,Anopheles_coluzzii,buffer C,2.46,female,"buffer C female, 10ul 2h @RT, 2.46ng/ul (1:10)",20181218-C8-dil-rep1,1x mastermix
+mxPCR7817216,AnophelesP2_1x_A02,28131,1,53,A2,20181218-G4-dil,Anopheles_coluzzii,buffer G,0.48,male,"buffer G male, 60ul overnight @RT, 0.48ng/ul (1:10)",20181218-G4-dil-rep1,1x mastermix
+mxPCR7817217,AnophelesP2_1x_B02,28131,1,54,B2,20181218-G5-dil,Anopheles_coluzzii,buffer G,0.93,female,"buffer G female, 60ul overnight @RT, 0.93ng/ul (1:10)",20181218-G5-dil-rep1,1x mastermix
+mxPCR7817218,AnophelesP2_1x_C02,28131,1,55,C2,20181218-G7-dil,Anopheles_coluzzii,buffer G,1.43,male,"buffer G male, 10ul 2h @RT, 1.43ng/ul (1:10)",20181218-G7-dil-rep1,1x mastermix
+mxPCR7817219,AnophelesP2_1x_D02,28131,1,56,D2,20181218-G8-dil,Anopheles_coluzzii,buffer G,2.02,female,"buffer G female, 10ul 2h @RT, 2.02ng/ul (1:10)",20181218-G8-dil-rep1,1x mastermix
+mxPCR7817220,AnophelesP2_1x_E02,28131,1,57,E2,20181218-D8-dil,Anopheles_coluzzii,buffer D,0.63,female,"buffer D female, 10ul 2h @RT, 0.63ng/ul (1:10)",20181218-D8-dil-rep1,1x mastermix
+mxPCR7817221,AnophelesP2_1x_F02,28131,1,58,F2,20181218-E8-dil,Anopheles_coluzzii,buffer E,0.8,female,"buffer E female, 10ul 2h @RT, 0.80ng/ul (1:10)",20181218-E8-dil-rep1,1x mastermix
+mxPCR7817222,AnophelesP2_1x_G02,28131,1,59,G2,20181218-F8-dil,Anopheles_coluzzii,buffer F,1.85,female,"buffer F female, 10ul 2h @RT, 1.85ng/ul (1:10)",20181218-F8-dil-rep1,1x mastermix
+mxPCR7817223,AnophelesP2_1x_H02,28131,1,60,H2,20181218-H8-dil,Anopheles_coluzzii,water,0.04,female,"water female, 10ul 2h @RT, 0.04ng/ul (1:10)",20181218-H8-dil-rep1,1x mastermix
+mxPCR7817224,AnophelesP2_1x_A03,28131,1,61,A3,20181218-C4,Anopheles_coluzzii,buffer C,3,male,"buffer C male, 60ul overnight @RT, ~3ng/ul (undil.)",20181218-C4-rep1,1x mastermix
+mxPCR7817225,AnophelesP2_1x_B03,28131,1,62,B3,20181218-C5,Anopheles_coluzzii,buffer C,11,female,"buffer C female, 60ul overnight @RT, ~11ng/ul (undil.)",20181218-C5-rep1,1x mastermix
+mxPCR7817226,AnophelesP2_1x_C03,28131,1,63,C3,20181218-C7,Anopheles_coluzzii,buffer C,4,male,"buffer C male, 10ul 2h @RT, ~4ng/ul (undil.)",20181218-C7-rep1,1x mastermix
+mxPCR7817227,AnophelesP2_1x_D03,28131,1,64,D3,20181218-C8,Anopheles_coluzzii,buffer C,25,female,"buffer C female, 10ul 2h @RT, ~25ng/ul (undil.)",20181218-C8-rep1,1x mastermix
+mxPCR7817228,AnophelesP2_1x_E03,28131,1,65,E3,20181218-G4,Anopheles_coluzzii,buffer G,5,male,"buffer G male, 60ul overnight @RT, ~5ng/ul (undil.)",20181218-G4-rep1,1x mastermix
+mxPCR7817229,AnophelesP2_1x_F03,28131,1,66,F3,20181218-G5,Anopheles_coluzzii,buffer G,9,female,"buffer G female, 60ul overnight @RT, ~9ng/ul (undil.)",20181218-G5-rep1,1x mastermix
+mxPCR7817230,AnophelesP2_1x_G03,28131,1,67,G3,20181218-G7,Anopheles_coluzzii,buffer G,14,female,"buffer G male, 10ul 2h @RT, ~14ng/ul (undil.)",20181218-G7-rep1,1x mastermix
+mxPCR7817231,AnophelesP2_1x_H03,28131,1,68,H3,20181218-G8,Anopheles_coluzzii,buffer G,20,female,"buffer G female, 10ul 2h @RT, ~20ng/ul (undil.)",20181218-G8-rep1,1x mastermix
+mxPCR7817239,AnophelesP2_1x_H04,28131,1,76,H4,Water4,blank_sample,,0,,water,Water4-rep1,1x mastermix
+mxPCR7817240,AnophelesP2_1x_A05,28131,1,77,A5,VBS00001,Anopheles_annularis,non-WGA,0.02,female,"VBS00001, non-WGA, A1, 0.02ng/ul (1:10)",VBS00001-rep1,1x mastermix
+mxPCR7817241,AnophelesP2_1x_B05,28131,1,78,B5,VBS00002,Anopheles_annularis,non-WGA,0.06,female,"VBS00002, non-WGA, B1, 0.06ng/ul (1:10)",VBS00002-rep1,1x mastermix
+mxPCR7817242,AnophelesP2_1x_C05,28131,1,79,C5,VBS00003,Anopheles_annularis,non-WGA,0.05,female,"VBS00003, non-WGA, C1, 0.05ng/ul(1:10)",VBS00003-rep1,1x mastermix
+mxPCR7817243,AnophelesP2_1x_D05,28131,1,80,D5,VBS00004,Anopheles_annularis,non-WGA,0.05,female,"VBS00004, non-WGA, D1, 0.05ng/ul (1:10)",VBS00004-rep1,1x mastermix
+mxPCR7817244,AnophelesP2_1x_E05,28131,1,81,E5,VBS00021,Anopheles_barbirostris,non-WGA,0.16,female,"VBS00021, non-WGA, E1, 0.16ng/ul (1:10)",VBS00021-rep1,1x mastermix
+mxPCR7817245,AnophelesP2_1x_F05,28131,1,82,F5,VBS00022,Anopheles_barbirostris,non-WGA,0.12,female,"VBS00022, non-WGA, F1, 0.12ng/ul (1:10)",VBS00022-rep1,1x mastermix
+mxPCR7817246,AnophelesP2_1x_G05,28131,1,83,G5,VBS00023,Anopheles_barbirostris,non-WGA,0.11,female,"VBS00023, non-WGA, G1, 0.11ng/ul (1:10)",VBS00023-rep1,1x mastermix
+mxPCR7817247,AnophelesP2_1x_H05,28131,1,84,H5,VBS00024,Anopheles_barbirostris,non-WGA,0.11,female,"VBS00024, non-WGA, H1, 0.11ng/ul (1:10)",VBS00024-rep1,1x mastermix
+mxPCR7817248,AnophelesP2_1x_A06,28131,1,85,A6,VBS00025,Anopheles_barbirostris,non-WGA,0.06,female,"VBS00025, non-WGA, A2, 0.06ng/ul (1:10)",VBS00025-rep1,1x mastermix
+mxPCR7817249,AnophelesP2_1x_B06,28131,1,86,B6,VBS00048,Anopheles_dirus_A,non-WGA,0.03,female,"VBS00048, non-WGA, B2, 0.03ng/ul (1:10)",VBS00048-rep1,1x mastermix
+mxPCR7817250,AnophelesP2_1x_C06,28131,1,87,C6,VBS00049,Anopheles_dirus_A,non-WGA,0.06,female,"VBS00049, non-WGA, C2, 0.06ng/ul (1:10)",VBS00049-rep1,1x mastermix
+mxPCR7817251,AnophelesP2_1x_D06,28131,1,88,D6,VBS00050,Anopheles_dirus_A,non-WGA,0.04,female,"VBS00050, non-WGA, D2, 0.04ng/ul (1:10)",VBS00050-rep1,1x mastermix
+mxPCR7817252,AnophelesP2_1x_E06,28131,1,89,E6,VBS00051,Anopheles_dirus_A,WGA,3.94,female,"VBS00051, WGA, E2, 3.94ng/ul (1:10)",VBS00051-rep1,1x mastermix
+mxPCR7817253,AnophelesP2_1x_F06,28131,1,90,F6,VBS00053,Anopheles_aconitus,WGA,0.79,female,"VBS00053, WGA, F2, 0.79ng/ul (1:10)",VBS00053-rep1,1x mastermix
+mxPCR7817254,AnophelesP2_1x_G06,28131,1,91,G6,VBS00055,Anopheles_aconitus,WGA,3.65,female,"VBS00055, WGA, G2, 3.65ng/ul (1:10)",VBS00055-rep1,1x mastermix
+mxPCR7817255,AnophelesP2_1x_H06,28131,1,92,H6,VBS00059,Anopheles_minimus_A,non-WGA,0.05,female,"VBS00059, non-WGA, H2, 0.05ng/ul (1:10)",VBS00059-rep1,1x mastermix
+mxPCR7817256,AnophelesP2_1x_A07,28131,1,93,A7,VBS00061,Anopheles_minimus_A,WGA,7.97,female,"VBS00061, WGA, A3, 7.97ng/ul (1:10)",VBS00061-rep1,1x mastermix
+mxPCR7817257,AnophelesP2_1x_B07,28131,1,94,B7,VBS00082,Anopheles_hyrcanus,non-WGA,0.09,female,"VBS00082, non-WGA, B3, 0.09ng/ul (1:10)",VBS00082-rep1,1x mastermix
+mxPCR7817258,AnophelesP2_1x_C07,28131,1,95,C7,VBS00083,Anopheles_hyrcanus,non-WGA,0.1,female,"VBS00083, non-WGA, C3, 0.10ng/ul (1:10)",VBS00083-rep1,1x mastermix
+mxPCR7817259,AnophelesP2_1x_D07,28131,1,96,D7,VBS00084,Anopheles_hyrcanus,WGA,1.27,female,"VBS00084, WGA, D3, 1.27ng/ul (1:10)",VBS00084-rep1,1x mastermix
+mxPCR7817260,AnophelesP2_1x_E07,28131,1,97,E7,VBS00085,Anopheles_hyrcanus,non-WGA,0.04,female,"VBS00085, non-WGA, E3, 0.04ng/ul (1:10)",VBS00085-rep1,1x mastermix
+mxPCR7817261,AnophelesP2_1x_F07,28131,1,98,F7,VBS00086,Anopheles_hyrcanus,non-WGA,0.05,female,"VBS00086, non-WGA, F3, 0.05ng/ul (1:10)",VBS00086-rep1,1x mastermix
+mxPCR7817262,AnophelesP2_1x_G07,28131,1,99,G7,VBS00107,Anopheles_maculatus_A,non-WGA,0.03,female,"VBS00107, non-WGA, G3, 0.03ng/ul (1:10)",VBS00107-rep1,1x mastermix
+mxPCR7817263,AnophelesP2_1x_H07,28131,1,100,H7,VBS00108,Anopheles_maculatus_A,WGA,1.96,female,"VBS00108, WGA, H3, 1.96ng/ul (1:10)",VBS00108-rep1,1x mastermix
+mxPCR7817264,AnophelesP2_1x_A08,28131,1,101,A8,VBS00112,Anopheles_rampae_maculatus_K,non-WGA,0.05,female,"VBS00112, non-WGA, A4, 0.05ng/ul (1:10)",VBS00112-rep1,1x mastermix
+mxPCR7817265,AnophelesP2_1x_B08,28131,1,102,B8,VBS00113,Anopheles_rampae_maculatus_K,non-WGA,0.03,female,"VBS00113, non-WGA, B4, 0.03ng/ul (1:10)",VBS00113-rep1,1x mastermix
+mxPCR7817266,AnophelesP2_1x_C08,28131,1,103,C8,VBS00114,Anopheles_rampae_maculatus_K,non-WGA,0.04,female,"VBS00114, non-WGA, C4, 0.04ng/ul (1:10)",VBS00114-rep1,1x mastermix
+mxPCR7817267,AnophelesP2_1x_D08,28131,1,104,D8,VBS00115,Anopheles_rampae_maculatus_K,non-WGA,0.06,female,"VBS00115, non-WGA, D4, 0.06ng/ul (1:10)",VBS00115-rep1,1x mastermix
+mxPCR7817268,AnophelesP2_1x_E08,28131,1,105,E8,VBS00122,Anopheles_balabacensis,non-WGA,0.04,female,"VBS00122, non-WGA, E4, 0.04ng/ul (1:10)",VBS00122-rep1,1x mastermix
+mxPCR7817269,AnophelesP2_1x_F08,28131,1,106,F8,VBS00125,Anopheles_jamesii,WGA,3.07,female,"VBS00125, WGA, F4, 3.07ng/ul (1:10)",VBS00125-rep1,1x mastermix
+mxPCR7817270,AnophelesP2_1x_G08,28131,1,107,G8,VBS00127,Anopheles_jamesii,non-WGA,0.07,female,"VBS00127, non-WGA, G4, 0.07ng/ul (1:10)",VBS00127-rep1,1x mastermix
+mxPCR7817271,AnophelesP2_1x_H08,28131,1,108,H8,VBS00128,Anopheles_jamesii,non-WGA,0.09,female,"VBS00128, non-WGA, H4, 0.09ng/ul (1:10)",VBS00128-rep1,1x mastermix
+mxPCR7817272,AnophelesP2_1x_A09,28131,1,109,A9,VBS00144,Anopheles_sundaicus,non-WGA,0.15,female,"VBS00144, non-WGA, A5, 0.15ng/ul (1:10)",VBS00144-rep1,1x mastermix
+mxPCR7817273,AnophelesP2_1x_B09,28131,1,110,B9,VBS00145,Anopheles_sundaicus,non-WGA,0.07,female,"VBS00145, non-WGA, B5, 0.07ng/ul (1:10)",VBS00145-rep1,1x mastermix
+mxPCR7817274,AnophelesP2_1x_C09,28131,1,111,C9,VBS00146,Anopheles_sundaicus,non-WGA,0.1,female,"VBS00146, non-WGA, C5, 0.10ng/ul (1:10)",VBS00146-rep1,1x mastermix
+mxPCR7817275,AnophelesP2_1x_D09,28131,1,112,D9,VBS00147,Anopheles_sundaicus,non-WGA,0.09,female,"VBS00147, non-WGA, D5, 0.09ng/ul (1:10)",VBS00147-rep1,1x mastermix
+mxPCR7817276,AnophelesP2_1x_E09,28131,1,113,E9,VBS00148,Anopheles_sundaicus,non-WGA,0.1,female,"VBS00148, non-WGA, E5, 0.10ng/ul (1:10)",VBS00148-rep1,1x mastermix
+mxPCR7817277,AnophelesP2_1x_F09,28131,1,114,F9,VBS00149,Anopheles_tessellatus,WGA,3.93,female,"VBS00149, WGA, F5, 3.93ng/ul (1:10)",VBS00149-rep1,1x mastermix
+mxPCR7817278,AnophelesP2_1x_G09,28131,1,115,G9,VBS00150,Anopheles_tessellatus,WGA,7.14,female,"VBS00150, WGA, G5, 7.14ng/ul (1:10)",VBS00150-rep1,1x mastermix
+mxPCR7817279,AnophelesP2_1x_H09,28131,1,116,H9,VBS00154,Anopheles_vagus,non-WGA,0.06,female,"VBS00154, non-WGA, H5, 0.06ng/ul (1:10)",VBS00154-rep1,1x mastermix
+mxPCR7817280,AnophelesP2_1x_A10,28131,1,117,A10,VBS00156,Anopheles_vagus,non-WGA,0.09,female,"VBS00156, non-WGA, A6, 0.09ng/ul (1:10)",VBS00156-rep1,1x mastermix
+mxPCR7817281,AnophelesP2_1x_B10,28131,1,118,B10,VBS00157,Anopheles_vagus,non-WGA,0.01,female,"VBS00157, non-WGA, B6, 0.01ng/ul (1:10)",VBS00157-rep1,1x mastermix
+mxPCR7817282,AnophelesP2_1x_C10,28131,1,119,C10,VBS00158,Anopheles_vagus,non-WGA,-0.01,female,"VBS00158, non-WGA, C6, -0.01ng/ul (1:10)",VBS00158-rep1,1x mastermix
+mxPCR7817283,AnophelesP2_1x_D10,28131,1,120,D10,Aimp-M0001,Anopheles_implexus,QIAGEN,1.41,female,imp.M0001 (1:10),Aimp-M0001-rep1,1x mastermix
+mxPCR7817284,AnophelesP2_1x_E10,28131,1,121,E10,Aimp-M0030,Anopheles_implexus,QIAGEN,1.38,female,imp.M0030 (1:10),Aimp-M0030-rep1,1x mastermix
+mxPCR7817285,AnophelesP2_1x_F10,28131,1,122,F10,Acon-142,Anopheles_concolor,CTAB,0,female,con.142 (1:10),Acon-142-rep1,1x mastermix
+mxPCR7817286,AnophelesP2_1x_G10,28131,1,123,G10,Agab-M192,Anopheles_gabonensis,QIAGEN,0.42,female,gab.M192 (1:10),Agab-M192-rep1,1x mastermix
+mxPCR7817287,AnophelesP2_1x_H10,28131,1,124,H10,Avin-B0004,Anopheles_vinckei,QIAGEN,0.4,female,vin.B0004 (1:10),Avin-B0004-rep1,1x mastermix
+mxPCR7817288,AnophelesP2_1x_A11,28131,1,125,A11,Avin-B0009,Anopheles_vinckei,QIAGEN,0.4,female,vin.B0009 (1:10),Avin-B0009-rep1,1x mastermix
+mxPCR7817289,AnophelesP2_1x_B11,28131,1,126,B11,Avin-M0004,Anopheles_vinckei,QIAGEN,0.27,female,vin.M0004 (1:10),Avin-M0004-rep1,1x mastermix
+mxPCR7817290,AnophelesP2_1x_C11,28131,1,127,C11,Avin-M0009,Anopheles_vinckei,QIAGEN,0.24,female,vin.M0009 (1:10),Avin-M0009-rep1,1x mastermix
+mxPCR7817291,AnophelesP2_1x_D11,28131,1,128,D11,Avin-M0012,Anopheles_vinckei,QIAGEN,0.34,female,vin.M0012 (1:10),Avin-M0012-rep1,1x mastermix
+mxPCR7817292,AnophelesP2_1x_E11,28131,1,129,E11,Agam-30,Anopheles_gambiae,CTAB,0.57,female,gam.30 (1:10),Agam-30-rep1,1x mastermix
+mxPCR7817293,AnophelesP2_1x_F11,28131,1,130,F11,Agam-32,Anopheles_gambiae,CTAB,0.6,female,gam.32 (1:10),Agam-32-rep1,1x mastermix
+mxPCR7817294,AnophelesP2_1x_G11,28131,1,131,G11,Agam-35,Anopheles_gambiae,CTAB,0.71,female,gam.35 (1:10),Agam-35-rep1,1x mastermix
+mxPCR7817295,AnophelesP2_1x_H11,28131,1,132,H11,Agam-37,Anopheles_gambiae,CTAB,0.75,female,gam.37 (1:10),Agam-37-rep1,1x mastermix
+mxPCR7817296,AnophelesP2_1x_A12,28131,1,133,A12,Agam-38,Anopheles_gambiae,CTAB,0.37,female,gam.38 (1:10),Agam-38-rep1,1x mastermix
+mxPCR7817297,AnophelesP2_1x_B12,28131,1,134,B12,Anils-7,Anopheles_nili_ss,QIAGEN,0.75,female,nils.7 (1:10),Anils-7-rep1,1x mastermix
+mxPCR7817298,AnophelesP2_1x_C12,28131,1,135,C12,Acar-191,Anopheles_carnevalei,QIAGEN,0.27,female,car.191 (1:10),Acar-191-rep1,1x mastermix
+mxPCR7817299,AnophelesP2_1x_D12,28131,1,136,D12,Acar-192,Anopheles_carnevalei,QIAGEN,0.35,female,car.192 (1:10),Acar-192-rep1,1x mastermix
+mxPCR7817300,AnophelesP2_1x_E12,28131,1,137,E12,Acar-193,Anopheles_carnevalei,QIAGEN,0.34,female,car.193 (1:10),Acar-193-rep1,1x mastermix
+mxPCR7817301,AnophelesP2_1x_F12,28131,1,138,F12,Acar-194,Anopheles_carnevalei,QIAGEN,0.45,female,car.194 (1:10),Acar-194-rep1,1x mastermix
+mxPCR7817302,AnophelesP2_1x_G12,28131,1,139,G12,Acar-195,Anopheles_carnevalei,QIAGEN,0.35,female,car.195 (1:10),Acar-195-rep1,1x mastermix
+mxPCR7817303,AnophelesP2_1x_H12,28131,1,140,H12,Water5,blank_sample,,0,,water,Water5-rep1,1x mastermix
+mxPCR7817304,AnophelesP2_1.13x_A01,28131,1,141,A1,20181218-A4-dil,Anopheles_coluzzii,buffer A,0.43,male,"buffer A male, 60ul overnight @RT, 0.43ng/ul (1:10)",20181218-A4-dil-rep2,1.125x mastermix
+mxPCR7817305,AnophelesP2_1.13x_B01,28131,1,142,B1,20181218-A5-dil,Anopheles_coluzzii,buffer A,1.51,female,"buffer A female, 60ul overnight @RT, 1.51ng/ul (1:10)",20181218-A5-dil-rep2,1.125x mastermix
+mxPCR7817306,AnophelesP2_1.13x_C01,28131,1,143,C1,20181218-A7-dil,Anopheles_coluzzii,buffer A,1.23,male,"buffer A male, 10ul 2h @RT, 1.23ng/ul (1:10)",20181218-A7-dil-rep2,1.125x mastermix
+mxPCR7817307,AnophelesP2_1.13x_D01,28131,1,144,D1,20181218-A8-dil,Anopheles_coluzzii,buffer A,3.01,female,"buffer A female, 10ul 2h @RT, 3.01ng/ul (1:10)",20181218-A8-dil-rep2,1.125x mastermix
+mxPCR7817308,AnophelesP2_1.13x_E01,28131,1,145,E1,20181218-C4-dil,Anopheles_coluzzii,buffer C,0.28,male,"buffer C male, 60ul overnight @RT, 0.28ng/ul (1:10)",20181218-C4-dil-rep2,1.125x mastermix
+mxPCR7817309,AnophelesP2_1.13x_F01,28131,1,146,F1,20181218-C5-dil,Anopheles_coluzzii,buffer C,1.06,female,"buffer C female, 60ul overnight @RT, 1.06ng/ul (1:10)",20181218-C5-dil-rep2,1.125x mastermix
+mxPCR7817310,AnophelesP2_1.13x_G01,28131,1,147,G1,20181218-C7-dil,Anopheles_coluzzii,buffer C,0.42,male,"buffer C male, 10ul 2h @RT, 0.42ng/ul (1:10)",20181218-C7-dil-rep2,1.125x mastermix
+mxPCR7817311,AnophelesP2_1.13x_H01,28131,1,148,H1,20181218-C8-dil,Anopheles_coluzzii,buffer C,2.46,female,"buffer C female, 10ul 2h @RT, 2.46ng/ul (1:10)",20181218-C8-dil-rep2,1.125x mastermix
+mxPCR7817312,AnophelesP2_1.13x_A02,28131,1,149,A2,20181218-G4-dil,Anopheles_coluzzii,buffer G,0.48,male,"buffer G male, 60ul overnight @RT, 0.48ng/ul (1:10)",20181218-G4-dil-rep2,1.125x mastermix
+mxPCR7817313,AnophelesP2_1.13x_B02,28131,1,150,B2,20181218-G5-dil,Anopheles_coluzzii,buffer G,0.93,female,"buffer G female, 60ul overnight @RT, 0.93ng/ul (1:10)",20181218-G5-dil-rep2,1.125x mastermix
+mxPCR7817314,AnophelesP2_1.13x_C02,28131,1,151,C2,20181218-G7-dil,Anopheles_coluzzii,buffer G,1.43,male,"buffer G male, 10ul 2h @RT, 1.43ng/ul (1:10)",20181218-G7-dil-rep2,1.125x mastermix
+mxPCR7817315,AnophelesP2_1.13x_D02,28131,1,152,D2,20181218-G8-dil,Anopheles_coluzzii,buffer G,2.02,female,"buffer G female, 10ul 2h @RT, 2.02ng/ul (1:10)",20181218-G8-dil-rep2,1.125x mastermix
+mxPCR7817316,AnophelesP2_1.13x_E02,28131,1,153,E2,20181218-D8-dil,Anopheles_coluzzii,buffer D,0.63,female,"buffer D female, 10ul 2h @RT, 0.63ng/ul (1:10)",20181218-D8-dil-rep2,1.125x mastermix
+mxPCR7817317,AnophelesP2_1.13x_F02,28131,1,154,F2,20181218-E8-dil,Anopheles_coluzzii,buffer E,0.8,female,"buffer E female, 10ul 2h @RT, 0.80ng/ul (1:10)",20181218-E8-dil-rep2,1.125x mastermix
+mxPCR7817318,AnophelesP2_1.13x_G02,28131,1,155,G2,20181218-F8-dil,Anopheles_coluzzii,buffer F,1.85,female,"buffer F female, 10ul 2h @RT, 1.85ng/ul (1:10)",20181218-F8-dil-rep2,1.125x mastermix
+mxPCR7817319,AnophelesP2_1.13x_H02,28131,1,156,H2,20181218-H8-dil,Anopheles_coluzzii,water,0.04,female,"water female, 10ul 2h @RT, 0.04ng/ul (1:10)",20181218-H8-dil-rep2,1.125x mastermix
+mxPCR7817320,AnophelesP2_1.13x_A03,28131,1,157,A3,20181218-C4,Anopheles_coluzzii,buffer C,3,male,"buffer C male, 60ul overnight @RT, ~3ng/ul (undil.)",20181218-C4-rep2,1.125x mastermix
+mxPCR7817321,AnophelesP2_1.13x_B03,28131,1,158,B3,20181218-C5,Anopheles_coluzzii,buffer C,11,female,"buffer C female, 60ul overnight @RT, ~11ng/ul (undil.)",20181218-C5-rep2,1.125x mastermix
+mxPCR7817322,AnophelesP2_1.13x_C03,28131,1,159,C3,20181218-C7,Anopheles_coluzzii,buffer C,4,male,"buffer C male, 10ul 2h @RT, ~4ng/ul (undil.)",20181218-C7-rep2,1.125x mastermix
+mxPCR7817323,AnophelesP2_1.13x_D03,28131,1,160,D3,20181218-C8,Anopheles_coluzzii,buffer C,25,female,"buffer C female, 10ul 2h @RT, ~25ng/ul (undil.)",20181218-C8-rep2,1.125x mastermix
+mxPCR7817324,AnophelesP2_1.13x_E03,28131,1,161,E3,20181218-G4,Anopheles_coluzzii,buffer G,5,male,"buffer G male, 60ul overnight @RT, ~5ng/ul (undil.)",20181218-G4-rep2,1.125x mastermix
+mxPCR7817325,AnophelesP2_1.13x_F03,28131,1,162,F3,20181218-G5,Anopheles_coluzzii,buffer G,9,female,"buffer G female, 60ul overnight @RT, ~9ng/ul (undil.)",20181218-G5-rep2,1.125x mastermix
+mxPCR7817326,AnophelesP2_1.13x_G03,28131,1,163,G3,20181218-G7,Anopheles_coluzzii,buffer G,14,female,"buffer G male, 10ul 2h @RT, ~14ng/ul (undil.)",20181218-G7-rep2,1.125x mastermix
+mxPCR7817327,AnophelesP2_1.13x_H03,28131,1,164,H3,20181218-G8,Anopheles_coluzzii,buffer G,20,female,"buffer G female, 10ul 2h @RT, ~20ng/ul (undil.)",20181218-G8-rep2,1.125x mastermix
+mxPCR7817335,AnophelesP2_1.13x_H04,28131,1,172,H4,Water4,blank_sample,,0,,water,Water4-rep2,1.125x mastermix
+mxPCR7817336,AnophelesP2_1.13x_A05,28131,1,173,A5,VBS00001,Anopheles_annularis,non-WGA,0.02,female,"VBS00001, non-WGA, A1, 0.02ng/ul (1:10)",VBS00001-rep2,1.125x mastermix
+mxPCR7817337,AnophelesP2_1.13x_B05,28131,1,174,B5,VBS00002,Anopheles_annularis,non-WGA,0.06,female,"VBS00002, non-WGA, B1, 0.06ng/ul (1:10)",VBS00002-rep2,1.125x mastermix
+mxPCR7817338,AnophelesP2_1.13x_C05,28131,1,175,C5,VBS00003,Anopheles_annularis,non-WGA,0.05,female,"VBS00003, non-WGA, C1, 0.05ng/ul(1:10)",VBS00003-rep2,1.125x mastermix
+mxPCR7817339,AnophelesP2_1.13x_D05,28131,1,176,D5,VBS00004,Anopheles_annularis,non-WGA,0.05,female,"VBS00004, non-WGA, D1, 0.05ng/ul (1:10)",VBS00004-rep2,1.125x mastermix
+mxPCR7817340,AnophelesP2_1.13x_E05,28131,1,177,E5,VBS00021,Anopheles_barbirostris,non-WGA,0.16,female,"VBS00021, non-WGA, E1, 0.16ng/ul (1:10)",VBS00021-rep2,1.125x mastermix
+mxPCR7817341,AnophelesP2_1.13x_F05,28131,1,178,F5,VBS00022,Anopheles_barbirostris,non-WGA,0.12,female,"VBS00022, non-WGA, F1, 0.12ng/ul (1:10)",VBS00022-rep2,1.125x mastermix
+mxPCR7817342,AnophelesP2_1.13x_G05,28131,1,179,G5,VBS00023,Anopheles_barbirostris,non-WGA,0.11,female,"VBS00023, non-WGA, G1, 0.11ng/ul (1:10)",VBS00023-rep2,1.125x mastermix
+mxPCR7817343,AnophelesP2_1.13x_H05,28131,1,180,H5,VBS00024,Anopheles_barbirostris,non-WGA,0.11,female,"VBS00024, non-WGA, H1, 0.11ng/ul (1:10)",VBS00024-rep2,1.125x mastermix
+mxPCR7817344,AnophelesP2_1.13x_A06,28131,1,181,A6,VBS00025,Anopheles_barbirostris,non-WGA,0.06,female,"VBS00025, non-WGA, A2, 0.06ng/ul (1:10)",VBS00025-rep2,1.125x mastermix
+mxPCR7817345,AnophelesP2_1.13x_B06,28131,1,182,B6,VBS00048,Anopheles_dirus_A,non-WGA,0.03,female,"VBS00048, non-WGA, B2, 0.03ng/ul (1:10)",VBS00048-rep2,1.125x mastermix
+mxPCR7817346,AnophelesP2_1.13x_C06,28131,1,183,C6,VBS00049,Anopheles_dirus_A,non-WGA,0.06,female,"VBS00049, non-WGA, C2, 0.06ng/ul (1:10)",VBS00049-rep2,1.125x mastermix
+mxPCR7817347,AnophelesP2_1.13x_D06,28131,1,184,D6,VBS00050,Anopheles_dirus_A,non-WGA,0.04,female,"VBS00050, non-WGA, D2, 0.04ng/ul (1:10)",VBS00050-rep2,1.125x mastermix
+mxPCR7817348,AnophelesP2_1.13x_E06,28131,1,185,E6,VBS00051,Anopheles_dirus_A,WGA,3.94,female,"VBS00051, WGA, E2, 3.94ng/ul (1:10)",VBS00051-rep2,1.125x mastermix
+mxPCR7817349,AnophelesP2_1.13x_F06,28131,1,186,F6,VBS00053,Anopheles_aconitus,WGA,0.79,female,"VBS00053, WGA, F2, 0.79ng/ul (1:10)",VBS00053-rep2,1.125x mastermix
+mxPCR7817350,AnophelesP2_1.13x_G06,28131,1,187,G6,VBS00055,Anopheles_aconitus,WGA,3.65,female,"VBS00055, WGA, G2, 3.65ng/ul (1:10)",VBS00055-rep2,1.125x mastermix
+mxPCR7817351,AnophelesP2_1.13x_H06,28131,1,188,H6,VBS00059,Anopheles_minimus_A,non-WGA,0.05,female,"VBS00059, non-WGA, H2, 0.05ng/ul (1:10)",VBS00059-rep2,1.125x mastermix
+mxPCR7817352,AnophelesP2_1.13x_A07,28131,1,189,A7,VBS00061,Anopheles_minimus_A,WGA,7.97,female,"VBS00061, WGA, A3, 7.97ng/ul (1:10)",VBS00061-rep2,1.125x mastermix
+mxPCR7817353,AnophelesP2_1.13x_B07,28131,1,190,B7,VBS00082,Anopheles_hyrcanus,non-WGA,0.09,female,"VBS00082, non-WGA, B3, 0.09ng/ul (1:10)",VBS00082-rep2,1.125x mastermix
+mxPCR7817354,AnophelesP2_1.13x_C07,28131,1,191,C7,VBS00083,Anopheles_hyrcanus,non-WGA,0.1,female,"VBS00083, non-WGA, C3, 0.10ng/ul (1:10)",VBS00083-rep2,1.125x mastermix
+mxPCR7817355,AnophelesP2_1.13x_D07,28131,1,192,D7,VBS00084,Anopheles_hyrcanus,WGA,1.27,female,"VBS00084, WGA, D3, 1.27ng/ul (1:10)",VBS00084-rep2,1.125x mastermix
+mxPCR7817356,AnophelesP2_1.13x_E07,28131,1,193,E7,VBS00085,Anopheles_hyrcanus,non-WGA,0.04,female,"VBS00085, non-WGA, E3, 0.04ng/ul (1:10)",VBS00085-rep2,1.125x mastermix
+mxPCR7817357,AnophelesP2_1.13x_F07,28131,1,194,F7,VBS00086,Anopheles_hyrcanus,non-WGA,0.05,female,"VBS00086, non-WGA, F3, 0.05ng/ul (1:10)",VBS00086-rep2,1.125x mastermix
+mxPCR7817358,AnophelesP2_1.13x_G07,28131,1,195,G7,VBS00107,Anopheles_maculatus_A,non-WGA,0.03,female,"VBS00107, non-WGA, G3, 0.03ng/ul (1:10)",VBS00107-rep2,1.125x mastermix
+mxPCR7817359,AnophelesP2_1.13x_H07,28131,1,196,H7,VBS00108,Anopheles_maculatus_A,WGA,1.96,female,"VBS00108, WGA, H3, 1.96ng/ul (1:10)",VBS00108-rep2,1.125x mastermix
+mxPCR7817360,AnophelesP2_1.13x_A08,28131,1,197,A8,VBS00112,Anopheles_rampae_maculatus_K,non-WGA,0.05,female,"VBS00112, non-WGA, A4, 0.05ng/ul (1:10)",VBS00112-rep2,1.125x mastermix
+mxPCR7817361,AnophelesP2_1.13x_B08,28131,1,198,B8,VBS00113,Anopheles_rampae_maculatus_K,non-WGA,0.03,female,"VBS00113, non-WGA, B4, 0.03ng/ul (1:10)",VBS00113-rep2,1.125x mastermix
+mxPCR7817362,AnophelesP2_1.13x_C08,28131,1,199,C8,VBS00114,Anopheles_rampae_maculatus_K,non-WGA,0.04,female,"VBS00114, non-WGA, C4, 0.04ng/ul (1:10)",VBS00114-rep2,1.125x mastermix
+mxPCR7817363,AnophelesP2_1.13x_D08,28131,1,200,D8,VBS00115,Anopheles_rampae_maculatus_K,non-WGA,0.06,female,"VBS00115, non-WGA, D4, 0.06ng/ul (1:10)",VBS00115-rep2,1.125x mastermix
+mxPCR7817364,AnophelesP2_1.13x_E08,28131,1,201,E8,VBS00122,Anopheles_balabacensis,non-WGA,0.04,female,"VBS00122, non-WGA, E4, 0.04ng/ul (1:10)",VBS00122-rep2,1.125x mastermix
+mxPCR7817365,AnophelesP2_1.13x_F08,28131,1,202,F8,VBS00125,Anopheles_jamesii,WGA,3.07,female,"VBS00125, WGA, F4, 3.07ng/ul (1:10)",VBS00125-rep2,1.125x mastermix
+mxPCR7817366,AnophelesP2_1.13x_G08,28131,1,203,G8,VBS00127,Anopheles_jamesii,non-WGA,0.07,female,"VBS00127, non-WGA, G4, 0.07ng/ul (1:10)",VBS00127-rep2,1.125x mastermix
+mxPCR7817367,AnophelesP2_1.13x_H08,28131,1,204,H8,VBS00128,Anopheles_jamesii,non-WGA,0.09,female,"VBS00128, non-WGA, H4, 0.09ng/ul (1:10)",VBS00128-rep2,1.125x mastermix
+mxPCR7817368,AnophelesP2_1.13x_A09,28131,1,205,A9,VBS00144,Anopheles_sundaicus,non-WGA,0.15,female,"VBS00144, non-WGA, A5, 0.15ng/ul (1:10)",VBS00144-rep2,1.125x mastermix
+mxPCR7817369,AnophelesP2_1.13x_B09,28131,1,206,B9,VBS00145,Anopheles_sundaicus,non-WGA,0.07,female,"VBS00145, non-WGA, B5, 0.07ng/ul (1:10)",VBS00145-rep2,1.125x mastermix
+mxPCR7817370,AnophelesP2_1.13x_C09,28131,1,207,C9,VBS00146,Anopheles_sundaicus,non-WGA,0.1,female,"VBS00146, non-WGA, C5, 0.10ng/ul (1:10)",VBS00146-rep2,1.125x mastermix
+mxPCR7817371,AnophelesP2_1.13x_D09,28131,1,208,D9,VBS00147,Anopheles_sundaicus,non-WGA,0.09,female,"VBS00147, non-WGA, D5, 0.09ng/ul (1:10)",VBS00147-rep2,1.125x mastermix
+mxPCR7817372,AnophelesP2_1.13x_E09,28131,1,209,E9,VBS00148,Anopheles_sundaicus,non-WGA,0.1,female,"VBS00148, non-WGA, E5, 0.10ng/ul (1:10)",VBS00148-rep2,1.125x mastermix
+mxPCR7817373,AnophelesP2_1.13x_F09,28131,1,210,F9,VBS00149,Anopheles_tessellatus,WGA,3.93,female,"VBS00149, WGA, F5, 3.93ng/ul (1:10)",VBS00149-rep2,1.125x mastermix
+mxPCR7817374,AnophelesP2_1.13x_G09,28131,1,211,G9,VBS00150,Anopheles_tessellatus,WGA,7.14,female,"VBS00150, WGA, G5, 7.14ng/ul (1:10)",VBS00150-rep2,1.125x mastermix
+mxPCR7817375,AnophelesP2_1.13x_H09,28131,1,212,H9,VBS00154,Anopheles_vagus,non-WGA,0.06,female,"VBS00154, non-WGA, H5, 0.06ng/ul (1:10)",VBS00154-rep2,1.125x mastermix
+mxPCR7817376,AnophelesP2_1.13x_A10,28131,1,213,A10,VBS00156,Anopheles_vagus,non-WGA,0.09,female,"VBS00156, non-WGA, A6, 0.09ng/ul (1:10)",VBS00156-rep2,1.125x mastermix
+mxPCR7817377,AnophelesP2_1.13x_B10,28131,1,214,B10,VBS00157,Anopheles_vagus,non-WGA,0.01,female,"VBS00157, non-WGA, B6, 0.01ng/ul (1:10)",VBS00157-rep2,1.125x mastermix
+mxPCR7817378,AnophelesP2_1.13x_C10,28131,1,215,C10,VBS00158,Anopheles_vagus,non-WGA,-0.01,female,"VBS00158, non-WGA, C6, -0.01ng/ul (1:10)",VBS00158-rep2,1.125x mastermix
+mxPCR7817379,AnophelesP2_1.13x_D10,28131,1,216,D10,Aimp-M0001,Anopheles_implexus,QIAGEN,1.41,female,imp.M0001 (1:10),Aimp-M0001-rep2,1.125x mastermix
+mxPCR7817380,AnophelesP2_1.13x_E10,28131,1,217,E10,Aimp-M0030,Anopheles_implexus,QIAGEN,1.38,female,imp.M0030 (1:10),Aimp-M0030-rep2,1.125x mastermix
+mxPCR7817381,AnophelesP2_1.13x_F10,28131,1,218,F10,Acon-142,Anopheles_concolor,CTAB,0,female,con.142 (1:10),Acon-142-rep2,1.125x mastermix
+mxPCR7817382,AnophelesP2_1.13x_G10,28131,1,219,G10,Agab-M192,Anopheles_gabonensis,QIAGEN,0.42,female,gab.M192 (1:10),Agab-M192-rep2,1.125x mastermix
+mxPCR7817383,AnophelesP2_1.13x_H10,28131,1,220,H10,Avin-B0004,Anopheles_vinckei,QIAGEN,0.4,female,vin.B0004 (1:10),Avin-B0004-rep2,1.125x mastermix
+mxPCR7817384,AnophelesP2_1.13x_A11,28131,1,221,A11,Avin-B0009,Anopheles_vinckei,QIAGEN,0.4,female,vin.B0009 (1:10),Avin-B0009-rep2,1.125x mastermix
+mxPCR7817385,AnophelesP2_1.13x_B11,28131,1,222,B11,Avin-M0004,Anopheles_vinckei,QIAGEN,0.27,female,vin.M0004 (1:10),Avin-M0004-rep2,1.125x mastermix
+mxPCR7817386,AnophelesP2_1.13x_C11,28131,1,223,C11,Avin-M0009,Anopheles_vinckei,QIAGEN,0.24,female,vin.M0009 (1:10),Avin-M0009-rep2,1.125x mastermix
+mxPCR7817387,AnophelesP2_1.13x_D11,28131,1,224,D11,Avin-M0012,Anopheles_vinckei,QIAGEN,0.34,female,vin.M0012 (1:10),Avin-M0012-rep2,1.125x mastermix
+mxPCR7817388,AnophelesP2_1.13x_E11,28131,1,225,E11,Agam-30,Anopheles_gambiae,CTAB,0.57,female,gam.30 (1:10),Agam-30-rep2,1.125x mastermix
+mxPCR7817389,AnophelesP2_1.13x_F11,28131,1,226,F11,Agam-32,Anopheles_gambiae,CTAB,0.6,female,gam.32 (1:10),Agam-32-rep2,1.125x mastermix
+mxPCR7817390,AnophelesP2_1.13x_G11,28131,1,227,G11,Agam-35,Anopheles_gambiae,CTAB,0.71,female,gam.35 (1:10),Agam-35-rep2,1.125x mastermix
+mxPCR7817391,AnophelesP2_1.13x_H11,28131,1,228,H11,Agam-37,Anopheles_gambiae,CTAB,0.75,female,gam.37 (1:10),Agam-37-rep2,1.125x mastermix
+mxPCR7817392,AnophelesP2_1.13x_A12,28131,1,229,A12,Agam-38,Anopheles_gambiae,CTAB,0.37,female,gam.38 (1:10),Agam-38-rep2,1.125x mastermix
+mxPCR7817393,AnophelesP2_1.13x_B12,28131,1,230,B12,Anils-7,Anopheles_nili_ss,QIAGEN,0.75,female,nils.7 (1:10),Anils-7-rep2,1.125x mastermix
+mxPCR7817394,AnophelesP2_1.13x_C12,28131,1,231,C12,Acar-191,Anopheles_carnevalei,QIAGEN,0.27,female,car.191 (1:10),Acar-191-rep2,1.125x mastermix
+mxPCR7817395,AnophelesP2_1.13x_D12,28131,1,232,D12,Acar-192,Anopheles_carnevalei,QIAGEN,0.35,female,car.192 (1:10),Acar-192-rep2,1.125x mastermix
+mxPCR7817396,AnophelesP2_1.13x_E12,28131,1,233,E12,Acar-193,Anopheles_carnevalei,QIAGEN,0.34,female,car.193 (1:10),Acar-193-rep2,1.125x mastermix
+mxPCR7817397,AnophelesP2_1.13x_F12,28131,1,234,F12,Acar-194,Anopheles_carnevalei,QIAGEN,0.45,female,car.194 (1:10),Acar-194-rep2,1.125x mastermix
+mxPCR7817398,AnophelesP2_1.13x_G12,28131,1,235,G12,Acar-195,Anopheles_carnevalei,QIAGEN,0.35,female,car.195 (1:10),Acar-195-rep2,1.125x mastermix
+mxPCR7817399,AnophelesP2_1.13x_H12,28131,1,236,H12,Water5,blank_sample,,0,,water,Water5-rep2,1.125x mastermix
+mxPCR7817400,AnophelesP2_1.25x_A01,28131,1,237,A1,20181218-A4-dil,Anopheles_coluzzii,buffer A,0.43,male,"buffer A male, 60ul overnight @RT, 0.43ng/ul (1:10)",20181218-A4-dil-rep3,1.25x mastermix
+mxPCR7817401,AnophelesP2_1.25x_B01,28131,1,238,B1,20181218-A5-dil,Anopheles_coluzzii,buffer A,1.51,female,"buffer A female, 60ul overnight @RT, 1.51ng/ul (1:10)",20181218-A5-dil-rep3,1.25x mastermix
+mxPCR7817402,AnophelesP2_1.25x_C01,28131,1,239,C1,20181218-A7-dil,Anopheles_coluzzii,buffer A,1.23,male,"buffer A male, 10ul 2h @RT, 1.23ng/ul (1:10)",20181218-A7-dil-rep3,1.25x mastermix
+mxPCR7817403,AnophelesP2_1.25x_D01,28131,1,240,D1,20181218-A8-dil,Anopheles_coluzzii,buffer A,3.01,female,"buffer A female, 10ul 2h @RT, 3.01ng/ul (1:10)",20181218-A8-dil-rep3,1.25x mastermix
+mxPCR7817404,AnophelesP2_1.25x_E01,28131,1,241,E1,20181218-C4-dil,Anopheles_coluzzii,buffer C,0.28,male,"buffer C male, 60ul overnight @RT, 0.28ng/ul (1:10)",20181218-C4-dil-rep3,1.25x mastermix
+mxPCR7817405,AnophelesP2_1.25x_F01,28131,1,242,F1,20181218-C5-dil,Anopheles_coluzzii,buffer C,1.06,female,"buffer C female, 60ul overnight @RT, 1.06ng/ul (1:10)",20181218-C5-dil-rep3,1.25x mastermix
+mxPCR7817406,AnophelesP2_1.25x_G01,28131,1,243,G1,20181218-C7-dil,Anopheles_coluzzii,buffer C,0.42,male,"buffer C male, 10ul 2h @RT, 0.42ng/ul (1:10)",20181218-C7-dil-rep3,1.25x mastermix
+mxPCR7817407,AnophelesP2_1.25x_H01,28131,1,244,H1,20181218-C8-dil,Anopheles_coluzzii,buffer C,2.46,female,"buffer C female, 10ul 2h @RT, 2.46ng/ul (1:10)",20181218-C8-dil-rep3,1.25x mastermix
+mxPCR7817408,AnophelesP2_1.25x_A02,28131,1,245,A2,20181218-G4-dil,Anopheles_coluzzii,buffer G,0.48,male,"buffer G male, 60ul overnight @RT, 0.48ng/ul (1:10)",20181218-G4-dil-rep3,1.25x mastermix
+mxPCR7817409,AnophelesP2_1.25x_B02,28131,1,246,B2,20181218-G5-dil,Anopheles_coluzzii,buffer G,0.93,female,"buffer G female, 60ul overnight @RT, 0.93ng/ul (1:10)",20181218-G5-dil-rep3,1.25x mastermix
+mxPCR7817410,AnophelesP2_1.25x_C02,28131,1,247,C2,20181218-G7-dil,Anopheles_coluzzii,buffer G,1.43,male,"buffer G male, 10ul 2h @RT, 1.43ng/ul (1:10)",20181218-G7-dil-rep3,1.25x mastermix
+mxPCR7817411,AnophelesP2_1.25x_D02,28131,1,248,D2,20181218-G8-dil,Anopheles_coluzzii,buffer G,2.02,female,"buffer G female, 10ul 2h @RT, 2.02ng/ul (1:10)",20181218-G8-dil-rep3,1.25x mastermix
+mxPCR7817412,AnophelesP2_1.25x_E02,28131,1,249,E2,20181218-D8-dil,Anopheles_coluzzii,buffer D,0.63,female,"buffer D female, 10ul 2h @RT, 0.63ng/ul (1:10)",20181218-D8-dil-rep3,1.25x mastermix
+mxPCR7817413,AnophelesP2_1.25x_F02,28131,1,250,F2,20181218-E8-dil,Anopheles_coluzzii,buffer E,0.8,female,"buffer E female, 10ul 2h @RT, 0.80ng/ul (1:10)",20181218-E8-dil-rep3,1.25x mastermix
+mxPCR7817414,AnophelesP2_1.25x_G02,28131,1,251,G2,20181218-F8-dil,Anopheles_coluzzii,buffer F,1.85,female,"buffer F female, 10ul 2h @RT, 1.85ng/ul (1:10)",20181218-F8-dil-rep3,1.25x mastermix
+mxPCR7817415,AnophelesP2_1.25x_H02,28131,1,252,H2,20181218-H8-dil,Anopheles_coluzzii,water,0.04,female,"water female, 10ul 2h @RT, 0.04ng/ul (1:10)",20181218-H8-dil-rep3,1.25x mastermix
+mxPCR7817416,AnophelesP2_1.25x_A03,28131,1,253,A3,20181218-C4,Anopheles_coluzzii,buffer C,3,male,"buffer C male, 60ul overnight @RT, ~3ng/ul (undil.)",20181218-C4-rep3,1.25x mastermix
+mxPCR7817417,AnophelesP2_1.25x_B03,28131,1,254,B3,20181218-C5,Anopheles_coluzzii,buffer C,11,female,"buffer C female, 60ul overnight @RT, ~11ng/ul (undil.)",20181218-C5-rep3,1.25x mastermix
+mxPCR7817418,AnophelesP2_1.25x_C03,28131,1,255,C3,20181218-C7,Anopheles_coluzzii,buffer C,4,male,"buffer C male, 10ul 2h @RT, ~4ng/ul (undil.)",20181218-C7-rep3,1.25x mastermix
+mxPCR7817419,AnophelesP2_1.25x_D03,28131,1,256,D3,20181218-C8,Anopheles_coluzzii,buffer C,25,female,"buffer C female, 10ul 2h @RT, ~25ng/ul (undil.)",20181218-C8-rep3,1.25x mastermix
+mxPCR7817420,AnophelesP2_1.25x_E03,28131,1,257,E3,20181218-G4,Anopheles_coluzzii,buffer G,5,male,"buffer G male, 60ul overnight @RT, ~5ng/ul (undil.)",20181218-G4-rep3,1.25x mastermix
+mxPCR7817421,AnophelesP2_1.25x_F03,28131,1,258,F3,20181218-G5,Anopheles_coluzzii,buffer G,9,female,"buffer G female, 60ul overnight @RT, ~9ng/ul (undil.)",20181218-G5-rep3,1.25x mastermix
+mxPCR7817422,AnophelesP2_1.25x_G03,28131,1,259,G3,20181218-G7,Anopheles_coluzzii,buffer G,14,female,"buffer G male, 10ul 2h @RT, ~14ng/ul (undil.)",20181218-G7-rep3,1.25x mastermix
+mxPCR7817423,AnophelesP2_1.25x_H03,28131,1,260,H3,20181218-G8,Anopheles_coluzzii,buffer G,20,female,"buffer G female, 10ul 2h @RT, ~20ng/ul (undil.)",20181218-G8-rep3,1.25x mastermix
+mxPCR7817431,AnophelesP2_1.25x_H04,28131,1,268,H4,Water4,blank_sample,,0,,water,Water4-rep3,1.25x mastermix
+mxPCR7817432,AnophelesP2_1.25x_A05,28131,1,269,A5,VBS00001,Anopheles_annularis,non-WGA,0.02,female,"VBS00001, non-WGA, A1, 0.02ng/ul (1:10)",VBS00001-rep3,1.25x mastermix
+mxPCR7817433,AnophelesP2_1.25x_B05,28131,1,270,B5,VBS00002,Anopheles_annularis,non-WGA,0.06,female,"VBS00002, non-WGA, B1, 0.06ng/ul (1:10)",VBS00002-rep3,1.25x mastermix
+mxPCR7817434,AnophelesP2_1.25x_C05,28131,1,271,C5,VBS00003,Anopheles_annularis,non-WGA,0.05,female,"VBS00003, non-WGA, C1, 0.05ng/ul(1:10)",VBS00003-rep3,1.25x mastermix
+mxPCR7817435,AnophelesP2_1.25x_D05,28131,1,272,D5,VBS00004,Anopheles_annularis,non-WGA,0.05,female,"VBS00004, non-WGA, D1, 0.05ng/ul (1:10)",VBS00004-rep3,1.25x mastermix
+mxPCR7817436,AnophelesP2_1.25x_E05,28131,1,273,E5,VBS00021,Anopheles_barbirostris,non-WGA,0.16,female,"VBS00021, non-WGA, E1, 0.16ng/ul (1:10)",VBS00021-rep3,1.25x mastermix
+mxPCR7817437,AnophelesP2_1.25x_F05,28131,1,274,F5,VBS00022,Anopheles_barbirostris,non-WGA,0.12,female,"VBS00022, non-WGA, F1, 0.12ng/ul (1:10)",VBS00022-rep3,1.25x mastermix
+mxPCR7817438,AnophelesP2_1.25x_G05,28131,1,275,G5,VBS00023,Anopheles_barbirostris,non-WGA,0.11,female,"VBS00023, non-WGA, G1, 0.11ng/ul (1:10)",VBS00023-rep3,1.25x mastermix
+mxPCR7817439,AnophelesP2_1.25x_H05,28131,1,276,H5,VBS00024,Anopheles_barbirostris,non-WGA,0.11,female,"VBS00024, non-WGA, H1, 0.11ng/ul (1:10)",VBS00024-rep3,1.25x mastermix
+mxPCR7817440,AnophelesP2_1.25x_A06,28131,1,277,A6,VBS00025,Anopheles_barbirostris,non-WGA,0.06,female,"VBS00025, non-WGA, A2, 0.06ng/ul (1:10)",VBS00025-rep3,1.25x mastermix
+mxPCR7817441,AnophelesP2_1.25x_B06,28131,1,278,B6,VBS00048,Anopheles_dirus_A,non-WGA,0.03,female,"VBS00048, non-WGA, B2, 0.03ng/ul (1:10)",VBS00048-rep3,1.25x mastermix
+mxPCR7817442,AnophelesP2_1.25x_C06,28131,1,279,C6,VBS00049,Anopheles_dirus_A,non-WGA,0.06,female,"VBS00049, non-WGA, C2, 0.06ng/ul (1:10)",VBS00049-rep3,1.25x mastermix
+mxPCR7817443,AnophelesP2_1.25x_D06,28131,1,280,D6,VBS00050,Anopheles_dirus_A,non-WGA,0.04,female,"VBS00050, non-WGA, D2, 0.04ng/ul (1:10)",VBS00050-rep3,1.25x mastermix
+mxPCR7817444,AnophelesP2_1.25x_E06,28131,1,281,E6,VBS00051,Anopheles_dirus_A,WGA,3.94,female,"VBS00051, WGA, E2, 3.94ng/ul (1:10)",VBS00051-rep3,1.25x mastermix
+mxPCR7817445,AnophelesP2_1.25x_F06,28131,1,282,F6,VBS00053,Anopheles_aconitus,WGA,0.79,female,"VBS00053, WGA, F2, 0.79ng/ul (1:10)",VBS00053-rep3,1.25x mastermix
+mxPCR7817446,AnophelesP2_1.25x_G06,28131,1,283,G6,VBS00055,Anopheles_aconitus,WGA,3.65,female,"VBS00055, WGA, G2, 3.65ng/ul (1:10)",VBS00055-rep3,1.25x mastermix
+mxPCR7817447,AnophelesP2_1.25x_H06,28131,1,284,H6,VBS00059,Anopheles_minimus_A,non-WGA,0.05,female,"VBS00059, non-WGA, H2, 0.05ng/ul (1:10)",VBS00059-rep3,1.25x mastermix
+mxPCR7817448,AnophelesP2_1.25x_A07,28131,1,285,A7,VBS00061,Anopheles_minimus_A,WGA,7.97,female,"VBS00061, WGA, A3, 7.97ng/ul (1:10)",VBS00061-rep3,1.25x mastermix
+mxPCR7817449,AnophelesP2_1.25x_B07,28131,1,286,B7,VBS00082,Anopheles_hyrcanus,non-WGA,0.09,female,"VBS00082, non-WGA, B3, 0.09ng/ul (1:10)",VBS00082-rep3,1.25x mastermix
+mxPCR7817450,AnophelesP2_1.25x_C07,28131,1,287,C7,VBS00083,Anopheles_hyrcanus,non-WGA,0.1,female,"VBS00083, non-WGA, C3, 0.10ng/ul (1:10)",VBS00083-rep3,1.25x mastermix
+mxPCR7817451,AnophelesP2_1.25x_D07,28131,1,288,D7,VBS00084,Anopheles_hyrcanus,WGA,1.27,female,"VBS00084, WGA, D3, 1.27ng/ul (1:10)",VBS00084-rep3,1.25x mastermix
+mxPCR7817452,AnophelesP2_1.25x_E07,28131,1,289,E7,VBS00085,Anopheles_hyrcanus,non-WGA,0.04,female,"VBS00085, non-WGA, E3, 0.04ng/ul (1:10)",VBS00085-rep3,1.25x mastermix
+mxPCR7817453,AnophelesP2_1.25x_F07,28131,1,290,F7,VBS00086,Anopheles_hyrcanus,non-WGA,0.05,female,"VBS00086, non-WGA, F3, 0.05ng/ul (1:10)",VBS00086-rep3,1.25x mastermix
+mxPCR7817454,AnophelesP2_1.25x_G07,28131,1,291,G7,VBS00107,Anopheles_maculatus_A,non-WGA,0.03,female,"VBS00107, non-WGA, G3, 0.03ng/ul (1:10)",VBS00107-rep3,1.25x mastermix
+mxPCR7817455,AnophelesP2_1.25x_H07,28131,1,292,H7,VBS00108,Anopheles_maculatus_A,WGA,1.96,female,"VBS00108, WGA, H3, 1.96ng/ul (1:10)",VBS00108-rep3,1.25x mastermix
+mxPCR7817456,AnophelesP2_1.25x_A08,28131,1,293,A8,VBS00112,Anopheles_rampae_maculatus_K,non-WGA,0.05,female,"VBS00112, non-WGA, A4, 0.05ng/ul (1:10)",VBS00112-rep3,1.25x mastermix
+mxPCR7817457,AnophelesP2_1.25x_B08,28131,1,294,B8,VBS00113,Anopheles_rampae_maculatus_K,non-WGA,0.03,female,"VBS00113, non-WGA, B4, 0.03ng/ul (1:10)",VBS00113-rep3,1.25x mastermix
+mxPCR7817458,AnophelesP2_1.25x_C08,28131,1,295,C8,VBS00114,Anopheles_rampae_maculatus_K,non-WGA,0.04,female,"VBS00114, non-WGA, C4, 0.04ng/ul (1:10)",VBS00114-rep3,1.25x mastermix
+mxPCR7817459,AnophelesP2_1.25x_D08,28131,1,296,D8,VBS00115,Anopheles_rampae_maculatus_K,non-WGA,0.06,female,"VBS00115, non-WGA, D4, 0.06ng/ul (1:10)",VBS00115-rep3,1.25x mastermix
+mxPCR7817460,AnophelesP2_1.25x_E08,28131,1,297,E8,VBS00122,Anopheles_balabacensis,non-WGA,0.04,female,"VBS00122, non-WGA, E4, 0.04ng/ul (1:10)",VBS00122-rep3,1.25x mastermix
+mxPCR7817461,AnophelesP2_1.25x_F08,28131,1,298,F8,VBS00125,Anopheles_jamesii,WGA,3.07,female,"VBS00125, WGA, F4, 3.07ng/ul (1:10)",VBS00125-rep3,1.25x mastermix
+mxPCR7817462,AnophelesP2_1.25x_G08,28131,1,299,G8,VBS00127,Anopheles_jamesii,non-WGA,0.07,female,"VBS00127, non-WGA, G4, 0.07ng/ul (1:10)",VBS00127-rep3,1.25x mastermix
+mxPCR7817463,AnophelesP2_1.25x_H08,28131,1,300,H8,VBS00128,Anopheles_jamesii,non-WGA,0.09,female,"VBS00128, non-WGA, H4, 0.09ng/ul (1:10)",VBS00128-rep3,1.25x mastermix
+mxPCR7817464,AnophelesP2_1.25x_A09,28131,1,301,A9,VBS00144,Anopheles_sundaicus,non-WGA,0.15,female,"VBS00144, non-WGA, A5, 0.15ng/ul (1:10)",VBS00144-rep3,1.25x mastermix
+mxPCR7817465,AnophelesP2_1.25x_B09,28131,1,302,B9,VBS00145,Anopheles_sundaicus,non-WGA,0.07,female,"VBS00145, non-WGA, B5, 0.07ng/ul (1:10)",VBS00145-rep3,1.25x mastermix
+mxPCR7817466,AnophelesP2_1.25x_C09,28131,1,303,C9,VBS00146,Anopheles_sundaicus,non-WGA,0.1,female,"VBS00146, non-WGA, C5, 0.10ng/ul (1:10)",VBS00146-rep3,1.25x mastermix
+mxPCR7817467,AnophelesP2_1.25x_D09,28131,1,304,D9,VBS00147,Anopheles_sundaicus,non-WGA,0.09,female,"VBS00147, non-WGA, D5, 0.09ng/ul (1:10)",VBS00147-rep3,1.25x mastermix
+mxPCR7817468,AnophelesP2_1.25x_E09,28131,1,305,E9,VBS00148,Anopheles_sundaicus,non-WGA,0.1,female,"VBS00148, non-WGA, E5, 0.10ng/ul (1:10)",VBS00148-rep3,1.25x mastermix
+mxPCR7817469,AnophelesP2_1.25x_F09,28131,1,306,F9,VBS00149,Anopheles_tessellatus,WGA,3.93,female,"VBS00149, WGA, F5, 3.93ng/ul (1:10)",VBS00149-rep3,1.25x mastermix
+mxPCR7817470,AnophelesP2_1.25x_G09,28131,1,307,G9,VBS00150,Anopheles_tessellatus,WGA,7.14,female,"VBS00150, WGA, G5, 7.14ng/ul (1:10)",VBS00150-rep3,1.25x mastermix
+mxPCR7817471,AnophelesP2_1.25x_H09,28131,1,308,H9,VBS00154,Anopheles_vagus,non-WGA,0.06,female,"VBS00154, non-WGA, H5, 0.06ng/ul (1:10)",VBS00154-rep3,1.25x mastermix
+mxPCR7817472,AnophelesP2_1.25x_A10,28131,1,309,A10,VBS00156,Anopheles_vagus,non-WGA,0.09,female,"VBS00156, non-WGA, A6, 0.09ng/ul (1:10)",VBS00156-rep3,1.25x mastermix
+mxPCR7817473,AnophelesP2_1.25x_B10,28131,1,310,B10,VBS00157,Anopheles_vagus,non-WGA,0.01,female,"VBS00157, non-WGA, B6, 0.01ng/ul (1:10)",VBS00157-rep3,1.25x mastermix
+mxPCR7817474,AnophelesP2_1.25x_C10,28131,1,311,C10,VBS00158,Anopheles_vagus,non-WGA,-0.01,female,"VBS00158, non-WGA, C6, -0.01ng/ul (1:10)",VBS00158-rep3,1.25x mastermix
+mxPCR7817475,AnophelesP2_1.25x_D10,28131,1,312,D10,Aimp-M0001,Anopheles_implexus,QIAGEN,1.41,female,imp.M0001 (1:10),Aimp-M0001-rep3,1.25x mastermix
+mxPCR7817476,AnophelesP2_1.25x_E10,28131,1,313,E10,Aimp-M0030,Anopheles_implexus,QIAGEN,1.38,female,imp.M0030 (1:10),Aimp-M0030-rep3,1.25x mastermix
+mxPCR7817477,AnophelesP2_1.25x_F10,28131,1,314,F10,Acon-142,Anopheles_concolor,CTAB,0,female,con.142 (1:10),Acon-142-rep3,1.25x mastermix
+mxPCR7817478,AnophelesP2_1.25x_G10,28131,1,315,G10,Agab-M192,Anopheles_gabonensis,QIAGEN,0.42,female,gab.M192 (1:10),Agab-M192-rep3,1.25x mastermix
+mxPCR7817479,AnophelesP2_1.25x_H10,28131,1,316,H10,Avin-B0004,Anopheles_vinckei,QIAGEN,0.4,female,vin.B0004 (1:10),Avin-B0004-rep3,1.25x mastermix
+mxPCR7817480,AnophelesP2_1.25x_A11,28131,1,317,A11,Avin-B0009,Anopheles_vinckei,QIAGEN,0.4,female,vin.B0009 (1:10),Avin-B0009-rep3,1.25x mastermix
+mxPCR7817481,AnophelesP2_1.25x_B11,28131,1,318,B11,Avin-M0004,Anopheles_vinckei,QIAGEN,0.27,female,vin.M0004 (1:10),Avin-M0004-rep3,1.25x mastermix
+mxPCR7817482,AnophelesP2_1.25x_C11,28131,1,319,C11,Avin-M0009,Anopheles_vinckei,QIAGEN,0.24,female,vin.M0009 (1:10),Avin-M0009-rep3,1.25x mastermix
+mxPCR7817483,AnophelesP2_1.25x_D11,28131,1,320,D11,Avin-M0012,Anopheles_vinckei,QIAGEN,0.34,female,vin.M0012 (1:10),Avin-M0012-rep3,1.25x mastermix
+mxPCR7817484,AnophelesP2_1.25x_E11,28131,1,321,E11,Agam-30,Anopheles_gambiae,CTAB,0.57,female,gam.30 (1:10),Agam-30-rep3,1.25x mastermix
+mxPCR7817485,AnophelesP2_1.25x_F11,28131,1,322,F11,Agam-32,Anopheles_gambiae,CTAB,0.6,female,gam.32 (1:10),Agam-32-rep3,1.25x mastermix
+mxPCR7817486,AnophelesP2_1.25x_G11,28131,1,323,G11,Agam-35,Anopheles_gambiae,CTAB,0.71,female,gam.35 (1:10),Agam-35-rep3,1.25x mastermix
+mxPCR7817487,AnophelesP2_1.25x_H11,28131,1,324,H11,Agam-37,Anopheles_gambiae,CTAB,0.75,female,gam.37 (1:10),Agam-37-rep3,1.25x mastermix
+mxPCR7817488,AnophelesP2_1.25x_A12,28131,1,325,A12,Agam-38,Anopheles_gambiae,CTAB,0.37,female,gam.38 (1:10),Agam-38-rep3,1.25x mastermix
+mxPCR7817489,AnophelesP2_1.25x_B12,28131,1,326,B12,Anils-7,Anopheles_nili_ss,QIAGEN,0.75,female,nils.7 (1:10),Anils-7-rep3,1.25x mastermix
+mxPCR7817490,AnophelesP2_1.25x_C12,28131,1,327,C12,Acar-191,Anopheles_carnevalei,QIAGEN,0.27,female,car.191 (1:10),Acar-191-rep3,1.25x mastermix
+mxPCR7817491,AnophelesP2_1.25x_D12,28131,1,328,D12,Acar-192,Anopheles_carnevalei,QIAGEN,0.35,female,car.192 (1:10),Acar-192-rep3,1.25x mastermix
+mxPCR7817492,AnophelesP2_1.25x_E12,28131,1,329,E12,Acar-193,Anopheles_carnevalei,QIAGEN,0.34,female,car.193 (1:10),Acar-193-rep3,1.25x mastermix
+mxPCR7817493,AnophelesP2_1.25x_F12,28131,1,330,F12,Acar-194,Anopheles_carnevalei,QIAGEN,0.45,female,car.194 (1:10),Acar-194-rep3,1.25x mastermix
+mxPCR7817494,AnophelesP2_1.25x_G12,28131,1,331,G12,Acar-195,Anopheles_carnevalei,QIAGEN,0.35,female,car.195 (1:10),Acar-195-rep3,1.25x mastermix
+mxPCR7817495,AnophelesP2_1.25x_H12,28131,1,332,H12,Water5,blank_sample,,0,,water,Water5-rep3,1.25x mastermix
+mxPCR7817539,AnophelesP2_1x_H04_aptamer,28131,1,28,H4,Water4,blank_sample,,0,,water,Water4-rep4,1x mastermix with aptamer

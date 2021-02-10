@@ -1,0 +1,187 @@
+
+import pandas as pd
+import os 
+
+configfile: 'pipeline_dada2/conf/config.yml'
+
+# read fofn
+fofn = pd.read_csv(config['fofn'], dtype=str)
+# validate
+for col in ('Run','Lane','Tag', 'Replicate', 'Source_sample'):
+    assert not fofn[col].isna().any(), \
+    'Missing {} values found'.format(col)
+for col in ('Run','Lane','Tag'):
+    assert fofn[col].str.isnumeric().all(), \
+        'Non-numeric {} values found\n{}'.format(col,
+            fofn.loc[~fofn[col].isnumeric(), col])
+assert fofn['Replicate'].is_unique, \
+    'Duplicate replicates found:\n{}'.format(fofn.loc[fofn[['Replicate']].duplicated(), 'Replicate'])
+# set index
+fofn = fofn.set_index('Replicate')
+
+tgts = pd.read_csv(config['targets'], sep='\t', dtype=str)
+
+all_replicates = fofn.index.tolist()
+all_targets = tgts['target'].tolist()
+
+wildcard_constraints:
+    target = '|'.join(all_targets),
+    replicate = '|'.join(all_replicates)
+
+def get_irods_path(replicate):
+    ssdata = fofn.loc[replicate]
+    return '/seq/{run}/{run}_{lane}#{tag}.cram'.format(
+                run=ssdata['Run'][0],
+                lane=ssdata['Lane'][0],
+                tag=ssdata['Tag'][0])
+
+# rules executed on login node
+localrules: all,
+            irods_download,
+            archive_intermediate
+
+rule all:
+    input:
+        "dada2/output/stats.tsv"
+
+rule irods_download:
+    '''
+    Download CRAM from IRODS.
+
+    Need to run `kinit` before downloading.
+    No verification of file existence.
+    '''
+    output:
+        temp("import/{replicate}.cram")
+    params:
+        irods_path=get_irods_path
+    priority: 10
+    threads: 1
+    shell:
+        "iget {params.irods_path} {output}"
+
+rule cram_to_fastq:
+    '''
+    Retrieve fastq from cram
+    '''
+    input:
+        "import/{replicate}.cram"
+    output:
+        fq1="import/{replicate}_R1.fastq.gz",
+        fq2="import/{replicate}_R2.fastq.gz"
+    conda:
+        "envs/cram_to_fastq.yml"
+    shell:
+        "samtools collate -O -f {input} | samtools fastq -1 {output.fq1} -2 {output.fq2} -"
+
+rule demult_targets:
+    '''
+    Split targets for each replicates using cutadapt
+
+    Demultiplexing speed is about
+    200 µs/read;   0.30 M reads/minute
+    proposed solution - use indexing by avoiding IUPAC ambiguities in primers
+    disambiguated primer fasta are saved as conf/barcodes_nonamb_{F|R}.fasta
+    the speed looks the same, and redirecting different primers to same files 
+    was not tested to work properly.
+
+    Keep track only of completely unmatched output files
+    as cutadapt does not create empty files for unencountered primer combinations.
+    Touch ensures these files are created even if no completely unmatched reads exist.
+
+    Multithreading not supported for demultiplexing.
+
+    Too many open files error - fix depends on OS.
+    '''
+    input:
+        fq1="import/{replicate}_R1.fastq.gz",
+        fq2="import/{replicate}_R2.fastq.gz",
+        bf=ancient(config['barcodes_F']),
+        br=ancient(config['barcodes_R'])
+    output:
+        "demult/{replicate}/{replicate}_unknown_unknown_R1.fastq.gz",
+        "demult/{replicate}/{replicate}_unknown_unknown_R2.fastq.gz"
+    params:
+        out_prefix="demult/{replicate}/{replicate}"
+    conda:
+        "envs/demult_targets.yml"
+    shell:
+        "cutadapt "
+            "--no-indels "
+            "--match-read-wildcards "
+            "-g file:{input.bf} -G file:{input.br} "
+            "-o {params.out_prefix}_{{name1}}_{{name2}}_R1.fastq.gz "
+            "-p {params.out_prefix}_{{name1}}_{{name2}}_R2.fastq.gz "
+            "{input.fq1} {input.fq2} && "
+        "touch {output}"
+        
+rule dada2_haplotypes:
+    '''
+    Read de-noising, merging, haplotype calling using dada2.
+    Performed for each target independently.
+
+    Use mock input files - these only indicate the de-multiplexing is complete.
+    True input files are located by the script. 
+    Per-replicate outputs are in params section for the same reason.
+    '''
+    input:
+        expand("demult/{replicate}/{replicate}_unknown_unknown_R1.fastq.gz", replicate=all_replicates)
+    output:
+        # plt_q=expand("dada2/profile_qual/{replicate}_{{target}}.png", replicate=all_replicates),
+        plt_e1="dada2/profile_err/{target}_err_F.png",
+        plt_e2="dada2/profile_err/{target}_err_R.png",
+        stats="dada2/stats/stat_{target}.tsv",
+        haplotypes="dada2/haplotypes/hap_{target}.tsv"
+    params:
+        target="{target}",
+        reps=all_replicates,
+        fq1=expand("demult/{replicate}/{replicate}_{{target}}_{{target}}_R1.fastq.gz", replicate=all_replicates),
+        fq2=expand("demult/{replicate}/{replicate}_{{target}}_{{target}}_R2.fastq.gz", replicate=all_replicates),
+        flt_fq1=expand("dada2/filter/{replicate}_{{target}}_R1.fastq.gz", replicate=all_replicates),
+        flt_fq2=expand("dada2/filter/{replicate}_{{target}}_R2.fastq.gz", replicate=all_replicates)
+    conda:
+        "envs/dada2_haplotypes.yml"
+    script:
+        "scripts/dada2_haplotypes.R"
+
+rule summarise_haplotypes:
+    '''
+    Combine haplotype data across replicates.
+    Filter sample haplotypes.
+    Generate SeekDeep-like combined files.
+    Plot QC statistics.
+    '''
+    input:
+        samples=ancient(config["fofn"]),
+        targets=ancient(config["targets"]),
+        stats=expand("dada2/stats/stat_{target}.tsv", target=all_targets),
+        haplotypes=expand("dada2/haplotypes/hap_{target}.tsv", target=all_targets)
+    output:
+        stats="dada2/output/stats.tsv",
+        haplotypes="dada2/output/haplotypes.tsv"
+    params:
+        qc_dir="dada2/qc/",
+        min_frac=config["min_frac"],
+        min_reads=config["min_reads"],
+        init_freads_pattern=lambda wildcards: "demult/{replicate}/{replicate}_{target}_{target}_R1.fastq.gz"
+    conda:
+        "envs/summarise_haplotypes.yml"
+    script:
+        "scripts/summarise_haplotypes.py"
+
+rule archive_intermediate:
+    '''
+    Compress intermediate files with reads. 
+
+    Do not enable while pipeline in development.
+    '''
+    input:
+        "dada2/output/stats.tsv"
+    output:
+        touch("archive_intermediate_done.txt"),
+        o="intermediates.tar"
+    params:
+        d="demult",
+        f="dada2/filter"
+    shell:
+        "tar --remove-files -cf {output.o} {params}"

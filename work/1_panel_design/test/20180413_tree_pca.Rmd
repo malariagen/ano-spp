@@ -1,0 +1,93 @@
+---
+title: "20180413_amplicon_tree_pca"
+output: html_notebook
+---
+
+Compare tree topologies obtained from amplicon targets and whole-genome tree from Neafsey et al.
+
+```{r}
+library(treespace)
+```
+
+Load trees for amplicons
+```{r}
+x <- read.tree('/Users/am60/malaria/20180129_phylo_ampliseq/20180309_amplicon_trees.txt')
+sort(x[[1]]$tip.label)
+```
+Tree parethetic view example
+```{r}
+write.tree(x[[1]])
+```
+Input Neafsey tree and plot it
+```{r}
+neaf <- '(((((((AgamP3,AgamS1,AgamM1,AaraD1,AquaS1,AmelC1,AmerM1),AchrA1),AepiE1),(((AsteS1,AsteI2),AmacM1),((AculA1,AminM1),AfunF1))),(AdirW1,AfarF1)),(AatrE1,AsinS1)),(AalbS1,AdarC2));'
+y <- read.tree(file='', text=neaf, tree.names=c('WG'))
+plot(y)
+```
+Make tree topology PCA
+```{r}
+x[[75]] <- y
+tree_type <- c(rep('amplicon', 74), 'whole genome')
+Ascape <- treespace(x, nf=2)
+plotGrovesD3(Ascape$pco, groups=tree_type, treeNames=c(c(0:73),'WG'))
+```
+Let's discard branch length info
+```{r}
+x_nolen <- lapply(x, function(l) {l$edge.length <- NULL; l$node.label <- NULL; l})
+class(x_nolen) <- "multiPhylo"
+Ascape <- treespace(x_nolen, nf=2)
+plotGrovesD3(Ascape$pco, groups=tree_type, treeNames=c(c(0:73),'WG'))
+```
+Looks like most of the trees are still systemaltically biased compared to the whole genome. Let's find the difference.
+```{r}
+plotTreeDiff(x_nolen[[11]],y)
+```
+Rerooting helps to see it clearer
+```{r}
+plotTreeDiff(root(x_nolen[[11]],c('AalbS1','AdarC2'),r=TRUE),y)
+```
+But it does not affect the PCA
+```{r}
+x_reroot <- lapply(x_nolen, function(l) {root(l,c('AalbS1')); l})
+class(x_reroot) <- "multiPhylo"
+Ascape <- treespace(x_reroot, nf=2)
+plotGrovesD3(Ascape$pco, groups=tree_type, treeNames=c(c(0:73),'WG'))
+```
+Let's construct a median tree from the main cluster of the trees and compare it to the whole-genome tree
+```{r}
+main_x <- x_nolen[c(1:32,34:49,51:63,65:74)] # get rid of outliers, remembering that tree ID is 0-based, and R index is 1-based
+x_med <- medTree(main_x)
+plotTreeDiff(root(x_med$trees[[1]],c('AalbS1','AdarC2'),r=TRUE), y, treesFacing=TRUE, tipMatch=TRUE)
+```
+Assert the position of median tree makes sense
+```{r}
+main_x[[72]] <- medTree(main_x)$trees[[1]]
+
+Ascape <- treespace(main_x, nf=2)
+plotGrovesD3(Ascape$pco, groups=c(rep('amplicons',71),'median'))
+```
+Interestingly, if we construct median tree of inital dataset with edge length, the topology of the resulting median tree will differ from both previous and the whole-genome one. The only common feature of amplicon trees differing from whole-genome tree is grouping of Anopheles and Nyssorhynchus in a monophyletic clade.
+```{r}
+main_x <- x[c(1:32,34:49,51:63,65:74)] # get rid of outliers, remembering that tree ID is 0-based, and R index is 1-based
+x_med <- medTree(main_x)$trees[[1]]
+x_med$edge.length <- NULL
+x_med <- root(x_med,c('AalbS1','AdarC2'),r=TRUE)
+plotTreeDiff(ladderize(x_med), ladderize(y), treesFacing=TRUE, tipMatch=FALSE)
+```
+Still, the position of the median tree remains representative
+
+```{r}
+main_x[[72]] <- medTree(main_x)$trees[[1]]
+Ascape <- treespace(main_x, nf=2)
+plotGrovesD3(Ascape$pco, groups=c(rep('amplicons',71),'median'))
+```
+Plot distribution of tree distances (i.e., number of branch repositions) between the amplicons and the whole-genome tree
+```{r}
+Ascape <- treespace(x_nolen, nf=2)
+par(mfrow=c(1,3))
+hist(as.matrix(Ascape$D)[75,], main="Whole genome", xlab='dist')
+hist(as.matrix(Ascape$D)[64,], main="Outlier amplicon", xlab='')
+hist(as.matrix(Ascape$D)[11,], main="Clustered amplicon", xlab='dist')
+mtext("Tree distance distribution", side=3, line=-33, outer=TRUE)
+```
+

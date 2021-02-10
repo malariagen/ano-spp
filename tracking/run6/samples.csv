@@ -1,0 +1,241 @@
+﻿Sanger_Sample_ID,Replicate,Source_sample,Run,Lane,Tag,Note,Species
+mxPCR8088785,P6_A1_pool1,1_1_PMe6,30406,1,1,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088786,P6_B1_pool1,1_1_PMe5,30406,1,2,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088787,P6_C1_pool1,1_1_PMe4,30406,1,3,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088788,P6_D1_pool1,1_1_PMe3,30406,1,4,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088789,P6_E1_pool1,1_1_PMe2,30406,1,5,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088790,P6_F1_pool1,1_1_C1,30406,1,6,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088791,P6_G1_pool1,1_1_C2,30406,1,7,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088792,P6_H1_pool1,1_1_C3,30406,1,8,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088793,P6_A1_pool2,1_3_PMe6,30406,1,9,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088794,P6_B1_pool2,1_3_PMe5,30406,1,10,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088795,P6_C1_pool2,1_3_PMe4,30406,1,11,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088796,P6_D1_pool2,1_3_PMe3,30406,1,12,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088797,P6_E1_pool2,1_3_PMe2,30406,1,13,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088798,P6_F1_pool2,1_3_C1,30406,1,14,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088799,P6_G1_pool2,1_3_C2,30406,1,15,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088800,P6_H1_pool2,1_3_C3,30406,1,16,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088801,P6_A1_pool3,1_9_PMe6,30406,1,17,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088802,P6_B1_pool3,1_9_PMe5,30406,1,18,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088803,P6_C1_pool3,1_9_PMe4,30406,1,19,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088804,P6_D1_pool3,1_9_PMe3,30406,1,20,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088805,P6_E1_pool3,1_9_PMe2,30406,1,21,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088806,P6_F1_pool3,1_9_C1,30406,1,22,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088807,P6_G1_pool3,1_9_C2,30406,1,23,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088808,P6_H1_pool3,1_9_C3,30406,1,24,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088809,P6_A1_pool4,3_1_PMe6,30406,1,25,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088810,P6_B1_pool4,3_1_PMe5,30406,1,26,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088811,P6_C1_pool4,3_1_PMe4,30406,1,27,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088812,P6_D1_pool4,3_1_PMe3,30406,1,28,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088813,P6_E1_pool4,3_1_PMe2,30406,1,29,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088814,P6_F1_pool4,3_1_C1,30406,1,30,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088815,P6_G1_pool4,3_1_C2,30406,1,31,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088816,P6_H1_pool4,3_1_C3,30406,1,32,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088817,P6_A1_pool5,3_3_PMe6,30406,1,33,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088818,P6_B1_pool5,3_3_PMe5,30406,1,34,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088819,P6_C1_pool5,3_3_PMe4,30406,1,35,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088820,P6_D1_pool5,3_3_PMe3,30406,1,36,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088821,P6_E1_pool5,3_3_PMe2,30406,1,37,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088822,P6_F1_pool5,3_3_C1,30406,1,38,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088823,P6_G1_pool5,3_3_C2,30406,1,39,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088824,P6_H1_pool5,3_3_C3,30406,1,40,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088825,P6_A1_pool6,3_9_PMe6,30406,1,41,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088826,P6_B1_pool6,3_9_PMe5,30406,1,42,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088827,P6_C1_pool6,3_9_PMe4,30406,1,43,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088828,P6_D1_pool6,3_9_PMe3,30406,1,44,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088829,P6_E1_pool6,3_9_PMe2,30406,1,45,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088830,P6_F1_pool6,3_9_C1,30406,1,46,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088831,P6_G1_pool6,3_9_C2,30406,1,47,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088832,P6_H1_pool6,3_9_C3,30406,1,48,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088833,P6_A1_pool7,9_1_PMe6,30406,1,49,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088834,P6_B1_pool7,9_1_PMe5,30406,1,50,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088835,P6_C1_pool7,9_1_PMe4,30406,1,51,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088836,P6_D1_pool7,9_1_PMe3,30406,1,52,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088837,P6_E1_pool7,9_1_PMe2,30406,1,53,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088838,P6_F1_pool7,9_1_C1,30406,1,54,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088839,P6_G1_pool7,9_1_C2,30406,1,55,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088840,P6_H1_pool7,9_1_C3,30406,1,56,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088841,P6_A1_pool8,9_3_PMe6,30406,1,57,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088842,P6_B1_pool8,9_3_PMe5,30406,1,58,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088843,P6_C1_pool8,9_3_PMe4,30406,1,59,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088844,P6_D1_pool8,9_3_PMe3,30406,1,60,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088845,P6_E1_pool8,9_3_PMe2,30406,1,61,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088846,P6_F1_pool8,9_3_C1,30406,1,62,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088847,P6_G1_pool8,9_3_C2,30406,1,63,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088848,P6_H1_pool8,9_3_C3,30406,1,64,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088849,P6_A1_pool9,9_9_PMe6,30406,1,65,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088850,P6_B1_pool9,9_9_PMe5,30406,1,66,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088851,P6_C1_pool9,9_9_PMe4,30406,1,67,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088852,P6_D1_pool9,9_9_PMe3,30406,1,68,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088853,P6_E1_pool9,9_9_PMe2,30406,1,69,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088854,P6_F1_pool9,9_9_C1,30406,1,70,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088855,P6_G1_pool9,9_9_C2,30406,1,71,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088856,P6_H1_pool9,9_9_C3,30406,1,72,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088857,P6_A1_pool10,0_0_PMe6,30406,1,73,"Plasm : Mosq 1:1,000,000 (1.5fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088858,P6_B1_pool10,0_0_PMe5,30406,1,74,"Plasm : Mosq 1:100,000 (15fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088859,P6_C1_pool10,0_0_PMe4,30406,1,75,"Plasm : Mosq 1:10,000 (150fg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088860,P6_D1_pool10,0_0_PMe3,30406,1,76,"Plasm : Mosq 1:1,000 (1.5pg/ul | 1.5ng/ul)",Anopheles_coluzzii
+mxPCR8088861,P6_E1_pool10,0_0_PMe2,30406,1,77,Plasm : Mosq 1:100 (15pg/ul | 1.5ng/ul),Anopheles_coluzzii
+mxPCR8088862,P6_F1_pool10,0_0_C1,30406,1,78,"L11, buffer A, MinElute 0.58ng/ul",Anopheles_coluzzii
+mxPCR8088863,P6_G1_pool10,0_0_C2,30406,1,79,"E11, buffer A, MinElute 1.23ng/ul",Anopheles_coluzzii
+mxPCR8088864,P6_H1_pool10,0_0_C3,30406,1,80,"E12, buffer A, MinElute 0.95ng/ul",Anopheles_coluzzii
+mxPCR8088865,P6_A2_pool1,1_1_BS1_2,30406,1,86,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088866,P6_B2_pool1,1_1_BS2_3,30406,1,87,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088867,P6_C2_pool1,1_1_BS3_1,30406,1,88,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088868,P6_D2_pool1,1_1_BS4_3,30406,1,89,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088869,P6_E2_pool1,1_1_BS5_5,30406,1,90,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088870,P6_F2_pool1,1_1_BS6_1,30406,1,91,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088871,P6_G2_pool1,1_1_BS7_2,30406,1,92,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088872,P6_H2_pool1,1_1_BS8_1,30406,1,93,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088873,P6_A2_pool2,1_3_BS1_2,30406,1,94,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088874,P6_B2_pool2,1_3_BS2_3,30406,1,95,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088875,P6_C2_pool2,1_3_BS3_1,30406,1,96,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088876,P6_D2_pool2,1_3_BS4_3,30406,1,97,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088877,P6_E2_pool2,1_3_BS5_5,30406,1,98,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088878,P6_F2_pool2,1_3_BS6_1,30406,1,99,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088879,P6_G2_pool2,1_3_BS7_2,30406,1,100,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088880,P6_H2_pool2,1_3_BS8_1,30406,1,101,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088881,P6_A2_pool3,1_9_BS1_2,30406,1,102,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088882,P6_B2_pool3,1_9_BS2_3,30406,1,103,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088883,P6_C2_pool3,1_9_BS3_1,30406,1,104,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088884,P6_D2_pool3,1_9_BS4_3,30406,1,105,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088885,P6_E2_pool3,1_9_BS5_5,30406,1,106,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088886,P6_F2_pool3,1_9_BS6_1,30406,1,107,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088887,P6_G2_pool3,1_9_BS7_2,30406,1,108,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088888,P6_H2_pool3,1_9_BS8_1,30406,1,109,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088889,P6_A2_pool4,3_1_BS1_2,30406,1,110,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088890,P6_B2_pool4,3_1_BS2_3,30406,1,111,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088891,P6_C2_pool4,3_1_BS3_1,30406,1,112,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088892,P6_D2_pool4,3_1_BS4_3,30406,1,113,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088893,P6_E2_pool4,3_1_BS5_5,30406,1,114,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088894,P6_F2_pool4,3_1_BS6_1,30406,1,115,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088895,P6_G2_pool4,3_1_BS7_2,30406,1,116,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088896,P6_H2_pool4,3_1_BS8_1,30406,1,117,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088897,P6_A2_pool5,3_3_BS1_2,30406,1,118,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088898,P6_B2_pool5,3_3_BS2_3,30406,1,119,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088899,P6_C2_pool5,3_3_BS3_1,30406,1,120,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088900,P6_D2_pool5,3_3_BS4_3,30406,1,121,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088901,P6_E2_pool5,3_3_BS5_5,30406,1,122,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088902,P6_F2_pool5,3_3_BS6_1,30406,1,123,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088903,P6_G2_pool5,3_3_BS7_2,30406,1,124,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088904,P6_H2_pool5,3_3_BS8_1,30406,1,125,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088905,P6_A2_pool6,3_9_BS1_2,30406,1,126,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088906,P6_B2_pool6,3_9_BS2_3,30406,1,127,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088907,P6_C2_pool6,3_9_BS3_1,30406,1,128,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088908,P6_D2_pool6,3_9_BS4_3,30406,1,129,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088909,P6_E2_pool6,3_9_BS5_5,30406,1,130,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088910,P6_F2_pool6,3_9_BS6_1,30406,1,131,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088911,P6_G2_pool6,3_9_BS7_2,30406,1,132,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088912,P6_H2_pool6,3_9_BS8_1,30406,1,133,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088913,P6_A2_pool7,9_1_BS1_2,30406,1,134,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088914,P6_B2_pool7,9_1_BS2_3,30406,1,135,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088915,P6_C2_pool7,9_1_BS3_1,30406,1,136,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088916,P6_D2_pool7,9_1_BS4_3,30406,1,137,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088917,P6_E2_pool7,9_1_BS5_5,30406,1,138,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088918,P6_F2_pool7,9_1_BS6_1,30406,1,139,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088919,P6_G2_pool7,9_1_BS7_2,30406,1,140,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088920,P6_H2_pool7,9_1_BS8_1,30406,1,141,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088921,P6_A2_pool8,9_3_BS1_2,30406,1,142,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088922,P6_B2_pool8,9_3_BS2_3,30406,1,143,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088923,P6_C2_pool8,9_3_BS3_1,30406,1,144,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088924,P6_D2_pool8,9_3_BS4_3,30406,1,145,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088925,P6_E2_pool8,9_3_BS5_5,30406,1,146,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088926,P6_F2_pool8,9_3_BS6_1,30406,1,147,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088927,P6_G2_pool8,9_3_BS7_2,30406,1,148,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088928,P6_H2_pool8,9_3_BS8_1,30406,1,149,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088929,P6_A2_pool9,9_9_BS1_2,30406,1,150,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088930,P6_B2_pool9,9_9_BS2_3,30406,1,151,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088931,P6_C2_pool9,9_9_BS3_1,30406,1,152,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088932,P6_D2_pool9,9_9_BS4_3,30406,1,153,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088933,P6_E2_pool9,9_9_BS5_5,30406,1,154,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088934,P6_F2_pool9,9_9_BS6_1,30406,1,155,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088935,P6_G2_pool9,9_9_BS7_2,30406,1,156,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088936,P6_H2_pool9,9_9_BS8_1,30406,1,157,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088937,P6_A2_pool10,0_0_BS1_2,30406,1,158,G3_887 2 oocysts (gut A2 + carcass A6) ~1.29ng/ul,Anopheles_gambiae
+mxPCR8088938,P6_B2_pool10,0_0_BS2_3,30406,1,159,G3_887 3 oocysts (gut B2 + carcass B6) ~0.38ng/ul,Anopheles_gambiae
+mxPCR8088939,P6_C2_pool10,0_0_BS3_1,30406,1,160,G3_887 1 oocyst (gut C2 + carcass C6) ~0.31ng/ul,Anopheles_gambiae
+mxPCR8088940,P6_D2_pool10,0_0_BS4_3,30406,1,161,G3_887 3 oocysts (gut D2 + carcass D6) ~0.44ng/ul,Anopheles_gambiae
+mxPCR8088941,P6_E2_pool10,0_0_BS5_5,30406,1,162,G3_887 5 oocysts (gut E2 + carcass E6) ~0.23ng/ul,Anopheles_gambiae
+mxPCR8088942,P6_F2_pool10,0_0_BS6_1,30406,1,163,G3_887 1 oocyst (gut F2 + carcass F6) ~0.08ng/ul,Anopheles_gambiae
+mxPCR8088943,P6_G2_pool10,0_0_BS7_2,30406,1,164,G3_887 2 oocysts (gut G2 + carcass G6) ~0.11ng/ul,Anopheles_gambiae
+mxPCR8088944,P6_H2_pool10,0_0_BS8_1,30406,1,165,G3_887 1 oocyst (gut H2 + carcass H6) ~0.56ng/ul,Anopheles_gambiae
+mxPCR8088945,P6_A3_pool1,1_1_NI1_fun,30406,1,171,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8088946,P6_B3_pool1,1_1_NI2_fun,30406,1,172,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8088947,P6_C3_pool1,1_1_NI3_fun,30406,1,173,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8088948,P6_D3_pool1,1_1_NI4_fun,30406,1,174,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8088949,P6_E3_pool1,1_1_NI5_fun,30406,1,175,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8088950,P6_F3_pool1,1_1_NI6_fun,30406,1,176,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8088951,P6_G3_pool1,1_1_NI7_ste,30406,1,177,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8088952,P6_H3_pool1,1_1_NI8_ste,30406,1,178,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8088953,P6_A3_pool2,1_3_NI1_fun,30406,1,179,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8088954,P6_B3_pool2,1_3_NI2_fun,30406,1,180,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8088955,P6_C3_pool2,1_3_NI3_fun,30406,1,181,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8088956,P6_D3_pool2,1_3_NI4_fun,30406,1,182,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8088957,P6_E3_pool2,1_3_NI5_fun,30406,1,183,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8088958,P6_F3_pool2,1_3_NI6_fun,30406,1,184,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8088959,P6_G3_pool2,1_3_NI7_ste,30406,1,185,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8088960,P6_H3_pool2,1_3_NI8_ste,30406,1,186,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8088961,P6_A3_pool3,1_9_NI1_fun,30406,1,187,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8088962,P6_B3_pool3,1_9_NI2_fun,30406,1,188,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8088963,P6_C3_pool3,1_9_NI3_fun,30406,1,189,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8088964,P6_D3_pool3,1_9_NI4_fun,30406,1,190,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8088965,P6_E3_pool3,1_9_NI5_fun,30406,1,191,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8088966,P6_F3_pool3,1_9_NI6_fun,30406,1,192,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8088967,P6_G3_pool3,1_9_NI7_ste,30406,1,193,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8088968,P6_H3_pool3,1_9_NI8_ste,30406,1,194,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8088969,P6_A3_pool4,3_1_NI1_fun,30406,1,195,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8088970,P6_B3_pool4,3_1_NI2_fun,30406,1,196,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8088971,P6_C3_pool4,3_1_NI3_fun,30406,1,197,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8088972,P6_D3_pool4,3_1_NI4_fun,30406,1,198,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8088973,P6_E3_pool4,3_1_NI5_fun,30406,1,199,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8088974,P6_F3_pool4,3_1_NI6_fun,30406,1,200,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8088975,P6_G3_pool4,3_1_NI7_ste,30406,1,201,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8088976,P6_H3_pool4,3_1_NI8_ste,30406,1,202,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8088977,P6_A3_pool5,3_3_NI1_fun,30406,1,203,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8088978,P6_B3_pool5,3_3_NI2_fun,30406,1,204,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8088979,P6_C3_pool5,3_3_NI3_fun,30406,1,205,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8088980,P6_D3_pool5,3_3_NI4_fun,30406,1,206,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8088981,P6_E3_pool5,3_3_NI5_fun,30406,1,207,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8088982,P6_F3_pool5,3_3_NI6_fun,30406,1,208,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8088983,P6_G3_pool5,3_3_NI7_ste,30406,1,209,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8088984,P6_H3_pool5,3_3_NI8_ste,30406,1,210,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8088985,P6_A3_pool6,3_9_NI1_fun,30406,1,211,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8088986,P6_B3_pool6,3_9_NI2_fun,30406,1,212,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8088987,P6_C3_pool6,3_9_NI3_fun,30406,1,213,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8088988,P6_D3_pool6,3_9_NI4_fun,30406,1,214,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8088989,P6_E3_pool6,3_9_NI5_fun,30406,1,215,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8088990,P6_F3_pool6,3_9_NI6_fun,30406,1,216,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8088991,P6_G3_pool6,3_9_NI7_ste,30406,1,217,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8088992,P6_H3_pool6,3_9_NI8_ste,30406,1,218,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8088993,P6_A3_pool7,9_1_NI1_fun,30406,1,219,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8088994,P6_B3_pool7,9_1_NI2_fun,30406,1,220,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8088995,P6_C3_pool7,9_1_NI3_fun,30406,1,221,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8088996,P6_D3_pool7,9_1_NI4_fun,30406,1,222,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8088997,P6_E3_pool7,9_1_NI5_fun,30406,1,223,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8088998,P6_F3_pool7,9_1_NI6_fun,30406,1,224,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8088999,P6_G3_pool7,9_1_NI7_ste,30406,1,225,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8089000,P6_H3_pool7,9_1_NI8_ste,30406,1,226,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8089001,P6_A3_pool8,9_3_NI1_fun,30406,1,227,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8089002,P6_B3_pool8,9_3_NI2_fun,30406,1,228,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8089003,P6_C3_pool8,9_3_NI3_fun,30406,1,229,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8089004,P6_D3_pool8,9_3_NI4_fun,30406,1,230,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8089005,P6_E3_pool8,9_3_NI5_fun,30406,1,231,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8089006,P6_F3_pool8,9_3_NI6_fun,30406,1,232,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8089007,P6_G3_pool8,9_3_NI7_ste,30406,1,233,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8089008,P6_H3_pool8,9_3_NI8_ste,30406,1,234,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8089009,P6_A3_pool9,9_9_NI1_fun,30406,1,235,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8089010,P6_B3_pool9,9_9_NI2_fun,30406,1,236,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8089011,P6_C3_pool9,9_9_NI3_fun,30406,1,237,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8089012,P6_D3_pool9,9_9_NI4_fun,30406,1,238,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8089013,P6_E3_pool9,9_9_NI5_fun,30406,1,239,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8089014,P6_F3_pool9,9_9_NI6_fun,30406,1,240,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8089015,P6_G3_pool9,9_9_NI7_ste,30406,1,241,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8089016,P6_H3_pool9,9_9_NI8_ste,30406,1,242,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi
+mxPCR8089017,P6_A3_pool10,0_0_NI1_fun,30406,1,243,"VBS24014-A-pur (Pf positive); TZ22 - A - MinElute, (1:5 dilution) ~1.94ng/ul",Anopheles_funestus
+mxPCR8089018,P6_B3_pool10,0_0_NI2_fun,30406,1,244,"VBS24027-A-dil (Pf positive); 47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul",Anopheles_funestus
+mxPCR8089019,P6_C3_pool10,0_0_NI3_fun,30406,1,245,"VBS24035-C-dil (Pf positive); 55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul",Anopheles_funestus
+mxPCR8089020,P6_D3_pool10,0_0_NI4_fun,30406,1,246,"VBS24114-G-dil (Pf positive) 44 (H6) - KP20, 37C, G (1:10) ~0.32ng/ul",Anopheles_funestus
+mxPCR8089021,P6_E3_pool10,0_0_NI5_fun,30406,1,247,"VBS24113-C-dil (negative); 43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul",Anopheles_funestus
+mxPCR8089022,P6_F3_pool10,0_0_NI6_fun,30406,1,248,"VBS24032-A-dil (negative); 52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul",Anopheles_funestus
+mxPCR8089023,P6_G3_pool10,0_0_NI7_ste,30406,1,249,"steph1 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul",Anopheles_stephensi
+mxPCR8089024,P6_H3_pool10,0_0_NI8_ste,30406,1,250,"steph2 (Pb positive); Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul",Anopheles_stephensi

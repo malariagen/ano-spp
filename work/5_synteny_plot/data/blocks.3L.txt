@@ -1,0 +1,16 @@
+gainsboro*Agam_29	Aalb_29	Afun_29
+gainsboro*Agam_30	Aalb_30	Afun_30
+gainsboro*Agam_31	Aalb_31	Afun_31
+gainsboro*Agam_32	Aalb_32	.
+gainsboro*Agam_33	.	.
+gainsboro*Agam_34	Aalb_34	Afun_34
+gainsboro*Agam_35	.	.
+gainsboro*Agam_36	Aalb_36	Afun_36
+gainsboro*Agam_37	.	Afun_37
+gainsboro*Agam_38	.	Afun_38
+gainsboro*.	Aalb_start	.
+gainsboro*.	Aalb_end	.
+gainsboro*.	.	Afun_start
+gainsboro*.	.	Afun_end
+gainsboro*Agam_start	.	.
+gainsboro*Agam_end	.	.

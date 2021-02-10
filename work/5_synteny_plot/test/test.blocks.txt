@@ -1,0 +1,3 @@
+gainsboro*1_1	2_1
+gainsboro*1_2	.
+gainsboro*1_3	2_3

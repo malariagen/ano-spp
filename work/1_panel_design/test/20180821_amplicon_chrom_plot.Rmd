@@ -1,0 +1,48 @@
+---
+title: "Plotting amplicons over the *AgamP3* genome"
+output: html_notebook
+---
+```{r}
+library(karyoploteR)
+```
+
+As AgamP3 genome is not available in karyoploteR cache, we need to create it from scratch.
+
+```{r}
+agam_gr <- GRanges(
+  seqnames = c("2L", "2R", "3L", "3R", "X"),
+  ranges = IRanges(start = rep(1, 5), end = c(49364325, 61545105, 41963435, 53200684, 24393108))
+)
+agam_gr
+```
+```{r}
+kp <- plotKaryotype(genome=agam_gr)
+```
+Now, let's import amplicon data
+```{r}
+ampls <- read.csv(file = '/Users/am60/malaria/20180129_phylo_ampliseq/20180406_amplicon_data.csv')
+ampls
+```
+
+```{r}
+
+ampl_coord <- makeGRangesFromDataFrame(ampls[, c('chr', 'start', 'end')])
+ampl_coord
+```
+Now, plot the markers over the chromosomes
+```{r}
+kp <- plotKaryotype(genome=agam_gr)
+kpAddBaseNumbers(kp)
+kpPlotRegions(kp, ampl_coord, col="#FFAACC")
+```
+
+Overlapping amplicons are stacked, while the neighboring ones are hard to distinguish. Let us add the labels and re-draw the markers as dots
+```{r}
+ampl_coord$labels <- paste(c(0:64, "65-73", rep('',8)))
+kp <- plotKaryotype(genome=agam_gr)
+kpAddMainTitle(kp, main="Distribution of amplicons in AgamP4 chromosomes")
+kpAddBaseNumbers(kp)
+kpPoints(karyoplot=kp, data=ampl_coord, y=0.04)
+kpPlotMarkers(kp, data = ampl_coord, text.orientation = "horizontal", r1=0.8, line.color = "#AAAAAA", marker.parts=c(0.2, 0.6, 0.2))
+```
+

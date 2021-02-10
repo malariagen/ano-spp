@@ -1,0 +1,259 @@
+﻿Sanger_Sample_Id,Source_sample,Run,Lane,Tag,Source_96_well,Species,Extraction,Conc_ng_ul,Final_PCR_mastermix_concentration,Replicate,i7_tag,i5_tag,Note
+mxPCR7769371,Water1,27814,1,11,C2,blank_sample,,0,1.125x,Water1-rep1,GGCTACAG,CTCTCTAT,water
+mxPCR7769372,Culex1,27814,1,12,D2,Culex_sp,purified_extract_1_10_dilution,3.5,1.125x,Culex1-rep1,CTTGTACT,CTCTCTAT,"outgroup Culex 1, purified extract 1:10 dilution 35ng/ul"
+mxPCR7769373,Culex2,27814,1,13,E2,Culex_sp,purified_extract_1_10_dilution,1,1.125x,Culex2-rep1,TGGTTGTT,CTCTCTAT,"outgroup Culex 2, purified extract 1:10 dilution 9.8ng/ul"
+mxPCR7769374,Dmel1,27814,1,14,F2,Drosophila_melanogaster,purified_extract,0.2,1.125x,Dmel1-rep1,TCTCGGTT,CTCTCTAT,"outgroup Dmel 1, purified extract 0.2ng/ul"
+mxPCR7769375,Dmel2,27814,1,15,G2,Drosophila_melanogaster,purified_extract,1.1,1.125x,Dmel2-rep1,TAAGCGTT,CTCTCTAT,"outgroup Dmel 2, purified extract 1.1.ng/ul"
+mxPCR7769376,Extraction-blank,27814,1,16,H2,blank_sample,,0,1.125x,Extraction-blank-rep1,TCCGTCTT,CTCTCTAT,extraction blank
+mxPCR7769377,3D7,27814,1,17,A3,Plasmodium_falciparum,pure,3.5,1.125x,3D7-rep1,TGTACCTT,CTCTCTAT,Pure Plasmodium 3D7
+mxPCR7769378,Water2,27814,1,18,B3,blank_sample,,0,1.125x,Water2-rep1,TTCTGTGT,CTCTCTAT,water
+mxPCR7769379,PM10e5,27814,1,19,C3,Anopheles_coluzzii,Plasm_Mosq_1_100000,3.5,1.125x,PM10e5-rep1,TCTGCTGT,CTCTCTAT,"Plasm : Mosq 1:100,000 (35fg/ul | 3.5ng/ul)"
+mxPCR7769380,PM10e4,27814,1,20,D3,Anopheles_coluzzii,Plasm_Mosq_1_10000,3.5,1.125x,PM10e4-rep1,TTGGAGGT,CTCTCTAT,"Plasm : Mosq 1:10,000 (350fg/ul | 3.5ng/ul)"
+mxPCR7769381,PM10e3,27814,1,21,E3,Anopheles_coluzzii,Plasm_Mosq_1_1000,3.5,1.125x,PM10e3-rep1,TCGAGCGT,CTCTCTAT,"Plasm : Mosq 1:1,000 (3.5pg/ul | 3.5ng/ul)"
+mxPCR7769382,PM10e2,27814,1,22,F3,Anopheles_coluzzii,Plasm_Mosq_1_100,3.5,1.125x,PM10e2-rep1,TGATACGT,CTCTCTAT,Plasm : Mosq 1:100 (35pg/ul | 3.5ng/ul)
+mxPCR7769383,PM10e1,27814,1,23,G3,Anopheles_coluzzii,Plasm_Mosq_1_10,3.9,1.125x,PM10e1-rep1,TGCATAGT,CTCTCTAT,Plasm : Mosq 1:10 (350pg/ul | 3.5ng/ul)
+mxPCR7769384,Water3,27814,1,24,H3,blank_sample,,0,1.125x,Water3-rep1,TTGACTCT,CTCTCTAT,water
+mxPCR7769385,Amou-2-1,27814,1,25,A4,Anopheles_moucheti,purified,0.19,1.125x,Amou-2-1-rep1,TGCGATCT,CTCTCTAT,mou.2.1
+mxPCR7769386,Amou-2-2,27814,1,26,B4,Anopheles_moucheti,purified,0.25,1.125x,Amou-2-2-rep1,TTCCTGCT,CTCTCTAT,mou.2.2
+mxPCR7769387,Amou-2-3,27814,1,27,C4,Anopheles_moucheti,purified,0.11,1.125x,Amou-2-3-rep1,TAGTGACT,CTCTCTAT,mou.2.3
+mxPCR7769388,Amou-2-4,27814,1,28,D4,Anopheles_moucheti,purified,0.13,1.125x,Amou-2-4-rep1,TACAGGAT,CTCTCTAT,mou.2.4
+mxPCR7769389,Amou-2-5,27814,1,29,E4,Anopheles_moucheti,purified,0.15,1.125x,Amou-2-5-rep1,TCCTCAAT,CTCTCTAT,mou.2.5
+mxPCR7769390,Anil-233,27814,1,30,F4,Anopheles_nili,purified,0.04,1.125x,Anil-233-rep1,TGTGGTTG,CTCTCTAT,nil.233
+mxPCR7769391,Anil-236,27814,1,31,G4,Anopheles_nili,purified,0.1,1.125x,Anil-236-rep1,TAGTCTTG,CTCTCTAT,nil.236
+mxPCR7769392,Anil-237,27814,1,32,H4,Anopheles_nili,purified,0.06,1.125x,Anil-237-rep1,TTCCATTG,CTCTCTAT,nil.237
+mxPCR7769393,Anil-238,27814,1,33,A5,Anopheles_nili,purified,0.05,1.125x,Anil-238-rep1,TCGAAGTG,CTCTCTAT,nil.238
+mxPCR7769394,Anil-239,27814,1,34,B5,Anopheles_nili,purified,0.02,1.125x,Anil-239-rep1,TAACGCTG,CTCTCTAT,nil.239
+mxPCR7769395,Adur-97-3,27814,1,35,C5,Anopheles_dureni,purified,0.01,1.125x,Adur-97-3-rep1,TTGGTATG,CTCTCTAT,dur.97.3
+mxPCR7769396,Adur-97-4,27814,1,36,D5,Anopheles_dureni,purified,-0.01,1.125x,Adur-97-4-rep1,TGAACTGG,CTCTCTAT,dur.97.4
+mxPCR7769397,Adur-97-5,27814,1,37,E5,Anopheles_dureni,purified,-0.02,1.125x,Adur-97-5-rep1,TACTTCGG,CTCTCTAT,dur.97.5
+mxPCR7769398,Adur-97-6,27814,1,38,F5,Anopheles_dureni,purified,0.02,1.125x,Adur-97-6-rep1,TCTCACGG,CTCTCTAT,dur.97.6
+mxPCR7769399,Acou-71,27814,1,39,G5,Anopheles_coustani,purified,0.13,1.125x,Acou-71-rep1,TCAGGAGG,CTCTCTAT,cou.71
+mxPCR7769400,Acou-80,27814,1,40,H5,Anopheles_coustani,purified,0.18,1.125x,Acou-80-rep1,TAAGTTCG,CTCTCTAT,cou.80
+mxPCR7769401,Acou-956,27814,1,41,A6,Anopheles_coustani,purified,0.06,1.125x,Acou-956-rep1,TCCAGTCG,CTCTCTAT,cou.956
+mxPCR7769402,Acou-962,27814,1,42,B6,Anopheles_coustani,purified,0.26,1.125x,Acou-962-rep1,TGTATGCG,CTCTCTAT,cou.962
+mxPCR7769403,Acou-959,27814,1,43,C6,Anopheles_coustani,purified,1.13,1.125x,Acou-959-rep1,TCATTGAG,CTCTCTAT,cou.959
+mxPCR7769404,Amar-5,27814,1,44,D6,Anopheles_marshallii,purified,0.46,1.125x,Amar-5-rep1,TGGCTCAG,CTCTCTAT,mar.5
+mxPCR7769405,Amar-31,27814,1,45,E6,Anopheles_marshallii,purified,0.01,1.125x,Amar-31-rep1,TATGCCAG,CTCTCTAT,mar.31
+mxPCR7769406,Amar-42,27814,1,46,F6,Anopheles_marshallii,purified,0,1.125x,Amar-42-rep1,TCAGATTC,CTCTCTAT,mar.42
+mxPCR7769407,Amar-3-1,27814,1,47,G6,Anopheles_marshallii,purified,0.06,1.125x,Amar-3-1-rep1,TACTAGTC,CTCTCTAT,mar.3.1
+mxPCR7769408,Azie-1032,27814,1,48,H6,Anopheles_ziemanni,purified,0.07,1.125x,Azie-1032-rep1,TTCAGCTC,CTCTCTAT,zie.1032
+mxPCR7769409,Azie-334,27814,1,49,A7,Anopheles_ziemanni,purified,0.17,1.125x,Azie-334-rep1,TGTCTATC,CTCTCTAT,zie.334
+mxPCR7769410,Azie-70,27814,1,50,B7,Anopheles_ziemanni,purified,0.07,1.125x,Azie-70-rep1,TATGTGGC,CTCTCTAT,zie.70
+mxPCR7769411,Azie-77,27814,1,51,C7,Anopheles_ziemanni,purified,0.21,1.125x,Azie-77-rep1,TTACTCGC,CTCTCTAT,zie.77
+mxPCR7769412,Azie-1055,27814,1,52,D7,Anopheles_ziemanni,purified,0.06,1.125x,Azie-1055-rep1,TCGTTAGC,CTCTCTAT,zie.1055
+mxPCR7769413,Aten-79,27814,1,53,E7,Anopheles_tenebrosus,purified,0.11,1.125x,Aten-79-rep1,TACCGAGC,CTCTCTAT,ten.79
+mxPCR7769414,Aten-185,27814,1,54,F7,Anopheles_tenebrosus,purified,0.09,1.125x,Aten-185-rep1,TGTTCTCC,CTCTCTAT,ten.185
+mxPCR7769415,Aten-191,27814,1,55,G7,Anopheles_tenebrosus,purified,0.22,1.125x,Aten-191-rep1,TTCGCACC,CTCTCTAT,ten.191
+mxPCR7769416,Aten-333,27814,1,56,H7,Anopheles_tenebrosus,purified,0.24,1.125x,Aten-333-rep1,TTGCGTAC,CTCTCTAT,ten.333
+mxPCR7769417,Aten-954,27814,1,57,A8,Anopheles_tenebrosus,purified,0.12,1.125x,Aten-954-rep1,TCTACGAC,CTCTCTAT,ten.954
+mxPCR7769418,Athe-2,27814,1,58,B8,Anopheles_theileri,purified,0.42,1.125x,Athe-2-rep1,TGACAGAC,CTCTCTAT,the.2
+mxPCR7769419,Athe-6-1,27814,1,59,C8,Anopheles_theileri,purified,0.32,1.125x,Athe-6-1-rep1,TAGAACAC,CTCTCTAT,the.6.1
+mxPCR7769420,Athe-6-2,27814,1,60,D8,Anopheles_theileri,purified,0.04,1.125x,Athe-6-2-rep1,TCATCCTA,CTCTCTAT,the.6.2
+mxPCR7769421,Athe-1,27814,1,61,E8,Anopheles_theileri,purified,0.03,1.125x,Athe-1-rep1,TGCTGATA,CTCTCTAT,the.1
+mxPCR7769422,Afun-9,27814,1,62,F8,Anopheles_funestus,purified,-0.02,1.125x,Afun-9-rep1,TAGACGGA,CTCTCTAT,fun.9
+mxPCR7769423,Afun-13,27814,1,63,G8,Anopheles_funestus,purified,0.02,1.125x,Afun-13-rep1,TGTGAAGA,CTCTCTAT,fun.13
+mxPCR7769424,Afun-1,27814,1,64,H8,Anopheles_funestus,purified,1.51,1.125x,Afun-1-rep1,TCTCTTCA,CTCTCTAT,fun.1
+mxPCR7769425,Afun-3,27814,1,65,A9,Anopheles_funestus,purified,0.24,1.125x,Afun-3-rep1,TTGTTCCA,CTCTCTAT,fun.3
+mxPCR7769426,Arho-7-1,27814,1,66,B9,Anopheles_rhodesiensis,purified,0.11,1.125x,Arho-7-1-rep1,TGAAGCCA,CTCTCTAT,rho.7.1
+mxPCR7769427,Arho-7-2,27814,1,67,C9,Anopheles_rhodesiensis,purified,0.03,1.125x,Arho-7-2-rep1,TACCACCA,CTCTCTAT,rho.7.2
+mxPCR7769428,Arho-7-3,27814,1,68,D9,Anopheles_rhodesiensis,purified,0.07,1.125x,Arho-7-3-rep1,TGCGTGAA,CTCTCTAT,rho.7.3
+mxPCR7769429,Arho-7-4,27814,1,69,E9,Anopheles_rhodesiensis,purified,0.05,1.125x,Arho-7-4-rep1,GGTGAGTT,CTCTCTAT,rho.7.4
+mxPCR7769430,Abru-12,27814,1,70,F9,Anopheles_brunnipes,purified,0.05,1.125x,Abru-12-rep1,GATCTCTT,CTCTCTAT,bru.12
+mxPCR7769431,Amac-42,27814,1,71,G9,Anopheles_maculipalpis,purified,0.06,1.125x,Amac-42-rep1,GTGTCCTT,CTCTCTAT,mac.42
+mxPCR7769432,Amac-44,27814,1,72,H9,Anopheles_maculipalpis,purified,0.33,1.125x,Amac-44-rep1,GACGGATT,CTCTCTAT,mac.44
+mxPCR7769433,Amac-47,27814,1,73,A10,Anopheles_maculipalpis,purified,0,1.125x,Amac-47-rep1,GCAACATT,CTCTCTAT,mac.47
+mxPCR7769434,Amac-49,27814,1,74,B10,Anopheles_maculipalpis,purified,0.06,1.125x,Amac-49-rep1,GGTCGTGT,CTCTCTAT,mac.49
+mxPCR7769435,Amac-50,27814,1,75,C10,Anopheles_maculipalpis,purified,0.55,1.125x,Amac-50-rep1,GAATCTGT,CTCTCTAT,mac.50
+mxPCR7769436,Ahan-615,27814,1,76,D10,Anopheles_hancocki,purified,0.16,1.125x,Ahan-615-rep1,GTACATCT,CTCTCTAT,han.615
+mxPCR7769437,Ahan-6-1,27814,1,77,E10,Anopheles_hancocki,purified,0.19,1.125x,Ahan-6-1-rep1,GAGGTGCT,CTCTCTAT,han.6.1
+mxPCR7769438,Acol-415,27814,1,78,F10,Anopheles_coluzzii,purified,0.02,1.125x,Acol-415-rep1,GCATGGCT,CTCTCTAT,col.415
+mxPCR7769439,Acol-558,27814,1,79,G10,Anopheles_coluzzii,purified,0.11,1.125x,Acol-558-rep1,GTTAGCCT,CTCTCTAT,col.558
+mxPCR7769440,Acol-570,27814,1,80,H10,Anopheles_coluzzii,purified,0.09,1.125x,Acol-570-rep1,GTCGCTAT,CTCTCTAT,col.570
+mxPCR7769441,Acol-645,27814,1,81,A11,Anopheles_coluzzii,purified,0.19,1.125x,Acol-645-rep1,GGAATGAT,CTCTCTAT,col.645
+mxPCR7769442,Apal-4,27814,1,82,B11,Anopheles_paludis,purified,0,1.125x,Apal-4-rep1,GAGCCAAT,CTCTCTAT,pal.4
+mxPCR7769443,Apal-10,27814,1,83,C11,Anopheles_paludis,purified,0.03,1.125x,Apal-10-rep1,GCTCCTTG,CTCTCTAT,pal.10
+mxPCR7769444,Apal-81,27814,1,84,D11,Anopheles_paludis,purified,0.15,1.125x,Apal-81-rep1,GTAAGGTG,CTCTCTAT,pal.81
+mxPCR7769445,Apal-257,27814,1,85,E11,Anopheles_paludis,purified,0.05,1.125x,Apal-257-rep1,GAGGATGG,CTCTCTAT,pal.257
+mxPCR7769446,Adem-15,27814,1,86,F11,Anopheles_demeilloni,purified,-0.01,1.125x,Adem-15-rep1,GTTGTCGG,CTCTCTAT,dem.15
+mxPCR7769447,Adem-19,27814,1,87,G11,Anopheles_demeilloni,purified,0.06,1.125x,Adem-19-rep1,GGATTAGG,CTCTCTAT,dem.19
+mxPCR7769448,Adem-32,27814,1,88,H11,Anopheles_demeilloni,purified,0.03,1.125x,Adem-32-rep1,GATAGAGG,CTCTCTAT,dem.32
+mxPCR7769449,Adem-34,27814,1,89,A12,Anopheles_demeilloni,purified,0.11,1.125x,Adem-34-rep1,GTGTGTCG,CTCTCTAT,dem.34
+mxPCR7769450,Abro-21,27814,1,90,B12,Anopheles_brohieri,purified,0.24,1.125x,Abro-21-rep1,GCAATCCG,CTCTCTAT,bro.21
+mxPCR7769451,Abro-22,27814,1,91,C12,Anopheles_brohieri,purified,0.12,1.125x,Abro-22-rep1,GACCTTAG,CTCTCTAT,bro.22
+mxPCR7769452,Abro-30,27814,1,92,D12,Anopheles_brohieri,purified,0.19,1.125x,Abro-30-rep1,GCCTGTTC,CTCTCTAT,bro.30
+mxPCR7769453,Abro-33,27814,1,93,E12,Anopheles_brohieri,purified,0,1.125x,Abro-33-rep1,GCACTGTC,CTCTCTAT,bro.33
+mxPCR7769454,Ajab-B620,27814,1,94,F12,Anopheles_jebudensis,purified,0.36,1.125x,Ajab-B620-rep1,GCTAACTC,CTCTCTAT,jab.B620
+mxPCR7769455,Aimp-M190,27814,1,95,G12,Anopheles_implexus,purified,0.3,1.125x,Aimp-M190-rep1,GATTCATC,CTCTCTAT,imp.M190
+mxPCR7769456,Aimp-M1449,27814,1,96,H12,Anopheles_implexus,purified,1.1,1.125x,Aimp-M1449-rep1,GTCTTGGC,CTCTCTAT,imp.M1449
+mxPCR7769467,Water1,27814,1,107,C2,blank_sample,,0,1.25x,Water1-rep2,GGCTACAG,AGAGTAGA,water
+mxPCR7769468,Culex1,27814,1,108,D2,Culex_sp,purified_extract_1_10_dilution,3.5,1.25x,Culex1-rep2,CTTGTACT,AGAGTAGA,"outgroup Culex 1, purified extract 1:10 dilution 35ng/ul"
+mxPCR7769469,Culex2,27814,1,109,E2,Culex_sp,purified_extract_1_10_dilution,1,1.25x,Culex2-rep2,TGGTTGTT,AGAGTAGA,"outgroup Culex 2, purified extract 1:10 dilution 9.8ng/ul"
+mxPCR7769470,Dmel1,27814,1,110,F2,Drosophila_melanogaster,purified_extract,0.2,1.25x,Dmel1-rep2,TCTCGGTT,AGAGTAGA,"outgroup Dmel 1, purified extract 0.2ng/ul"
+mxPCR7769471,Dmel2,27814,1,111,G2,Drosophila_melanogaster,purified_extract,1.1,1.25x,Dmel2-rep2,TAAGCGTT,AGAGTAGA,"outgroup Dmel 2, purified extract 1.1.ng/ul"
+mxPCR7769472,Extraction-blank,27814,1,112,H2,blank_sample,,0,1.25x,Extraction-blank-rep2,TCCGTCTT,AGAGTAGA,extraction blank
+mxPCR7769473,3D7,27814,1,113,A3,Plasmodium_falciparum,pure,3.5,1.25x,3D7-rep2,TGTACCTT,AGAGTAGA,Pure Plasmodium 3D7
+mxPCR7769474,Water2,27814,1,114,B3,blank_sample,,0,1.25x,Water2-rep2,TTCTGTGT,AGAGTAGA,water
+mxPCR7769475,PM10e5,27814,1,115,C3,Anopheles_coluzzii,Plasm_Mosq_1_100000,3.5,1.25x,PM10e5-rep2,TCTGCTGT,AGAGTAGA,"Plasm : Mosq 1:100,000 (35fg/ul | 3.5ng/ul)"
+mxPCR7769476,PM10e4,27814,1,116,D3,Anopheles_coluzzii,Plasm_Mosq_1_10000,3.5,1.25x,PM10e4-rep2,TTGGAGGT,AGAGTAGA,"Plasm : Mosq 1:10,000 (350fg/ul | 3.5ng/ul)"
+mxPCR7769477,PM10e3,27814,1,117,E3,Anopheles_coluzzii,Plasm_Mosq_1_1000,3.5,1.25x,PM10e3-rep2,TCGAGCGT,AGAGTAGA,"Plasm : Mosq 1:1,000 (3.5pg/ul | 3.5ng/ul)"
+mxPCR7769478,PM10e2,27814,1,118,F3,Anopheles_coluzzii,Plasm_Mosq_1_100,3.5,1.25x,PM10e2-rep2,TGATACGT,AGAGTAGA,Plasm : Mosq 1:100 (35pg/ul | 3.5ng/ul)
+mxPCR7769479,PM10e1,27814,1,119,G3,Anopheles_coluzzii,Plasm_Mosq_1_10,3.9,1.25x,PM10e1-rep2,TGCATAGT,AGAGTAGA,Plasm : Mosq 1:10 (350pg/ul | 3.5ng/ul)
+mxPCR7769480,Water3,27814,1,120,H3,blank_sample,,0,1.25x,Water3-rep2,TTGACTCT,AGAGTAGA,water
+mxPCR7769481,Amou-2-1,27814,1,121,A4,Anopheles_moucheti,purified,0.19,1.25x,Amou-2-1-rep2,TGCGATCT,AGAGTAGA,mou.2.1
+mxPCR7769482,Amou-2-2,27814,1,122,B4,Anopheles_moucheti,purified,0.25,1.25x,Amou-2-2-rep2,TTCCTGCT,AGAGTAGA,mou.2.2
+mxPCR7769483,Amou-2-3,27814,1,123,C4,Anopheles_moucheti,purified,0.11,1.25x,Amou-2-3-rep2,TAGTGACT,AGAGTAGA,mou.2.3
+mxPCR7769484,Amou-2-4,27814,1,124,D4,Anopheles_moucheti,purified,0.13,1.25x,Amou-2-4-rep2,TACAGGAT,AGAGTAGA,mou.2.4
+mxPCR7769485,Amou-2-5,27814,1,125,E4,Anopheles_moucheti,purified,0.15,1.25x,Amou-2-5-rep2,TCCTCAAT,AGAGTAGA,mou.2.5
+mxPCR7769486,Anil-233,27814,1,126,F4,Anopheles_nili,purified,0.04,1.25x,Anil-233-rep2,TGTGGTTG,AGAGTAGA,nil.233
+mxPCR7769487,Anil-236,27814,1,127,G4,Anopheles_nili,purified,0.1,1.25x,Anil-236-rep2,TAGTCTTG,AGAGTAGA,nil.236
+mxPCR7769488,Anil-237,27814,1,128,H4,Anopheles_nili,purified,0.06,1.25x,Anil-237-rep2,TTCCATTG,AGAGTAGA,nil.237
+mxPCR7769489,Anil-238,27814,1,129,A5,Anopheles_nili,purified,0.05,1.25x,Anil-238-rep2,TCGAAGTG,AGAGTAGA,nil.238
+mxPCR7769490,Anil-239,27814,1,130,B5,Anopheles_nili,purified,0.02,1.25x,Anil-239-rep2,TAACGCTG,AGAGTAGA,nil.239
+mxPCR7769491,Adur-97-3,27814,1,131,C5,Anopheles_dureni,purified,0.01,1.25x,Adur-97-3-rep2,TTGGTATG,AGAGTAGA,dur.97.3
+mxPCR7769492,Adur-97-4,27814,1,132,D5,Anopheles_dureni,purified,-0.01,1.25x,Adur-97-4-rep2,TGAACTGG,AGAGTAGA,dur.97.4
+mxPCR7769493,Adur-97-5,27814,1,133,E5,Anopheles_dureni,purified,-0.02,1.25x,Adur-97-5-rep2,TACTTCGG,AGAGTAGA,dur.97.5
+mxPCR7769494,Adur-97-6,27814,1,134,F5,Anopheles_dureni,purified,0.02,1.25x,Adur-97-6-rep2,TCTCACGG,AGAGTAGA,dur.97.6
+mxPCR7769495,Acou-71,27814,1,135,G5,Anopheles_coustani,purified,0.13,1.25x,Acou-71-rep2,TCAGGAGG,AGAGTAGA,cou.71
+mxPCR7769496,Acou-80,27814,1,136,H5,Anopheles_coustani,purified,0.18,1.25x,Acou-80-rep2,TAAGTTCG,AGAGTAGA,cou.80
+mxPCR7769497,Acou-956,27814,1,137,A6,Anopheles_coustani,purified,0.06,1.25x,Acou-956-rep2,TCCAGTCG,AGAGTAGA,cou.956
+mxPCR7769498,Acou-962,27814,1,138,B6,Anopheles_coustani,purified,0.26,1.25x,Acou-962-rep2,TGTATGCG,AGAGTAGA,cou.962
+mxPCR7769499,Acou-959,27814,1,139,C6,Anopheles_coustani,purified,1.13,1.25x,Acou-959-rep2,TCATTGAG,AGAGTAGA,cou.959
+mxPCR7769500,Amar-5,27814,1,140,D6,Anopheles_marshallii,purified,0.46,1.25x,Amar-5-rep2,TGGCTCAG,AGAGTAGA,mar.5
+mxPCR7769501,Amar-31,27814,1,141,E6,Anopheles_marshallii,purified,0.01,1.25x,Amar-31-rep2,TATGCCAG,AGAGTAGA,mar.31
+mxPCR7769502,Amar-42,27814,1,142,F6,Anopheles_marshallii,purified,0,1.25x,Amar-42-rep2,TCAGATTC,AGAGTAGA,mar.42
+mxPCR7769503,Amar-3-1,27814,1,143,G6,Anopheles_marshallii,purified,0.06,1.25x,Amar-3-1-rep2,TACTAGTC,AGAGTAGA,mar.3.1
+mxPCR7769504,Azie-1032,27814,1,144,H6,Anopheles_ziemanni,purified,0.07,1.25x,Azie-1032-rep2,TTCAGCTC,AGAGTAGA,zie.1032
+mxPCR7769505,Azie-334,27814,1,145,A7,Anopheles_ziemanni,purified,0.17,1.25x,Azie-334-rep2,TGTCTATC,AGAGTAGA,zie.334
+mxPCR7769506,Azie-70,27814,1,146,B7,Anopheles_ziemanni,purified,0.07,1.25x,Azie-70-rep2,TATGTGGC,AGAGTAGA,zie.70
+mxPCR7769507,Azie-77,27814,1,147,C7,Anopheles_ziemanni,purified,0.21,1.25x,Azie-77-rep2,TTACTCGC,AGAGTAGA,zie.77
+mxPCR7769508,Azie-1055,27814,1,148,D7,Anopheles_ziemanni,purified,0.06,1.25x,Azie-1055-rep2,TCGTTAGC,AGAGTAGA,zie.1055
+mxPCR7769509,Aten-79,27814,1,149,E7,Anopheles_tenebrosus,purified,0.11,1.25x,Aten-79-rep2,TACCGAGC,AGAGTAGA,ten.79
+mxPCR7769510,Aten-185,27814,1,150,F7,Anopheles_tenebrosus,purified,0.09,1.25x,Aten-185-rep2,TGTTCTCC,AGAGTAGA,ten.185
+mxPCR7769511,Aten-191,27814,1,151,G7,Anopheles_tenebrosus,purified,0.22,1.25x,Aten-191-rep2,TTCGCACC,AGAGTAGA,ten.191
+mxPCR7769512,Aten-333,27814,1,152,H7,Anopheles_tenebrosus,purified,0.24,1.25x,Aten-333-rep2,TTGCGTAC,AGAGTAGA,ten.333
+mxPCR7769513,Aten-954,27814,1,153,A8,Anopheles_tenebrosus,purified,0.12,1.25x,Aten-954-rep2,TCTACGAC,AGAGTAGA,ten.954
+mxPCR7769514,Athe-2,27814,1,154,B8,Anopheles_theileri,purified,0.42,1.25x,Athe-2-rep2,TGACAGAC,AGAGTAGA,the.2
+mxPCR7769515,Athe-6-1,27814,1,155,C8,Anopheles_theileri,purified,0.32,1.25x,Athe-6-1-rep2,TAGAACAC,AGAGTAGA,the.6.1
+mxPCR7769516,Athe-6-2,27814,1,156,D8,Anopheles_theileri,purified,0.04,1.25x,Athe-6-2-rep2,TCATCCTA,AGAGTAGA,the.6.2
+mxPCR7769517,Athe-1,27814,1,157,E8,Anopheles_theileri,purified,0.03,1.25x,Athe-1-rep2,TGCTGATA,AGAGTAGA,the.1
+mxPCR7769518,Afun-9,27814,1,158,F8,Anopheles_funestus,purified,-0.02,1.25x,Afun-9-rep2,TAGACGGA,AGAGTAGA,fun.9
+mxPCR7769519,Afun-13,27814,1,159,G8,Anopheles_funestus,purified,0.02,1.25x,Afun-13-rep2,TGTGAAGA,AGAGTAGA,fun.13
+mxPCR7769520,Afun-1,27814,1,160,H8,Anopheles_funestus,purified,1.51,1.25x,Afun-1-rep2,TCTCTTCA,AGAGTAGA,fun.1
+mxPCR7769521,Afun-3,27814,1,161,A9,Anopheles_funestus,purified,0.24,1.25x,Afun-3-rep2,TTGTTCCA,AGAGTAGA,fun.3
+mxPCR7769522,Arho-7-1,27814,1,162,B9,Anopheles_rhodesiensis,purified,0.11,1.25x,Arho-7-1-rep2,TGAAGCCA,AGAGTAGA,rho.7.1
+mxPCR7769523,Arho-7-2,27814,1,163,C9,Anopheles_rhodesiensis,purified,0.03,1.25x,Arho-7-2-rep2,TACCACCA,AGAGTAGA,rho.7.2
+mxPCR7769524,Arho-7-3,27814,1,164,D9,Anopheles_rhodesiensis,purified,0.07,1.25x,Arho-7-3-rep2,TGCGTGAA,AGAGTAGA,rho.7.3
+mxPCR7769525,Arho-7-4,27814,1,165,E9,Anopheles_rhodesiensis,purified,0.05,1.25x,Arho-7-4-rep2,GGTGAGTT,AGAGTAGA,rho.7.4
+mxPCR7769526,Abru-12,27814,1,166,F9,Anopheles_brunnipes,purified,0.05,1.25x,Abru-12-rep2,GATCTCTT,AGAGTAGA,bru.12
+mxPCR7769527,Amac-42,27814,1,167,G9,Anopheles_maculipalpis,purified,0.06,1.25x,Amac-42-rep2,GTGTCCTT,AGAGTAGA,mac.42
+mxPCR7769528,Amac-44,27814,1,168,H9,Anopheles_maculipalpis,purified,0.33,1.25x,Amac-44-rep2,GACGGATT,AGAGTAGA,mac.44
+mxPCR7769529,Amac-47,27814,1,169,A10,Anopheles_maculipalpis,purified,0,1.25x,Amac-47-rep2,GCAACATT,AGAGTAGA,mac.47
+mxPCR7769530,Amac-49,27814,1,170,B10,Anopheles_maculipalpis,purified,0.06,1.25x,Amac-49-rep2,GGTCGTGT,AGAGTAGA,mac.49
+mxPCR7769531,Amac-50,27814,1,171,C10,Anopheles_maculipalpis,purified,0.55,1.25x,Amac-50-rep2,GAATCTGT,AGAGTAGA,mac.50
+mxPCR7769532,Ahan-615,27814,1,172,D10,Anopheles_hancocki,purified,0.16,1.25x,Ahan-615-rep2,GTACATCT,AGAGTAGA,han.615
+mxPCR7769533,Ahan-6-1,27814,1,173,E10,Anopheles_hancocki,purified,0.19,1.25x,Ahan-6-1-rep2,GAGGTGCT,AGAGTAGA,han.6.1
+mxPCR7769534,Acol-415,27814,1,174,F10,Anopheles_coluzzii,purified,0.02,1.25x,Acol-415-rep2,GCATGGCT,AGAGTAGA,col.415
+mxPCR7769535,Acol-558,27814,1,175,G10,Anopheles_coluzzii,purified,0.11,1.25x,Acol-558-rep2,GTTAGCCT,AGAGTAGA,col.558
+mxPCR7769536,Acol-570,27814,1,176,H10,Anopheles_coluzzii,purified,0.09,1.25x,Acol-570-rep2,GTCGCTAT,AGAGTAGA,col.570
+mxPCR7769537,Acol-645,27814,1,177,A11,Anopheles_coluzzii,purified,0.19,1.25x,Acol-645-rep2,GGAATGAT,AGAGTAGA,col.645
+mxPCR7769538,Apal-4,27814,1,178,B11,Anopheles_paludis,purified,0,1.25x,Apal-4-rep2,GAGCCAAT,AGAGTAGA,pal.4
+mxPCR7769539,Apal-10,27814,1,179,C11,Anopheles_paludis,purified,0.03,1.25x,Apal-10-rep2,GCTCCTTG,AGAGTAGA,pal.10
+mxPCR7769540,Apal-81,27814,1,180,D11,Anopheles_paludis,purified,0.15,1.25x,Apal-81-rep2,GTAAGGTG,AGAGTAGA,pal.81
+mxPCR7769541,Apal-257,27814,1,181,E11,Anopheles_paludis,purified,0.05,1.25x,Apal-257-rep2,GAGGATGG,AGAGTAGA,pal.257
+mxPCR7769542,Adem-15,27814,1,182,F11,Anopheles_demeilloni,purified,-0.01,1.25x,Adem-15-rep2,GTTGTCGG,AGAGTAGA,dem.15
+mxPCR7769543,Adem-19,27814,1,183,G11,Anopheles_demeilloni,purified,0.06,1.25x,Adem-19-rep2,GGATTAGG,AGAGTAGA,dem.19
+mxPCR7769544,Adem-32,27814,1,184,H11,Anopheles_demeilloni,purified,0.03,1.25x,Adem-32-rep2,GATAGAGG,AGAGTAGA,dem.32
+mxPCR7769545,Adem-34,27814,1,185,A12,Anopheles_demeilloni,purified,0.11,1.25x,Adem-34-rep2,GTGTGTCG,AGAGTAGA,dem.34
+mxPCR7769546,Abro-21,27814,1,186,B12,Anopheles_brohieri,purified,0.24,1.25x,Abro-21-rep2,GCAATCCG,AGAGTAGA,bro.21
+mxPCR7769547,Abro-22,27814,1,187,C12,Anopheles_brohieri,purified,0.12,1.25x,Abro-22-rep2,GACCTTAG,AGAGTAGA,bro.22
+mxPCR7769548,Abro-30,27814,1,188,D12,Anopheles_brohieri,purified,0.19,1.25x,Abro-30-rep2,GCCTGTTC,AGAGTAGA,bro.30
+mxPCR7769549,Abro-33,27814,1,189,E12,Anopheles_brohieri,purified,0,1.25x,Abro-33-rep2,GCACTGTC,AGAGTAGA,bro.33
+mxPCR7769550,Ajab-B620,27814,1,190,F12,Anopheles_jebudensis,purified,0.36,1.25x,Ajab-B620-rep2,GCTAACTC,AGAGTAGA,jab.B620
+mxPCR7769551,Aimp-M190,27814,1,191,G12,Anopheles_implexus,purified,0.3,1.25x,Aimp-M190-rep2,GATTCATC,AGAGTAGA,imp.M190
+mxPCR7769552,Aimp-M1449,27814,1,192,H12,Anopheles_implexus,purified,1.1,1.25x,Aimp-M1449-rep2,GTCTTGGC,AGAGTAGA,imp.M1449
+mxPCR7769563,Water1,27814,1,203,C2,blank_sample,,0,1x,Water1-rep3,GGCTACAG,CTATTAAG,water
+mxPCR7769564,Culex1,27814,1,204,D2,Culex_sp,purified_extract_1_10_dilution,3.5,1x,Culex1-rep3,CTTGTACT,CTATTAAG,"outgroup Culex 1, purified extract 1:10 dilution 35ng/ul"
+mxPCR7769565,Culex2,27814,1,205,E2,Culex_sp,purified_extract_1_10_dilution,1,1x,Culex2-rep3,TGGTTGTT,CTATTAAG,"outgroup Culex 2, purified extract 1:10 dilution 9.8ng/ul"
+mxPCR7769566,Dmel1,27814,1,206,F2,Drosophila_melanogaster,purified_extract,0.2,1x,Dmel1-rep3,TCTCGGTT,CTATTAAG,"outgroup Dmel 1, purified extract 0.2ng/ul"
+mxPCR7769567,Dmel2,27814,1,207,G2,Drosophila_melanogaster,purified_extract,1.1,1x,Dmel2-rep3,TAAGCGTT,CTATTAAG,"outgroup Dmel 2, purified extract 1.1.ng/ul"
+mxPCR7769568,Extraction-blank,27814,1,208,H2,blank_sample,,0,1x,Extraction-blank-rep3,TCCGTCTT,CTATTAAG,extraction blank
+mxPCR7769569,3D7,27814,1,209,A3,Plasmodium_falciparum,pure,3.5,1x,3D7-rep3,TGTACCTT,CTATTAAG,Pure Plasmodium 3D7
+mxPCR7769570,Water2,27814,1,210,B3,blank_sample,,0,1x,Water2-rep3,TTCTGTGT,CTATTAAG,water
+mxPCR7769571,PM10e5,27814,1,211,C3,Anopheles_coluzzii,Plasm_Mosq_1_100000,3.5,1x,PM10e5-rep3,TCTGCTGT,CTATTAAG,"Plasm : Mosq 1:100,000 (35fg/ul | 3.5ng/ul)"
+mxPCR7769572,PM10e4,27814,1,212,D3,Anopheles_coluzzii,Plasm_Mosq_1_10000,3.5,1x,PM10e4-rep3,TTGGAGGT,CTATTAAG,"Plasm : Mosq 1:10,000 (350fg/ul | 3.5ng/ul)"
+mxPCR7769573,PM10e3,27814,1,213,E3,Anopheles_coluzzii,Plasm_Mosq_1_1000,3.5,1x,PM10e3-rep3,TCGAGCGT,CTATTAAG,"Plasm : Mosq 1:1,000 (3.5pg/ul | 3.5ng/ul)"
+mxPCR7769574,PM10e2,27814,1,214,F3,Anopheles_coluzzii,Plasm_Mosq_1_100,3.5,1x,PM10e2-rep3,TGATACGT,CTATTAAG,Plasm : Mosq 1:100 (35pg/ul | 3.5ng/ul)
+mxPCR7769575,PM10e1,27814,1,215,G3,Anopheles_coluzzii,Plasm_Mosq_1_10,3.9,1x,PM10e1-rep3,TGCATAGT,CTATTAAG,Plasm : Mosq 1:10 (350pg/ul | 3.5ng/ul)
+mxPCR7769576,Water3,27814,1,216,H3,blank_sample,,0,1x,Water3-rep3,TTGACTCT,CTATTAAG,water
+mxPCR7769577,Amou-2-1,27814,1,217,A4,Anopheles_moucheti,purified,0.19,1x,Amou-2-1-rep3,TGCGATCT,CTATTAAG,mou.2.1
+mxPCR7769578,Amou-2-2,27814,1,218,B4,Anopheles_moucheti,purified,0.25,1x,Amou-2-2-rep3,TTCCTGCT,CTATTAAG,mou.2.2
+mxPCR7769579,Amou-2-3,27814,1,219,C4,Anopheles_moucheti,purified,0.11,1x,Amou-2-3-rep3,TAGTGACT,CTATTAAG,mou.2.3
+mxPCR7769580,Amou-2-4,27814,1,220,D4,Anopheles_moucheti,purified,0.13,1x,Amou-2-4-rep3,TACAGGAT,CTATTAAG,mou.2.4
+mxPCR7769581,Amou-2-5,27814,1,221,E4,Anopheles_moucheti,purified,0.15,1x,Amou-2-5-rep3,TCCTCAAT,CTATTAAG,mou.2.5
+mxPCR7769582,Anil-233,27814,1,222,F4,Anopheles_nili,purified,0.04,1x,Anil-233-rep3,TGTGGTTG,CTATTAAG,nil.233
+mxPCR7769583,Anil-236,27814,1,223,G4,Anopheles_nili,purified,0.1,1x,Anil-236-rep3,TAGTCTTG,CTATTAAG,nil.236
+mxPCR7769584,Anil-237,27814,1,224,H4,Anopheles_nili,purified,0.06,1x,Anil-237-rep3,TTCCATTG,CTATTAAG,nil.237
+mxPCR7769585,Anil-238,27814,1,225,A5,Anopheles_nili,purified,0.05,1x,Anil-238-rep3,TCGAAGTG,CTATTAAG,nil.238
+mxPCR7769586,Anil-239,27814,1,226,B5,Anopheles_nili,purified,0.02,1x,Anil-239-rep3,TAACGCTG,CTATTAAG,nil.239
+mxPCR7769587,Adur-97-3,27814,1,227,C5,Anopheles_dureni,purified,0.01,1x,Adur-97-3-rep3,TTGGTATG,CTATTAAG,dur.97.3
+mxPCR7769588,Adur-97-4,27814,1,228,D5,Anopheles_dureni,purified,-0.01,1x,Adur-97-4-rep3,TGAACTGG,CTATTAAG,dur.97.4
+mxPCR7769589,Adur-97-5,27814,1,229,E5,Anopheles_dureni,purified,-0.02,1x,Adur-97-5-rep3,TACTTCGG,CTATTAAG,dur.97.5
+mxPCR7769590,Adur-97-6,27814,1,230,F5,Anopheles_dureni,purified,0.02,1x,Adur-97-6-rep3,TCTCACGG,CTATTAAG,dur.97.6
+mxPCR7769591,Acou-71,27814,1,231,G5,Anopheles_coustani,purified,0.13,1x,Acou-71-rep3,TCAGGAGG,CTATTAAG,cou.71
+mxPCR7769592,Acou-80,27814,1,232,H5,Anopheles_coustani,purified,0.18,1x,Acou-80-rep3,TAAGTTCG,CTATTAAG,cou.80
+mxPCR7769593,Acou-956,27814,1,233,A6,Anopheles_coustani,purified,0.06,1x,Acou-956-rep3,TCCAGTCG,CTATTAAG,cou.956
+mxPCR7769594,Acou-962,27814,1,234,B6,Anopheles_coustani,purified,0.26,1x,Acou-962-rep3,TGTATGCG,CTATTAAG,cou.962
+mxPCR7769595,Acou-959,27814,1,235,C6,Anopheles_coustani,purified,1.13,1x,Acou-959-rep3,TCATTGAG,CTATTAAG,cou.959
+mxPCR7769596,Amar-5,27814,1,236,D6,Anopheles_marshallii,purified,0.46,1x,Amar-5-rep3,TGGCTCAG,CTATTAAG,mar.5
+mxPCR7769597,Amar-31,27814,1,237,E6,Anopheles_marshallii,purified,0.01,1x,Amar-31-rep3,TATGCCAG,CTATTAAG,mar.31
+mxPCR7769598,Amar-42,27814,1,238,F6,Anopheles_marshallii,purified,0,1x,Amar-42-rep3,TCAGATTC,CTATTAAG,mar.42
+mxPCR7769599,Amar-3-1,27814,1,239,G6,Anopheles_marshallii,purified,0.06,1x,Amar-3-1-rep3,TACTAGTC,CTATTAAG,mar.3.1
+mxPCR7769600,Azie-1032,27814,1,240,H6,Anopheles_ziemanni,purified,0.07,1x,Azie-1032-rep3,TTCAGCTC,CTATTAAG,zie.1032
+mxPCR7769601,Azie-334,27814,1,241,A7,Anopheles_ziemanni,purified,0.17,1x,Azie-334-rep3,TGTCTATC,CTATTAAG,zie.334
+mxPCR7769602,Azie-70,27814,1,242,B7,Anopheles_ziemanni,purified,0.07,1x,Azie-70-rep3,TATGTGGC,CTATTAAG,zie.70
+mxPCR7769603,Azie-77,27814,1,243,C7,Anopheles_ziemanni,purified,0.21,1x,Azie-77-rep3,TTACTCGC,CTATTAAG,zie.77
+mxPCR7769604,Azie-1055,27814,1,244,D7,Anopheles_ziemanni,purified,0.06,1x,Azie-1055-rep3,TCGTTAGC,CTATTAAG,zie.1055
+mxPCR7769605,Aten-79,27814,1,245,E7,Anopheles_tenebrosus,purified,0.11,1x,Aten-79-rep3,TACCGAGC,CTATTAAG,ten.79
+mxPCR7769606,Aten-185,27814,1,246,F7,Anopheles_tenebrosus,purified,0.09,1x,Aten-185-rep3,TGTTCTCC,CTATTAAG,ten.185
+mxPCR7769607,Aten-191,27814,1,247,G7,Anopheles_tenebrosus,purified,0.22,1x,Aten-191-rep3,TTCGCACC,CTATTAAG,ten.191
+mxPCR7769608,Aten-333,27814,1,248,H7,Anopheles_tenebrosus,purified,0.24,1x,Aten-333-rep3,TTGCGTAC,CTATTAAG,ten.333
+mxPCR7769609,Aten-954,27814,1,249,A8,Anopheles_tenebrosus,purified,0.12,1x,Aten-954-rep3,TCTACGAC,CTATTAAG,ten.954
+mxPCR7769610,Athe-2,27814,1,250,B8,Anopheles_theileri,purified,0.42,1x,Athe-2-rep3,TGACAGAC,CTATTAAG,the.2
+mxPCR7769611,Athe-6-1,27814,1,251,C8,Anopheles_theileri,purified,0.32,1x,Athe-6-1-rep3,TAGAACAC,CTATTAAG,the.6.1
+mxPCR7769612,Athe-6-2,27814,1,252,D8,Anopheles_theileri,purified,0.04,1x,Athe-6-2-rep3,TCATCCTA,CTATTAAG,the.6.2
+mxPCR7769613,Athe-1,27814,1,253,E8,Anopheles_theileri,purified,0.03,1x,Athe-1-rep3,TGCTGATA,CTATTAAG,the.1
+mxPCR7769614,Afun-9,27814,1,254,F8,Anopheles_funestus,purified,-0.02,1x,Afun-9-rep3,TAGACGGA,CTATTAAG,fun.9
+mxPCR7769615,Afun-13,27814,1,255,G8,Anopheles_funestus,purified,0.02,1x,Afun-13-rep3,TGTGAAGA,CTATTAAG,fun.13
+mxPCR7769616,Afun-1,27814,1,256,H8,Anopheles_funestus,purified,1.51,1x,Afun-1-rep3,TCTCTTCA,CTATTAAG,fun.1
+mxPCR7769617,Afun-3,27814,1,257,A9,Anopheles_funestus,purified,0.24,1x,Afun-3-rep3,TTGTTCCA,CTATTAAG,fun.3
+mxPCR7769618,Arho-7-1,27814,1,258,B9,Anopheles_rhodesiensis,purified,0.11,1x,Arho-7-1-rep3,TGAAGCCA,CTATTAAG,rho.7.1
+mxPCR7769619,Arho-7-2,27814,1,259,C9,Anopheles_rhodesiensis,purified,0.03,1x,Arho-7-2-rep3,TACCACCA,CTATTAAG,rho.7.2
+mxPCR7769620,Arho-7-3,27814,1,260,D9,Anopheles_rhodesiensis,purified,0.07,1x,Arho-7-3-rep3,TGCGTGAA,CTATTAAG,rho.7.3
+mxPCR7769621,Arho-7-4,27814,1,261,E9,Anopheles_rhodesiensis,purified,0.05,1x,Arho-7-4-rep3,GGTGAGTT,CTATTAAG,rho.7.4
+mxPCR7769622,Abru-12,27814,1,262,F9,Anopheles_brunnipes,purified,0.05,1x,Abru-12-rep3,GATCTCTT,CTATTAAG,bru.12
+mxPCR7769623,Amac-42,27814,1,263,G9,Anopheles_maculipalpis,purified,0.06,1x,Amac-42-rep3,GTGTCCTT,CTATTAAG,mac.42
+mxPCR7769624,Amac-44,27814,1,264,H9,Anopheles_maculipalpis,purified,0.33,1x,Amac-44-rep3,GACGGATT,CTATTAAG,mac.44
+mxPCR7769625,Amac-47,27814,1,265,A10,Anopheles_maculipalpis,purified,0,1x,Amac-47-rep3,GCAACATT,CTATTAAG,mac.47
+mxPCR7769626,Amac-49,27814,1,266,B10,Anopheles_maculipalpis,purified,0.06,1x,Amac-49-rep3,GGTCGTGT,CTATTAAG,mac.49
+mxPCR7769627,Amac-50,27814,1,267,C10,Anopheles_maculipalpis,purified,0.55,1x,Amac-50-rep3,GAATCTGT,CTATTAAG,mac.50
+mxPCR7769628,Ahan-615,27814,1,268,D10,Anopheles_hancocki,purified,0.16,1x,Ahan-615-rep3,GTACATCT,CTATTAAG,han.615
+mxPCR7769629,Ahan-6-1,27814,1,269,E10,Anopheles_hancocki,purified,0.19,1x,Ahan-6-1-rep3,GAGGTGCT,CTATTAAG,han.6.1
+mxPCR7769630,Acol-415,27814,1,270,F10,Anopheles_coluzzii,purified,0.02,1x,Acol-415-rep3,GCATGGCT,CTATTAAG,col.415
+mxPCR7769631,Acol-558,27814,1,271,G10,Anopheles_coluzzii,purified,0.11,1x,Acol-558-rep3,GTTAGCCT,CTATTAAG,col.558
+mxPCR7769632,Acol-570,27814,1,272,H10,Anopheles_coluzzii,purified,0.09,1x,Acol-570-rep3,GTCGCTAT,CTATTAAG,col.570
+mxPCR7769633,Acol-645,27814,1,273,A11,Anopheles_coluzzii,purified,0.19,1x,Acol-645-rep3,GGAATGAT,CTATTAAG,col.645
+mxPCR7769634,Apal-4,27814,1,274,B11,Anopheles_paludis,purified,0,1x,Apal-4-rep3,GAGCCAAT,CTATTAAG,pal.4
+mxPCR7769635,Apal-10,27814,1,275,C11,Anopheles_paludis,purified,0.03,1x,Apal-10-rep3,GCTCCTTG,CTATTAAG,pal.10
+mxPCR7769636,Apal-81,27814,1,276,D11,Anopheles_paludis,purified,0.15,1x,Apal-81-rep3,GTAAGGTG,CTATTAAG,pal.81
+mxPCR7769637,Apal-257,27814,1,277,E11,Anopheles_paludis,purified,0.05,1x,Apal-257-rep3,GAGGATGG,CTATTAAG,pal.257
+mxPCR7769638,Adem-15,27814,1,278,F11,Anopheles_demeilloni,purified,-0.01,1x,Adem-15-rep3,GTTGTCGG,CTATTAAG,dem.15
+mxPCR7769639,Adem-19,27814,1,279,G11,Anopheles_demeilloni,purified,0.06,1x,Adem-19-rep3,GGATTAGG,CTATTAAG,dem.19
+mxPCR7769640,Adem-32,27814,1,280,H11,Anopheles_demeilloni,purified,0.03,1x,Adem-32-rep3,GATAGAGG,CTATTAAG,dem.32
+mxPCR7769641,Adem-34,27814,1,281,A12,Anopheles_demeilloni,purified,0.11,1x,Adem-34-rep3,GTGTGTCG,CTATTAAG,dem.34
+mxPCR7769642,Abro-21,27814,1,282,B12,Anopheles_brohieri,purified,0.24,1x,Abro-21-rep3,GCAATCCG,CTATTAAG,bro.21
+mxPCR7769643,Abro-22,27814,1,283,C12,Anopheles_brohieri,purified,0.12,1x,Abro-22-rep3,GACCTTAG,CTATTAAG,bro.22
+mxPCR7769644,Abro-30,27814,1,284,D12,Anopheles_brohieri,purified,0.19,1x,Abro-30-rep3,GCCTGTTC,CTATTAAG,bro.30
+mxPCR7769645,Abro-33,27814,1,285,E12,Anopheles_brohieri,purified,0,1x,Abro-33-rep3,GCACTGTC,CTATTAAG,bro.33
+mxPCR7769646,Ajab-B620,27814,1,286,F12,Anopheles_jebudensis,purified,0.36,1x,Ajab-B620-rep3,GCTAACTC,CTATTAAG,jab.B620
+mxPCR7769647,Aimp-M190,27814,1,287,G12,Anopheles_implexus,purified,0.3,1x,Aimp-M190-rep3,GATTCATC,CTATTAAG,imp.M190
+mxPCR7769648,Aimp-M1449,27814,1,288,H12,Anopheles_implexus,purified,1.1,1x,Aimp-M1449-rep3,GTCTTGGC,CTATTAAG,imp.M1449

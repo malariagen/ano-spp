@@ -1,0 +1,9 @@
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    # v.1.12.1 cannot resolve dependencies 
+    # even with re-arranged channels
+    # v.1.10.0 segfaults on Mac OS (related to https://github.com/benjjneb/dada2/issues/684)
+    - bioconda::bioconductor-dada2=1.10.0

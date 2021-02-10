@@ -1,0 +1,7 @@
+# x,   y, rotation,     ha,     va, color, ratio,            label
+0.5, 0.5,        0, center,    top,      k,     0.864417795696,       An. gambiae 3R
+0.5, 0.65,        0, center, top,      k,     0.864417795696,       An. albimanus 2L
+0.5, 0.35,        0, center, bottom,      k,     0.864417795696,        An. funestus 2L
+# edges
+e, 0, 1
+e, 0, 2

@@ -1,0 +1,160 @@
+s_Sample,External ID,Date of Collection,Location,Country,Latitude,Longitude,Collection Context,Collection Method,Collection Time,Specimen Sex,Specimen Type,Extraction Method,Sample Type,Species
+VBS00001,1175-S01-0001,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,23,Female,Wild caught adult,,Genomic DNA,Anopheles_annularis
+VBS00002,1175-S01-0002,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,24,Female,Wild caught adult,,Genomic DNA,Anopheles_annularis
+VBS00003,1175-S01-0003,2013-07-23,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_annularis
+VBS00004,1175-S01-0004,2013-07-22,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,3,Female,Wild caught adult,,Genomic DNA,Anopheles_annularis
+VBS00005,1175-S01-0005,2013-07-21,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_annularis
+VBS00006,1175-S01-0006,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,19,Female,Wild caught adult,,Genomic DNA,Anopheles_nivipes
+VBS00007,1175-S01-0007,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,1,Female,Wild caught adult,,WGA,Anopheles_nivipes
+VBS00008,1175-S01-0008,2013-08-14,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,1,Female,Wild caught adult,,Genomic DNA,Anopheles_nivipes
+VBS00009,1175-S01-0009,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_nivipes
+VBS00010,1175-S01-0010,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_nivipes
+VBS00011,1175-S01-0011,2014-06-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_pallidus
+VBS00012,1175-S01-0012,2014-06-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,22,Female,Wild caught adult,,Genomic DNA,Anopheles_pallidus
+VBS00013,1175-S01-0013,2014-06-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_pallidus
+VBS00014,1175-S01-0014,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_pallidus
+VBS00015,1175-S01-0015,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,23,Female,Wild caught adult,,Genomic DNA,Anopheles_pallidus
+VBS00016,1175-S01-0016,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,WGA,Anopheles_philippinensis
+VBS00017,1175-S01-0017,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,24,Female,Wild caught adult,,Genomic DNA,Anopheles_philippinensis
+VBS00018,1175-S01-0018,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,4,Female,Wild caught adult,,Genomic DNA,Anopheles_philippinensis
+VBS00019,1175-S01-0019,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,23,Female,Wild caught adult,,WGA,Anopheles_philippinensis
+VBS00020,1175-S01-0020,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_philippinensis
+VBS00021,1175-S01-0021,2010-01-17,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00022,1175-S01-0022,2010-01-17,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00023,1175-S01-0023,2009-12-07,Thmar Da,Cambodia,12.155,102.735,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00024,1175-S01-0024,2009-12-07,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00025,1175-S01-0025,2010-01-17,Thmar Da,Cambodia,12.155,102.735,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00026,1175-S01-0026,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,19,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00027,1175-S01-0027,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,18,Female,Wild caught adult,,WGA,Anopheles_barbirostris
+VBS00028,1175-S01-0028,2013-08-15,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,18,Female,Wild caught adult,,WGA,Anopheles_barbirostris
+VBS00029,1175-S01-0029,2013-08-15,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,19,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00030,1175-S01-0030,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,human landing catch,23,Female,Wild caught adult,,Genomic DNA,Anopheles_barbirostris
+VBS00031,1175-S01-0031,2009-02-23,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_campestris
+VBS00032,1175-S01-0032,2009-02-25,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_campestris
+VBS00033,1175-S01-0033,2010-01-19,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_campestris
+VBS00034,1175-S01-0034,2010-01-19,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_campestris
+VBS00035,1175-S01-0035,2010-02-26,Thmar Da,Cambodia,12.155,102.735,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_campestris
+VBS00036,1175-S01-0036,2014-12-08,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_dissidens
+VBS00037,1175-S01-0037,2014-12-07,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,2,Female,Wild caught adult,,Genomic DNA,Anopheles_dissidens
+VBS00038,1175-S01-0038,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_saeungae
+VBS00039,1175-S01-0039,2013-08-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,human landing catch,20,Female,Wild caught adult,,WGA,Anopheles_saeungae
+VBS00040,1175-S01-0040,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,19,Female,Wild caught adult,,Genomic DNA,Anopheles_saeungae
+VBS00041,1175-S01-0041,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,barrier fence,20,Female,Wild caught adult,,Genomic DNA,Anopheles_saeungae
+VBS00042,1175-S01-0042,2013-08-14,Angkrong,Cambodia,12.3129167,103.570388,outdoor,CDC-light trap,,Female,Wild caught adult,,WGA,Anopheles_saeungae
+VBS00043,1175-S01-0043,2013-08-07,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_wejchoochotei
+VBS00044,1175-S01-0044,2013-08-06,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_wejchoochotei
+VBS00045,1175-S01-0045,2013-08-07,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,human landing catch,19,Female,Wild caught adult,,Genomic DNA,Anopheles_wejchoochotei
+VBS00046,1175-S01-0046,2013-08-01,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,human landing catch,22,Female,Wild caught adult,,Genomic DNA,Anopheles_wejchoochotei
+VBS00047,1175-S01-0047,2013-08-05,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,3,Female,Wild caught adult,,Genomic DNA,Anopheles_wejchoochotei
+VBS00048,1175-S01-0048,2009-11-20,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_dirus_A
+VBS00049,1175-S01-0049,2010-04-05,Thmar Da,Cambodia,12.155,102.735,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_dirus_A
+VBS00050,1175-S01-0050,2010-05-05,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_dirus_A
+VBS00051,1175-S01-0051,2009-12-07,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_dirus_A
+VBS00052,1175-S01-0052,2010-02-24,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_dirus_A
+VBS00053,1175-S01-0053,2013-08-07,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,4,Female,Wild caught adult,,WGA,Anopheles_aconitus
+VBS00054,1175-S01-0054,2013-08-07,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,1,Female,Wild caught adult,,WGA,Anopheles_aconitus
+VBS00055,1175-S01-0055,2013-08-06,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,2,Female,Wild caught adult,,WGA,Anopheles_aconitus
+VBS00056,1175-S01-0056,2013-08-06,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,2,Female,Wild caught adult,,WGA,Anopheles_aconitus
+VBS00057,1175-S01-0057,2013-08-03,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,21,Female,Wild caught adult,,WGA,Anopheles_aconitus
+VBS00058,1175-S01-0058,2009-12-06,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_minimus_A
+VBS00059,1175-S01-0059,2009-12-06,Thmar Da,Cambodia,12.155,102.735,indoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_minimus_A
+VBS00060,1175-S01-0060,2010-05-01,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_minimus_A
+VBS00061,1175-S01-0061,2010-05-02,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_minimus_A
+VBS00062,1175-S01-0062,2009-02-26,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,WGA,Anopheles_minimus_A
+VBS00063,1175-S01-0063,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,1,Female,Wild caught adult,,WGA,Anopheles_jeyporiensis
+VBS00064,1175-S01-0064,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,1,Female,Wild caught adult,,WGA,Anopheles_jeyporiensis
+VBS00065,1175-S01-0065,2013-07-22,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,5,Female,Wild caught adult,,WGA,Anopheles_jeyporiensis
+VBS00066,1175-S01-0066,2013-07-23,Sayas,Cambodia,13.5476389,107.024555,outdoor,human landing catch,24,Female,Wild caught adult,,WGA,Anopheles_jeyporiensis
+VBS00067,1175-S01-0067,2009-11-22,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,WGA,Anopheles_pampanai
+VBS00068,1175-S01-0068,2010-01-19,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_pampanai
+VBS00069,1175-S01-0069,2010-02-24,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_pampanai
+VBS00070,1175-S01-0070,2010-05-01,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_pampanai
+VBS00071,1175-S01-0071,2010-05-03,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_pampanai
+VBS00072,1175-S01-0072,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_argyropus
+VBS00073,1175-S01-0073,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,3,Female,Wild caught adult,,WGA,Anopheles_argyropus
+VBS00074,1175-S01-0074,2013-07-24,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,1,Female,Wild caught adult,,Genomic DNA,Anopheles_argyropus
+VBS00075,1175-S01-0075,2013-07-23,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,24,Female,Wild caught adult,,Genomic DNA,Anopheles_argyropus
+VBS00076,1175-S01-0076,2013-07-23,Sayas,Cambodia,13.5476389,107.024555,outdoor,cow-baited tent,4,Female,Wild caught adult,,Genomic DNA,Anopheles_argyropus
+VBS00077,1175-S01-0077,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,WGA,Anopheles_crawfordi
+VBS00078,1175-S01-0078,2013-08-12,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,19,Female,Wild caught adult,,WGA,Anopheles_crawfordi
+VBS00079,1175-S01-0079,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,3,Female,Wild caught adult,,WGA,Anopheles_crawfordi
+VBS00080,1175-S01-0080,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,18,Female,Wild caught adult,,WGA,Anopheles_crawfordi
+VBS00081,1175-S01-0081,2013-08-12,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,WGA,Anopheles_crawfordi
+VBS00082,1175-S01-0082,2010-01-19,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_hyrcanus
+VBS00083,1175-S01-0083,2010-01-21,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_hyrcanus
+VBS00084,1175-S01-0084,2010-02-24,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_hyrcanus
+VBS00085,1175-S01-0085,2009-11-23,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_hyrcanus
+VBS00086,1175-S01-0086,2009-12-06,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_hyrcanus
+VBS00087,1175-S01-0087,2014-03-14,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,4,Female,Wild caught adult,,WGA,Anopheles_peditaeniatus
+VBS00088,1175-S01-0088,2014-03-14,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,4,Female,Wild caught adult,,Genomic DNA,Anopheles_peditaeniatus
+VBS00089,1175-S01-0089,2014-03-16,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,19,Female,Wild caught adult,,WGA,Anopheles_peditaeniatus
+VBS00090,1175-S01-0090,2014-03-15,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,2,Female,Wild caught adult,,Genomic DNA,Anopheles_peditaeniatus
+VBS00091,1175-S01-0091,2014-03-15,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_peditaeniatus
+VBS00092,1175-S01-0092,2014-03-15,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,21,Female,Wild caught adult,,WGA,Anopheles_nigerrimus
+VBS00093,1175-S01-0093,2014-03-16,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,21,Female,Wild caught adult,,WGA,Anopheles_nigerrimus
+VBS00094,1175-S01-0094,2014-03-15,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,24,Female,Wild caught adult,,WGA,Anopheles_nigerrimus
+VBS00095,1175-S01-0095,2014-03-16,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,19,Female,Wild caught adult,,WGA,Anopheles_nigerrimus
+VBS00096,1175-S01-0096,2014-03-14,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,18,Female,Wild caught adult,,WGA,Anopheles_nigerrimus
+VBS00097,1175-S01-0097,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_nitidus
+VBS00098,1175-S01-0098,2014-09-08,Chamkar San,Cambodia,13.595,106.995,outdoor,cow-baited tent,4,Female,Wild caught adult,,Genomic DNA,Anopheles_nitidus
+VBS00099,1175-S01-0099,2014-09-09,Chamkar San,Cambodia,13.595,106.995,outdoor,cow-baited tent,3,Female,Wild caught adult,,Genomic DNA,Anopheles_nitidus
+VBS00100,1175-S01-0100,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,22,Female,Wild caught adult,,WGA,Anopheles_nitidus
+VBS00101,1175-S01-0101,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,19,Female,Wild caught adult,,Genomic DNA,Anopheles_nitidus
+VBS00102,1175-S01-0102,2013-08-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,human landing catch,19,Female,Wild caught adult,,Genomic DNA,Anopheles_kochi
+VBS00103,1175-S01-0103,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,Genomic DNA,Anopheles_kochi
+VBS00104,1175-S01-0104,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,24,Female,Wild caught adult,,WGA,Anopheles_kochi
+VBS00105,1175-S01-0105,2013-08-15,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,2,Female,Wild caught adult,,WGA,Anopheles_kochi
+VBS00106,1175-S01-0106,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,4,Female,Wild caught adult,,Genomic DNA,Anopheles_kochi
+VBS00107,1175-S01-0107,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_maculatus_A
+VBS00108,1175-S01-0108,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,22,Female,Wild caught adult,,WGA,Anopheles_maculatus_A
+VBS00109,1175-S01-0109,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,human landing catch,19,Female,Wild caught adult,,WGA,Anopheles_maculatus_A
+VBS00110,1175-S01-0110,2013-08-15,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,2,Female,Wild caught adult,,WGA,Anopheles_maculatus_A
+VBS00111,1175-S01-0111,2013-08-14,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,23,Female,Wild caught adult,,WGA,Anopheles_maculatus_A
+VBS00112,1175-S01-0112,2009-12-06,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_rampae
+VBS00113,1175-S01-0113,2010-02-26,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_rampae
+VBS00114,1175-S01-0114,2010-02-26,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_rampae
+VBS00115,1175-S01-0115,2010-02-26,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,Genomic DNA,Anopheles_rampae
+VBS00116,1175-S01-0116,2010-03-21,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_rampae
+VBS00117,1175-S01-0117,2013-08-14,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,WGA,Anopheles_karwari
+VBS00118,1175-S01-0118,2013-08-14,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,22,Female,Wild caught adult,,WGA,Anopheles_karwari
+VBS00119,1175-S01-0119,2013-08-14,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,3,Female,Wild caught adult,,WGA,Anopheles_karwari
+VBS00120,1175-S01-0120,2013-08-12,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,24,Female,Wild caught adult,,WGA,Anopheles_karwari
+VBS00121,1175-S01-0121,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,human landing catch,22,Female,Wild caught adult,,WGA,Anopheles_karwari
+VBS00122,1175-S01-0122,2010-02-25,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_balabacensis
+VBS00123,1175-S01-0123,2010-10-27,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_balabacensis
+VBS00124,1175-S01-0124,2010-03-17,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_jamesii
+VBS00125,1175-S01-0125,2013-08-06,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,,Female,Wild caught adult,,WGA,Anopheles_jamesii
+VBS00126,1175-S01-0126,2010-10-24,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_jamesii
+VBS00127,1175-S01-0127,2009-06-28,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_jamesii
+VBS00128,1175-S01-0128,2009-06-28,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_jamesii
+VBS00129,1175-S01-0129,2014-06-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,3,Female,Wild caught adult,,WGA,Anopheles_sinensis
+VBS00130,1175-S01-0130,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,4,Female,Wild caught adult,,WGA,Anopheles_sinensis
+VBS00131,1175-S01-0131,2014-06-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,1,Female,Wild caught adult,,WGA,Anopheles_sinensis
+VBS00132,1175-S01-0132,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_sinensis
+VBS00133,1175-S01-0133,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,WGA,Anopheles_sinensis
+VBS00134,1175-S01-0134,2013-08-06,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,24,Female,Wild caught adult,,WGA,Anopheles_splendidus
+VBS00135,1175-S01-0135,2013-08-05,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,23,Female,Wild caught adult,,Genomic DNA,Anopheles_splendidus
+VBS00136,1175-S01-0136,2013-08-05,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,23,Female,Wild caught adult,,Genomic DNA,Anopheles_splendidus
+VBS00137,1175-S01-0137,2013-08-02,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_splendidus
+VBS00138,1175-S01-0138,2013-08-02,Chean Mok,Cambodia,13.7698056,104.920388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_splendidus
+VBS00139,1175-S01-0139,2010-10-26,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_subpictus
+VBS00140,1175-S01-0140,2010-08-09,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,WGA,Anopheles_subpictus
+VBS00141,1175-S01-0141,2010-03-19,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_subpictus
+VBS00142,1175-S01-0142,2010-01-17,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,WGA,Anopheles_subpictus
+VBS00143,1175-S01-0143,2010-10-23,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_subpictus
+VBS00144,1175-S01-0144,2010-02-26,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_sundaicus
+VBS00145,1175-S01-0145,2010-03-18,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_sundaicus
+VBS00146,1175-S01-0146,2010-03-20,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_sundaicus
+VBS00147,1175-S01-0147,2010-01-18,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_sundaicus
+VBS00148,1175-S01-0148,2010-03-21,Thmar Da,Cambodia,12.155,102.735,outdoor,human landing catch,,Female,Wild caught adult,,Genomic DNA,Anopheles_sundaicus
+VBS00149,1175-S01-0149,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,WGA,Anopheles_tessellatus
+VBS00150,1175-S01-0150,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,4,Female,Wild caught adult,,WGA,Anopheles_tessellatus
+VBS00151,1175-S01-0151,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,WGA,Anopheles_tessellatus
+VBS00152,1175-S01-0152,2013-08-16,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,20,Female,Wild caught adult,,WGA,Anopheles_tessellatus
+VBS00153,1175-S01-0153,2013-08-17,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,24,Female,Wild caught adult,,WGA,Anopheles_tessellatus
+VBS00154,1175-S01-0154,2014-03-15,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,23,Female,Wild caught adult,,Genomic DNA,Anopheles_vagus
+VBS00155,1175-S01-0155,2014-03-15,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,19,Female,Wild caught adult,,Genomic DNA,Anopheles_vagus
+VBS00156,1175-S01-0156,2014-03-14,Veal ,Cambodia,12.275,103.715,outdoor,cow-baited tent,19,Female,Wild caught adult,,Genomic DNA,Anopheles_vagus
+VBS00157,1175-S01-0157,2014-06-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_vagus
+VBS00158,1175-S01-0158,2014-05-13,Angkrong,Cambodia,12.3129167,103.570388,outdoor,cow-baited tent,21,Female,Wild caught adult,,Genomic DNA,Anopheles_vagus
+VBS00159,1175-S01-0159,2009-11-22,Thmar Da,Cambodia,12.155,102.735,outdoor,CDC-light trap,,Female,Wild caught adult,,WGA,Anopheles_varuna
